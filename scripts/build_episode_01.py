@@ -2,6 +2,9 @@
 """
 Build script for THE DARK RISE — Episode 1: "Born to Die"
 Creates a properly formatted .docx file using only Python stdlib (no external deps).
+
+Rewritten 2026-07-05: All character and place names optimized for AI voice-over
+pronunciation — no consonant clusters, clear open-syllable patterns throughout.
 """
 
 import zipfile
@@ -33,18 +36,18 @@ EPISODE_CONTENT = [
         "The night the twins were born, the moon hid its face."
     )},
     {"type": "body", "text": (
-        "Amara's screams cut through the village of Iyiocha like a dull blade "
+        "Amara's screams cut through the village of Idoro like a dull blade "
         "— slow, ragged, wrong. She had been in labor since sunrise. Now it was "
         "deep night. The oil lamps in her hut burned low. They threw shadows "
         "against the mud walls. Shadows that moved when they should not have "
         "moved."
     )},
     {"type": "body", "text": (
-        "Ozioma the midwife pressed a damp cloth to Amara's forehead. Her old "
+        "Zara the midwife pressed a damp cloth to Amara's forehead. Her old "
         "hands were steady. Her eyes were not."
     )},
     {"type": "body", "text": (
-        "\"Push,\" Ozioma said. \"Again.\""
+        "\"Push,\" Zara said. \"Again.\""
     )},
     {"type": "body", "text": (
         "Amara's back arched. Outside the hut, her husband Obi could hear "
@@ -59,7 +62,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "A boy. Strong lungs. He wailed into the night and the sound was clean "
-        "and good and alive. Ozioma lifted him. She tied off the cord. She "
+        "and good and alive. Zara lifted him. She tied off the cord. She "
         "wrapped him in soft cloth the color of sunrise."
     )},
     {"type": "body", "text": (
@@ -69,7 +72,7 @@ EPISODE_CONTENT = [
         "Then she screamed again."
     )},
     {"type": "body", "text": (
-        "Ozioma looked down. Her blood went cold."
+        "Zara looked down. Her blood went cold."
     )},
     {"type": "body", "text": (
         "There was a second child."
@@ -83,7 +86,7 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "He was an old man. No one remembered his true name. They called him "
         "Dibia. He wore a necklace of cowrie shells and small bones that "
-        "clicked when he walked. He had delivered prophecies in Iyiocha for "
+        "clicked when he walked. He had delivered prophecies in Idoro for "
         "forty years, presiding over births and deaths and the spaces between."
     )},
     {"type": "body", "text": (
@@ -93,7 +96,7 @@ EPISODE_CONTENT = [
         "He pushed through the curtain and stopped."
     )},
     {"type": "body", "text": (
-        "Ozioma held the second twin up. A boy. Smaller than his brother. His "
+        "Zara held the second twin up. A boy. Smaller than his brother. His "
         "chest moved with breath. But he did not cry."
     )},
     {"type": "body", "text": (
@@ -101,11 +104,11 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "Newborns do not open their eyes. Not like that. Not looking at you. "
-        "Not looking through you. Not with a stillness that made Ozioma's "
+        "Not looking through you. Not with a stillness that made Zara's "
         "stomach knot like wet rope."
     )},
     {"type": "body", "text": (
-        "\"Twins,\" Ozioma whispered."
+        "\"Twins,\" Zara whispered."
     )},
     {"type": "body", "text": (
         "The word landed like a stone in still water."
@@ -131,10 +134,10 @@ EPISODE_CONTENT = [
     {"type": "blank", "text": ""},
 
     {"type": "body", "text": (
-        "Elder Amuka came with the morning."
+        "Elder Maka came with the morning."
     )},
     {"type": "body", "text": (
-        "She was the oldest woman in Iyiocha. She had enforced the old law "
+        "She was the oldest woman in Idoro. She had enforced the old law "
         "for sixty years. Her face was a map of rulings she could not take "
         "back. She walked with a staff of dark wood polished smooth by decades "
         "of grip. Her wrappa was the deep red of dried blood. The morning sun "
@@ -144,7 +147,7 @@ EPISODE_CONTENT = [
         "Amara held both boys against her chest. She would not look up."
     )},
     {"type": "body", "text": (
-        "\"How many?\" Elder Amuka asked."
+        "\"How many?\" Elder Maka asked."
     )},
     {"type": "body", "text": (
         "\"Two,\" the dibia said. \"Both male. The first cried strong. The "
@@ -159,7 +162,7 @@ EPISODE_CONTENT = [
         "like that.\""
     )},
     {"type": "body", "text": (
-        "Elder Amuka closed her eyes. When she opened them, something in her "
+        "Elder Maka closed her eyes. When she opened them, something in her "
         "face had turned to stone."
     )},
     {"type": "body", "text": (
@@ -175,7 +178,7 @@ EPISODE_CONTENT = [
         "He had been a strong man once. A fisherman who could wrestle a tarpon "
         "from the delta waters with his bare hands. He had survived storms "
         "that swallowed boats whole. He had looked into the black mouth of the "
-        "Ojiaku during flood season and dared it to take him."
+        "Oji during flood season and dared it to take him."
     )},
     {"type": "body", "text": (
         "Now his hands hung at his sides like dead things."
@@ -186,7 +189,7 @@ EPISODE_CONTENT = [
         "You cannot ask her to give one back.\""
     )},
     {"type": "body", "text": (
-        "Elder Amuka did not look at him. She kept her eyes on the infant "
+        "Elder Maka did not look at him. She kept her eyes on the infant "
         "whose eyes were still open. Still watching."
     )},
     {"type": "body", "text": (
@@ -205,12 +208,12 @@ EPISODE_CONTENT = [
     {"type": "blank", "text": ""},
 
     {"type": "body", "text": (
-        "Everyone in Iyiocha had seen."
+        "Everyone in Idoro had seen."
     )},
     {"type": "body", "text": (
         "There had been a family. Three villages over. Five years ago. They kept "
         "their abiku. They named her. They loved her. They defied the old law "
-        "and Elder Amuka herself."
+        "and Elder Maka herself."
     )},
     {"type": "body", "text": (
         "For three years, the thing wore the face of their daughter."
@@ -231,7 +234,7 @@ EPISODE_CONTENT = [
     {"type": "blank", "text": ""},
 
     {"type": "body", "text": (
-        "They named the first-born Ekene."
+        "They named the first-born Kene."
     )},
     {"type": "body", "text": (
         "It means thanksgiving. It meant: thank the spirits this one is ours to "
@@ -272,14 +275,14 @@ EPISODE_CONTENT = [
         "knuckles into the red earth."
     )},
     {"type": "body", "text": (
-        "\"The child will not suffer,\" the dibia said. \"Ohia Nso takes "
+        "\"The child will not suffer,\" the dibia said. \"Oso takes "
         "quickly.\""
     )},
     {"type": "body", "text": (
         "This was a lie and everyone knew it."
     )},
     {"type": "body", "text": (
-        "Ohia Nso was the forbidden bush. Three miles past the village boundary. "
+        "Oso was the forbidden bush. Three miles past the village boundary. "
         "A place where trees grew twisted, where roots broke through the soil "
         "like the fingers of buried things. A place where birds did not sing "
         "and the ground was always cold, even under a burning noon sun. "
@@ -304,7 +307,7 @@ EPISODE_CONTENT = [
     {"type": "blank", "text": ""},
 
     {"type": "body", "text": (
-        "Ohia Nso was dark when the dibia reached its edge."
+        "Oso was dark when the dibia reached its edge."
     )},
     {"type": "body", "text": (
         "The sky was the color of a bruise. The trees at the boundary leaned "
@@ -315,7 +318,7 @@ EPISODE_CONTENT = [
         "The dibia stopped."
     )},
     {"type": "body", "text": (
-        "No one entered Ohia Nso. Not the dibia. Not Elder Amuka. Not the "
+        "No one entered Oso. Not the dibia. Not Elder Maka. Not the "
         "Eze himself. The law said you left the child at the boundary. You "
         "did not step inside. What happened after that was between the child "
         "and whatever lived in the dark."
@@ -399,7 +402,7 @@ EPISODE_CONTENT = [
         "That was the old compact. The forest gave nothing back. It received "
         "the cursed, the abandoned, the unwanted — and kept them. Every infant "
         "ever laid at its boundary. Dozens. Scores. More than anyone in "
-        "Iyiocha remembered."
+        "Idoro remembered."
     )},
     {"type": "body", "text": (
         "But this child was different."
@@ -420,7 +423,7 @@ EPISODE_CONTENT = [
 
     # System lines — sparingly used, bold all-caps
     {"type": "system", "text": "CONDITION: BOUND — THE OLD COMPACT IS SEALED."},
-    {"type": "system", "text": "HOST STATUS: MARKED — THE ABANDONED CHILD OF IYIOCHA."},
+    {"type": "system", "text": "HOST STATUS: MARKED — THE ABANDONED CHILD OF IDORO."},
     {"type": "system", "text": "ENTITY STATUS: AWAKENING — AFTER THREE HUNDRED YEARS OF SILENCE."},
 
     {"type": "blank", "text": ""},
@@ -439,7 +442,7 @@ EPISODE_CONTENT = [
 
     # ── Cut to the palace ──
     {"type": "body", "text": (
-        "Three hundred miles away, Eze Amanze sat on the ancient throne of "
+        "Three hundred miles away, Eze Amadi sat on the ancient throne of "
         "the Kingdom of Ijendu and heard nothing of this."
     )},
     {"type": "body", "text": (
@@ -454,7 +457,7 @@ EPISODE_CONTENT = [
         "decades in the palace. They did not survive by accident."
     )},
     {"type": "body", "text": (
-        "Eze Amanze was sixty years old. He had ruled for twenty of them. His "
+        "Eze Amadi was sixty years old. He had ruled for twenty of them. His "
         "beard was grey and close-cut. His robes were purple and gold. His "
         "eyes were the kind of tired that sleep could not fix."
     )},
@@ -465,9 +468,9 @@ EPISODE_CONTENT = [
         "\"Rise,\" the Eze said. \"Speak.\""
     )},
     {"type": "body", "text": (
-        "\"Eze, the delta villages report strange signs. Fishermen near Iyiocha "
+        "\"Eze, the delta villages report strange signs. Fishermen near Idoro "
         "say the waters have gone still. No current. No fish. Elders say the "
-        "trees in Ohia Nso have begun to grow toward each other. As if bowing "
+        "trees in Oso have begun to grow toward each other. As if bowing "
         "to something at the center.\""
     )},
     {"type": "body", "text": (
@@ -491,7 +494,7 @@ EPISODE_CONTENT = [
         "\"No, Eze. Nothing real.\""
     )},
     {"type": "body", "text": (
-        "Eze Amanze waved a hand. The gesture said: this audience is over. "
+        "Eze Amadi waved a hand. The gesture said: this audience is over. "
         "The gesture said: the Kingdom has real problems. Trade disputes. "
         "Nobles who would put a knife in his back for the throne. He did not "
         "have time for ghost stories from fishing villages."
@@ -507,7 +510,7 @@ EPISODE_CONTENT = [
 
     {"type": "blank", "text": ""},
 
-    # ── Return to Ohia Nso — the hook ──
+    # ── Return to Oso — the hook ──
     {"type": "body", "text": (
         "Far to the south, night had fully claimed the forbidden bush."
     )},
@@ -665,7 +668,7 @@ def make_body_paragraph(text, spacing_after=60, spacing_line=360):
                           first_line_indent=360)  # 0.25 inch indent
 
 def make_system_paragraph(text, spacing_after=120, spacing_line=360):
-    """Create a bold, all-caps system status paragraph."""
+    """Create a bold, all-caps system paragraph."""
     runs = [make_run(text, bold=True, font_size=24, caps=True)]
     return make_paragraph(runs, spacing_after=spacing_after,
                           spacing_line=spacing_line, alignment="left",
@@ -822,7 +825,7 @@ def count_words():
 def main():
     print("=" * 60)
     print("  THE DARK RISE — Episode 1: \"Born to Die\"")
-    print("  Build Script")
+    print("  Build Script (AI voice-over optimized names)")
     print("=" * 60)
     print()
 

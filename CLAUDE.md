@@ -65,24 +65,24 @@ established.**
 ### People
 | Name | Role | Status (as of latest episode) |
 |---|---|---|
-| Amara | Mother of the twins | Alive, Iyiocha |
-| Obiajulu ("Obi") | Father of the twins | Alive, Iyiocha |
-| Ozioma | Village midwife | Alive, Iyiocha |
-| Elder Amuka | Elder priestess, enforces the old law | Alive, Iyiocha |
-| Ekene | Surviving (first-born) twin | Alive, infant, Iyiocha — future foil/rival to the protagonist |
-| *(unnamed)* | Abandoned (second-born) twin / protagonist | Alive, taken by the presence in Ohia Nso |
-| Eze Amanze | Ruling king, Kingdom of Ijendu, throned at Igweudo | Alive, unaware of the protagonist |
-| *(unnamed dibia)* | Village diviner/healer, present at the birth | Alive, Iyiocha |
-| *(unnamed entity)* | Ancient presence beneath Ohia Nso | Active — true name/nature not yet revealed |
+| Amara | Mother of the twins | Alive, Idoro |
+| Obi | Father of the twins | Alive, Idoro |
+| Zara | Village midwife | Alive, Idoro |
+| Elder Maka | Elder priestess, enforces the old law | Alive, Idoro |
+| Kene | Surviving (first-born) twin | Alive, infant, Idoro — future foil/rival to the protagonist |
+| *(unnamed)* | Abandoned (second-born) twin / protagonist | Alive, taken by the presence in Oso |
+| Eze Amadi | Ruling king, Kingdom of Ijendu, throned at Udo | Alive, unaware of the protagonist |
+| *(unnamed dibia)* | Village diviner/healer, present at the birth | Alive, Idoro |
+| *(unnamed entity)* | Ancient presence beneath Oso | Active — true name/nature not yet revealed |
 
 ### Places
 | Name | What it is |
 |---|---|
 | Kingdom of Ijendu | The nation; ruled by an Eze from the capital |
-| Igweudo | Capital city, seat of the throne |
-| Ojiaku Delta | Oil-rich, foreign-exploited delta region |
-| Iyiocha | Village where the story begins, in the Ojiaku Delta |
-| Ohia Nso | The "forbidden bush" where cursed children are abandoned |
+| Udo | Capital city, seat of the throne |
+| Oji Delta | Oil-rich, foreign-exploited delta region |
+| Idoro | Village where the story begins, in the Oji Delta |
+| Oso | The "forbidden bush" where cursed children are abandoned |
 
 ### Titles / Concepts
 | Term | Meaning in-story |
@@ -107,7 +107,7 @@ table before or immediately after the episode that introduces them.
   the human scenes — never overused. Cap at 1–3 short system-style lines per
   episode, and only when something genuinely changes (a new ability, a new
   threat detected, a level/condition shift).
-- The entity in Ohia Nso should stay ambiguous and unsettling for as long as
+- The entity in Oso should stay ambiguous and unsettling for as long as
   possible. It is not simply "good" or "evil" — it is patient, transactional,
   and has its own agenda. Do not rush to explain it fully; every reveal about
   its nature should cost the protagonist something.
@@ -129,11 +129,11 @@ should only feel that it rings true.
    a merchant-king lured into a trap under false promise of negotiation,
    exiled, dies before reaching home.
 2. **Twin-killing law** (in progress, Episodes 1+) — the old law, the Evil-Forest
-   equivalent (Ohia Nso), the abiku belief.
+   equivalent (Oso), the abiku belief.
 3. **Colonial-era segregation** (not literal apartheid) — reserved
    districts, unequal status between colonizers/administrators and locals —
    available as a mid-series arc about a divided city.
-4. **Oil exploitation of the delta** — ongoing backdrop (Ojiaku Delta),
+4. **Oil exploitation of the delta** — ongoing backdrop (Oji Delta),
    foreign Houses draining wealth while poisoning the people who live there.
 5. **A truth-telling scribe killed by a cursed/trapped parcel** (Dele Giwa
    parallel) — a journalist or court scribe who exposes the crown's secrets,
@@ -227,10 +227,10 @@ authentic texture, never quoted or copied.)
 Keep a running one-line-per-episode log here so continuity can be checked
 at a glance without rereading everything.
 
-- **Episode 1 — "Born to Die":** Twins born in Iyiocha to Amara and
-  Obiajulu; second-born abandoned in Ohia Nso per the old abiku law; claimed
-  by an ancient, unnamed presence. Introduces Eze Amanze and the Kingdom of
-  Ijendu.
+- **Episode 1 — "Born to Die" (rewritten 2026-07-05 for AI voice-over
+  clarity):** Twins born in Idoro to Amara and Obi; second-born abandoned in
+  Oso per the old abiku law; claimed by an ancient, unnamed presence.
+  Introduces Eze Amadi and the Kingdom of Ijendu.
 
 ---
 
