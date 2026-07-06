@@ -16,7 +16,7 @@ that episode.
   slow accumulation of strength, court intrigue, betrayal, vengeance.
 - Setting: a fully fictional West African-inspired world. **No real countries,
   leaders, or historical figures are named anywhere in the story.** Real
-  Nigerian history (see Section 5) is the emotional and structural skeleton,
+  Nigerian history (see Section 6) is the emotional and structural skeleton,
   never the surface. If a plot beat maps directly onto a real assassination,
   election, or execution, it must be fictionalized in every detail — names,
   dates, exact methods, dialogue — before it goes in an episode.
@@ -25,22 +25,97 @@ that episode.
   logic) but must not be copied from existing novels, real public figures, or
   overused clichés (avoid reusing names like Okonkwo, Ikemefuna, Chukwu,
   Adaeze, Ngozi, Chinedu as-is — invent adjacent, fresher names in the same
-  spirit). See Section 3 for the living name registry.
+  spirit). See Section 4 for the living name registry.
 - Audio-first prose: every sentence must work read aloud, cold, with no
   visual aid. Short sentences. Concrete images. Minimal subordinate clauses.
-  No sentence should require re-reading to parse.
+  No sentence should require re-reading to parse. **All rules in Section 2
+  (Pocket FM AI Audio Guidelines) apply to every sentence — read that section
+  before drafting.**
+- Target audience: men and women, young adults and up. The show title ("The
+  Dark Rise") is already set; any future arc subtitles must be concise,
+  evocative, and genre-resonant (see Pocket FM titling guidance in Section 2).
 
 ---
 
-## 2. EPISODE FORMAT — NON-NEGOTIABLE
+## 2. POCKET FM AI AUDIO GUIDELINES — NON-NEGOTIABLE
+
+Chapters are converted into audio episodes through AI voice technology.
+Every sentence must be written for clean AI narration. These rules are
+non-negotiable — violations produce awkward, unlistenable audio.
+
+### 2.1 Typing Precision
+- **Zero tolerance for typos.** AI reads literally — it cannot identify or
+  correct mistakes. "Radhel" typed instead of "Rachel" will be spoken as
+  "Radhel." Proofread every line before committing.
+- **No stammer or stutter words.** "b-b-baby" or "wh-what" kill AI flow.
+  Write smooth, coherent speech every time.
+
+### 2.2 Full Words — No Abbreviations
+- **Write complete words only.** AI narration requires full forms for
+  natural cadence.
+  - "Doctor" not "Dr." (AI reads "Dr." as "Doctor" with an awkward pause)
+  - "Mister" not "Mr."
+  - Spell out all titles, honorifics, and common short forms.
+- This applies to everything: "versus" not "vs.", "Saint" not "St.", and so
+  on.
+
+### 2.3 Numbers as Words
+- **Write all numbers in word form.** AI misinterprets digit strings.
+  - "ten thousand" not "10,000"
+  - "fifty thousand dollars" not "$50,000"
+  - "call nine one one" not "call 911"
+  - "one point seven million" not "1.7 million"
+  - "thirty thousand" not "30K"
+- When a numeric comma IS used, always English format: "281,000."
+
+### 2.4 Punctuation Rules
+- **No clustered punctuation.** Never use !!!, ...., ?!, ****, or any
+  multi-mark grouping. One exclamation point. One question mark. An ellipsis
+  is three dots, once — not six, not twelve.
+- **No hyphens.** Write compound terms without hyphens for cleaner AI flow.
+  "well known" not "well-known." "newly built" not "newly-built."
+
+### 2.5 No Episode Metadata in Body Text
+- **Episode numbers and titles stay out of the narration body.** They belong
+  in the file name and title page only. The AI reads everything in the body
+  aloud — if it speaks "Episode Two: The Return" mid-story, immersion breaks.
+
+### 2.6 Sensory Description — No Onomatopoeia
+- **Never use sound-effect words.** No "tch tch," "tsk tsk," "bang," "boom,"
+  "slam," "haha," "crash," etc. as standalone effects. Instead, write full
+  descriptive sentences:
+  - ✗ "Bang! The door slammed shut."
+  - ✓ "The door slammed shut with a heavy crash that echoed through the
+    empty hall."
+  - ✗ "Haha, very funny."
+  - ✓ "She laughed, a short sharp sound with no warmth in it."
+
+### 2.7 Heteronym Awareness
+- **Minimize heteronyms** — words spelled identically but pronounced
+  differently by meaning. Example: "residential address" vs. "she addressed
+  him." When a heteronym is unavoidable, ensure the surrounding context
+  forces the intended pronunciation.
+
+### 2.8 No Repetitive Echo Phrases
+- **Avoid echo words.** "Yes yes," "okay okay," "no no no" — these read as
+  stuttering redundancy in AI narration. Write each beat once, cleanly.
+
+### 2.9 License Plates and Letter Sequences
+- **Insert spaces between individual letters** when referencing license
+  plates or letter codes: "Y U N four five seven eight" not "YUN 4578."
+  This ensures the AI pronounces each character distinctly.
+
+---
+
+## 3. EPISODE FORMAT — NON-NEGOTIABLE
 
 - **Length: 11–15 minutes of narration per episode.** At a spoken pace of
   130–150 words/minute, that means a **target word count of 1,550–2,150
   words**, aiming for the 1,700–1,900 sweet spot. Always run the word count
-  after drafting (see Section 8 — Build & Verify Checklist) and adjust before
+  after drafting (see Section 9 — Build & Verify Checklist) and adjust before
   finalizing. Never ship an episode outside the 11–15 minute range.
 - **One episode = one .docx file**, titled `The_Dark_Rise_Episode_##.docx`,
-  formatted per Section 7.
+  formatted per Section 8.
 - **Every episode ends on a hook.** No exceptions. The last line must do one
   of: reveal a threat, reveal a betrayal, reveal a hidden truth, cut away at
   the worst possible moment, or drop a piece of information that recontextualizes
@@ -52,10 +127,13 @@ that episode.
   something specific and nameable (grief, dread, triumph, betrayal, tenderness)
   — not just "things happened." Suspense without an emotional anchor goes flat
   over 1000 episodes.
+- **Daily publishing cadence.** Pocket FM audiences expect fresh content every
+  day. Use the schedule-ahead feature to maintain a consistent daily release
+  rhythm. Never miss a day if you can avoid it.
 
 ---
 
-## 3. LIVING NAME REGISTRY
+## 4. LIVING NAME REGISTRY
 
 **Update this table every time a new named person, place, or title is
 introduced. Never introduce a new name without checking it isn't already
@@ -97,7 +175,7 @@ table before or immediately after the episode that introduces them.
 
 ---
 
-## 4. THE POWER SYSTEM
+## 5. THE POWER SYSTEM
 
 - The power binding the protagonist is **not** a generic floating game-menu.
   It is framed through real Igbo/Yoruba cosmology (abiku/ogbanje spirit-child
@@ -117,7 +195,7 @@ table before or immediately after the episode that introduces them.
 
 ---
 
-## 5. HISTORICAL SKELETON (INTERNAL REFERENCE — NEVER SURFACE DIRECTLY)
+## 6. HISTORICAL SKELETON (INTERNAL REFERENCE — NEVER SURFACE DIRECTLY)
 
 Use these as structural/emotional templates for future arcs. Always
 fictionalize completely — different names, different specific details,
@@ -163,7 +241,7 @@ freely for pacing — this is scaffolding, not a rigid outline.
 
 ---
 
-## 6. LITERARY/CULTURAL TEXTURE TO DRAW ON
+## 7. LITERARY/CULTURAL TEXTURE TO DRAW ON
 
 (Researched from Chinua Achebe's novels and Igbo/Yoruba folklore — used for
 authentic texture, never quoted or copied.)
@@ -178,7 +256,7 @@ authentic texture, never quoted or copied.)
   specific character or scene, use the shape of it).
 - **Ogbanje/Abiku belief**: spirit-child dies and returns to torment its
   family; a *dibia* searches for a buried *iyi-uwa* to break the cycle. This
-  is our core supernatural mechanic (see Section 4).
+  is our core supernatural mechanic (see Section 5).
 - **A Man of the People / Anthills of the Savannah**: Achebe himself used a
   fictional stand-in country ("Kangan") to tell Nigeria's political story —
   validates our approach. Useful character templates: a dictator known only
@@ -189,7 +267,7 @@ authentic texture, never quoted or copied.)
 
 ---
 
-## 7. DOCUMENT FORMAT
+## 8. DOCUMENT FORMAT
 
 - US Letter page size, 1-inch margins, body font Georgia 12pt, 1.5 line
   spacing.
@@ -201,7 +279,7 @@ authentic texture, never quoted or copied.)
 
 ---
 
-## 8. BUILD & VERIFY CHECKLIST (every episode, no skipping)
+## 9. BUILD & VERIFY CHECKLIST (every episode, no skipping)
 
 1. Draft the episode in a Node/docx script (see prior build scripts as
    template).
@@ -213,16 +291,16 @@ authentic texture, never quoted or copied.)
    130–150 wpm). Adjust and rebuild if outside range.
 3. Convert to PDF and rasterize 1–2 pages to visually confirm formatting
    before delivery.
-4. Update Section 3 (Living Name Registry) with any new names/status changes.
-5. Update the CHANGELOG (Section 9) with a one-line summary of the episode.
+4. Update Section 4 (Living Name Registry) with any new names/status changes.
+5. Update the CHANGELOG (Section 10) with a one-line summary of the episode.
 6. Copy final .docx to `/mnt/user-data/outputs/` and deliver via
    `present_files`.
-7. Commit and push to GitHub (see Section 10) — **do this at the end of
+7. Commit and push to GitHub (see Section 11) — **do this at the end of
    every episode, without being asked.**
 
 ---
 
-## 9. CHANGELOG
+## 10. CHANGELOG
 
 Keep a running one-line-per-episode log here so continuity can be checked
 at a glance without rereading everything.
@@ -234,7 +312,7 @@ at a glance without rereading everything.
 
 ---
 
-## 10. GIT / GITHUB WORKFLOW
+## 11. GIT / GITHUB WORKFLOW
 
 At the end of every episode:
 ```
@@ -243,5 +321,5 @@ git commit -m "Episode ##: [short title] — [one-line summary]"
 git push origin main
 ```
 Never batch multiple episodes into one commit. Never push without first
-completing the Section 8 checklist. If a push fails (auth/remote issue),
+completing the Section 9 checklist. If a push fails (auth/remote issue),
 stop and flag it — don't silently skip it.
