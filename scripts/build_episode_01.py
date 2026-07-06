@@ -5,6 +5,10 @@ Creates a properly formatted .docx file using only Python stdlib (no external de
 
 Rewritten 2026-07-05: All character and place names optimized for AI voice-over
 pronunciation — no consonant clusters, clear open-syllable patterns throughout.
+
+Updated 2026-07-06: Pocket FM AI audio compliance pass — all hyphens removed
+(firstborn, secondborn, spirit child, iyi uwa, close cut), numbers converted to
+word form (Episode One), end markers removed from narration body per Section 2.5.
 """
 
 import zipfile
@@ -27,7 +31,7 @@ EPISODE_CONTENT = [
     # ── Title page ──
     {"type": "title_series", "text": "THE DARK RISE"},
     {"type": "title_subtitle", "text": "Book One: The Abandoned"},
-    {"type": "title_ep_num", "text": "Episode 1"},
+    {"type": "title_ep_num", "text": "Episode One"},
     {"type": "title_ep_name", "text": "Born to Die"},
     {"type": "page_break", "text": ""},
 
@@ -66,7 +70,7 @@ EPISODE_CONTENT = [
         "wrapped him in soft cloth the color of sunrise."
     )},
     {"type": "body", "text": (
-        "A healthy son. A first-born son. Amara wept with relief."
+        "A healthy son. A firstborn son. Amara wept with relief."
     )},
     {"type": "body", "text": (
         "Then she screamed again."
@@ -117,18 +121,18 @@ EPISODE_CONTENT = [
         "In the Kingdom of Ijendu, twins were not a double blessing. They were "
         "a sign. A rupture in the natural order. The old law said: when two are "
         "born together, one belongs to the living and one belongs to the "
-        "spirits. An abiku. A spirit-child. A thing that would die and return, "
+        "spirits. An abiku. A spirit child. A thing that would die and return, "
         "die and return, tormenting its bloodline until the family was ash or "
-        "the iyi-uwa was found and shattered."
+        "the iyi uwa was found and shattered."
     )},
     {"type": "body", "text": (
-        "The law said the second-born was the abiku."
+        "The law said the secondborn was the abiku."
     )},
     {"type": "body", "text": (
-        "The law said the second-born must be taken to the forbidden bush."
+        "The law said the secondborn must be taken to the forbidden bush."
     )},
     {"type": "body", "text": (
-        "The law said the second-born must not return."
+        "The law said the secondborn must not return."
     )},
 
     {"type": "blank", "text": ""},
@@ -234,7 +238,7 @@ EPISODE_CONTENT = [
     {"type": "blank", "text": ""},
 
     {"type": "body", "text": (
-        "They named the first-born Kene."
+        "They named the firstborn Kene."
     )},
     {"type": "body", "text": (
         "It means thanksgiving. It meant: thank the spirits this one is ours to "
@@ -242,7 +246,7 @@ EPISODE_CONTENT = [
         "for letting grief be partial."
     )},
     {"type": "body", "text": (
-        "They did not name the second-born."
+        "They did not name the secondborn."
     )},
     {"type": "body", "text": (
         "At dusk, the dibia wrapped the second twin in a cloth marked with "
@@ -458,7 +462,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "Eze Amadi was sixty years old. He had ruled for twenty of them. His "
-        "beard was grey and close-cut. His robes were purple and gold. His "
+        "beard was grey and close cut. His robes were purple and gold. His "
         "eyes were the kind of tired that sleep could not fix."
     )},
     {"type": "body", "text": (
@@ -549,10 +553,6 @@ EPISODE_CONTENT = [
     )},
 
     {"type": "blank", "text": ""},
-
-    # ── End markers ──
-    {"type": "end_marker", "text": "End of Episode 1"},
-    {"type": "next_teaser", "text": "Next: Episode 2 — \"The Hunger Begins\""},
 ]
 
 
@@ -723,12 +723,6 @@ def build_document_xml():
             para = make_body_paragraph(text)
         elif typ == "system":
             para = make_system_paragraph(text)
-        elif typ == "end_marker":
-            para = make_title_paragraph(text, font_size=24, bold=True,
-                                        alignment="center", spacing_after=120)
-        elif typ == "next_teaser":
-            para = make_title_paragraph(text, font_size=22, bold=False,
-                                        alignment="center", spacing_after=0)
         elif typ == "blank":
             para = make_blank_paragraph()
         else:

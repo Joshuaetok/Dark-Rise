@@ -179,7 +179,7 @@ table before or immediately after the episode that introduces them.
 
 - The power binding the protagonist is **not** a generic floating game-menu.
   It is framed through real Igbo/Yoruba cosmology (abiku/ogbanje spirit-child
-  belief, dibia, iyi-uwa) filtered through something ancient and hungry that
+  belief, dibia, iyi uwa) filtered through something ancient and hungry that
   has claimed him. System-style status/condition lines (as used in Episode 1)
   are permitted sparingly, for cold, clinical contrast against the warmth of
   the human scenes — never overused. Cap at 1–3 short system-style lines per
@@ -255,7 +255,7 @@ authentic texture, never quoted or copied.)
   (powerful template for a future betrayal/sacrifice arc — do not copy the
   specific character or scene, use the shape of it).
 - **Ogbanje/Abiku belief**: spirit-child dies and returns to torment its
-  family; a *dibia* searches for a buried *iyi-uwa* to break the cycle. This
+  family; a *dibia* searches for a buried *iyi uwa* to break the cycle. This
   is our core supernatural mechanic (see Section 5).
 - **A Man of the People / Anthills of the Savannah**: Achebe himself used a
   fictional stand-in country ("Kangan") to tell Nigeria's political story —
@@ -274,8 +274,9 @@ authentic texture, never quoted or copied.)
 - Title page elements: series title (THE DARK RISE), book/arc subtitle,
   episode number, episode title.
 - Bold, all-caps for any in-world "system" status lines.
-- End every episode with:
-  `End of Episode ##` and `(Next: Episode ## — [teaser title])`
+- Per Section 2.5, episode numbers and titles must not appear in the
+  narration body — they belong in the file name and title page only.
+  The story ends on its hook, with no spoken "End of Episode" marker.
 
 ---
 
@@ -309,6 +310,11 @@ at a glance without rereading everything.
   clarity):** Twins born in Idoro to Amara and Obi; second-born abandoned in
   Oso per the old abiku law; claimed by an ancient, unnamed presence.
   Introduces Eze Amadi and the Kingdom of Ijendu.
+- **Episode 1 — Pocket FM compliance pass (2026-07-06):** Hyphens removed
+  throughout (firstborn, secondborn, spirit child, iyi uwa, close cut),
+  digits converted to word form (Episode One), end markers removed from
+  narration body per Section 2.5. CLAUDE.md reorganized with new Section 2
+  for Pocket FM AI Audio Guidelines.
 
 ---
 
