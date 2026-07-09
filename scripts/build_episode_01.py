@@ -328,7 +328,7 @@ EPISODE_CONTENT = [
         "and whatever lived in the dark."
     )},
     {"type": "body", "text": (
-        "He laid the bundle at the base of an akpu tree. The cloth was white. "
+        "He laid the bundle at the base of an Ak'pu tree. The cloth was white. "
         "In the fading light, it glowed like a small ghost."
     )},
     {"type": "body", "text": (
@@ -519,7 +519,7 @@ EPISODE_CONTENT = [
         "Far to the south, night had fully claimed the forbidden bush."
     )},
     {"type": "body", "text": (
-        "The infant lay at the base of the akpu tree. The white cloth was "
+        "The infant lay at the base of the Ak'pu tree. The white cloth was "
         "soaked with dew. The air was cold."
     )},
     {"type": "body", "text": (

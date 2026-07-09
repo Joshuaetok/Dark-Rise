@@ -215,6 +215,7 @@ established.**
 | Oji Delta | Oil-rich, foreign-exploited delta region |
 | Idoro | Village where the story begins, in the Oji Delta |
 | Oso | The "forbidden bush" where cursed children are abandoned |
+| Ak'pu tree | Ancient tree at the boundary of Oso; where abandoned children are laid |
 
 ### Titles / Concepts
 | Term | Meaning in-story |
