@@ -204,8 +204,8 @@ established.**
 | Kene | Surviving (first-born) twin | Alive, infant, Idoro — future foil/rival to the protagonist |
 | *(unnamed)* | Abandoned (second-born) twin / protagonist | Alive, taken by the presence in Oso |
 | Eze Amadi | Ruling king, Kingdom of Ijendu, throned at Udo | Alive, unaware of the protagonist |
-| *(unnamed dibia)* | Village diviner/healer, present at the birth | Alive, Idoro |
-| *(unnamed entity)* | Ancient presence beneath Oso | Active — true name/nature not yet revealed |
+| *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | Alive, Idoro — has realized the child was not an abiku but a vessel for something ancient; silenced by the entity when he tried to warn the village |
+| *(unnamed entity)* | Ancient presence beneath Oso | Active — bonded with the abandoned child as its vessel; true name/nature not yet revealed |
 
 ### Places
 | Name | What it is |
@@ -376,6 +376,15 @@ at a glance without rereading everything.
 - **Episode 1 — lore cleanup (2026-07-09):** Removed iyi uwa concept from
   episode text, name registry, and all CLAUDE.md sections. Renamed Ak'pu tree
   → ak-pu tree.
+- **Episode 2 — "The Hunger Beneath" (2026-07-09):** The entity bonds with
+  the abandoned child in Oso, beginning a fusion that will transform the
+  infant into a vessel for its return. Amara and Obi grapple with grief and
+  guilt in Idoro; Amara's silent defiance of Elder Maka is noted. The dibia
+  discovers through failed divination that the secondborn was never an abiku
+  — something far older has claimed him, and the entity silences the dibia
+  when he tries to warn the village. The child moves with purpose for the
+  first time, and the episode closes on the entity's first message through
+  him: "I am coming."
 
 ---
 
