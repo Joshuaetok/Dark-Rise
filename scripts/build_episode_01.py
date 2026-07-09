@@ -122,8 +122,7 @@ EPISODE_CONTENT = [
         "a sign. A rupture in the natural order. The old law said: when two are "
         "born together, one belongs to the living and one belongs to the "
         "spirits. An abiku. A spirit child. A thing that would die and return, "
-        "die and return, tormenting its bloodline until the family was ash or "
-        "the iyi uwa was found and shattered."
+        "die and return, tormenting its bloodline until the family was ash."
     )},
     {"type": "body", "text": (
         "The law said the secondborn was the abiku."
@@ -328,7 +327,7 @@ EPISODE_CONTENT = [
         "and whatever lived in the dark."
     )},
     {"type": "body", "text": (
-        "He laid the bundle at the base of an Ak'pu tree. The cloth was white. "
+        "He laid the bundle at the base of an ak-pu tree. The cloth was white. "
         "In the fading light, it glowed like a small ghost."
     )},
     {"type": "body", "text": (
@@ -519,7 +518,7 @@ EPISODE_CONTENT = [
         "Far to the south, night had fully claimed the forbidden bush."
     )},
     {"type": "body", "text": (
-        "The infant lay at the base of the Ak'pu tree. The white cloth was "
+        "The infant lay at the base of the ak-pu tree. The white cloth was "
         "soaked with dew. The air was cold."
     )},
     {"type": "body", "text": (

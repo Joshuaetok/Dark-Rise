@@ -215,7 +215,7 @@ established.**
 | Oji Delta | Oil-rich, foreign-exploited delta region |
 | Idoro | Village where the story begins, in the Oji Delta |
 | Oso | The "forbidden bush" where cursed children are abandoned |
-| Ak'pu tree | Ancient tree at the boundary of Oso; where abandoned children are laid |
+| ak-pu tree | Ancient tree at the boundary of Oso; where abandoned children are laid |
 
 ### Titles / Concepts
 | Term | Meaning in-story |
@@ -223,7 +223,6 @@ established.**
 | Eze | King/ruler |
 | Abiku | A child believed to be a spirit that dies and returns to torment its family — the in-world explanation for what the protagonist is believed to be |
 | Dibia | Traditional healer/diviner who communes with spirits |
-| Iyi-uwa (reserved for future use) | A buried object anchoring a spirit-child to the mortal world — planned mechanic for how the protagonist's power/curse can eventually be understood, found, or broken |
 
 **Rule:** any new named character, village, or title must be added to this
 table before or immediately after the episode that introduces them.
@@ -234,7 +233,7 @@ table before or immediately after the episode that introduces them.
 
 - The power binding the protagonist is **not** a generic floating game-menu.
   It is framed through real Igbo/Yoruba cosmology (abiku/ogbanje spirit-child
-  belief, dibia, iyi uwa) filtered through something ancient and hungry that
+  belief and dibia divination) filtered through something ancient and hungry that
   has claimed him. System-style status/condition lines (as used in Episode 1)
   are permitted sparingly, for cold, clinical contrast against the warmth of
   the human scenes — never overused. Cap at 1–3 short system-style lines per
@@ -310,8 +309,8 @@ authentic texture, never quoted or copied.)
   (powerful template for a future betrayal/sacrifice arc — do not copy the
   specific character or scene, use the shape of it).
 - **Ogbanje/Abiku belief**: spirit-child dies and returns to torment its
-  family; a *dibia* searches for a buried *iyi uwa* to break the cycle. This
-  is our core supernatural mechanic (see Section 6).
+  family; a *dibia* works to break the cycle through ritual and divination.
+  This is our core supernatural mechanic (see Section 6).
 - **A Man of the People / Anthills of the Savannah**: Achebe himself used a
   fictional stand-in country ("Kangan") to tell Nigeria's political story —
   validates our approach. Useful character templates: a dictator known only
@@ -374,6 +373,9 @@ at a glance without rereading everything.
   Principles) covering plot-as-blueprint, three-act structure, conflict,
   character basics, and story threads. All sections renumbered 2–11 → 3–12;
   all cross-references updated.
+- **Episode 1 — lore cleanup (2026-07-09):** Removed iyi uwa concept from
+  episode text, name registry, and all CLAUDE.md sections. Renamed Ak'pu tree
+  → ak-pu tree.
 
 ---
 
