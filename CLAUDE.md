@@ -197,15 +197,15 @@ established.**
 ### People
 | Name | Role | Status (as of latest episode) |
 |---|---|---|
-| Amara | Mother of the twins | Alive, Idoro |
-| Obi | Father of the twins | Alive, Idoro |
+| Amara | Mother of the twins | Alive, Idoro — grief has hardened into cold, calculating resolve; secretly gathering information about the old law and its victims |
+| Obi | Father of the twins | Alive, Idoro — a shadow of himself; goes to the river but does not fish, present but absent |
 | Zara | Village midwife | Alive, Idoro |
 | Elder Maka | Elder priestess, enforces the old law | Alive, Idoro |
 | Kene | Surviving (first-born) twin | Alive, infant, Idoro — future foil/rival to the protagonist |
-| *(unnamed)* | Abandoned (second-born) twin / protagonist | Alive, taken by the presence in Oso |
+| *(unnamed)* | Abandoned (second-born) twin / protagonist | Alive, Oso — the entity has sustained him for one week; physically strengthening beyond infant norms (can sit up, eyes darkened); receiving the entity's lessons through direct mental communion |
 | Eze Amadi | Ruling king, Kingdom of Ijendu, throned at Udo | Alive, unaware of the protagonist |
-| *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | Alive, Idoro — has realized the child was not an abiku but a vessel for something ancient; silenced by the entity when he tried to warn the village |
-| *(unnamed entity)* | Ancient presence beneath Oso | Active — bonded with the abandoned child as its vessel; true name/nature not yet revealed |
+| *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | Alive, Idoro — a prisoner in his own body; the entity controls his speech and his hand; managed to whisper "Coming" when the entity briefly loosened its grip (Episode 3); his apprentices have fled |
+| *(unnamed entity)* | Ancient presence beneath Oso | Active — bonded with the abandoned child; teaching the vessel control and perception; sent its first deliberate message beyond Oso's boundary (Episode 3); true name/nature not yet revealed |
 
 ### Places
 | Name | What it is |
@@ -385,6 +385,18 @@ at a glance without rereading everything.
   when he tries to warn the village. The child moves with purpose for the
   first time, and the episode closes on the entity's first message through
   him: "I am coming."
+- **Episode 3 — "The First Lesson" (2026-07-10):** One week later. The entity
+  sustains the child on ambient fear and begins teaching the vessel through
+  direct mental communion — showing him Idoro as a web of edible connections,
+  the ak-pu tree as a door, and what waits beyond. In Idoro, Amara's grief
+  calcifies into cold purpose; she interrogates Zara about past twin mothers
+  and begins stockpiling information as weapons. The dibia, still silenced,
+  discovers he cannot even write the truth — the entity draws circles through
+  his hand instead. The child sits up (impossible for a week-old infant) and
+  the entity sends a deliberate pulse toward the dibia, briefly loosening his
+  voice. He whispers "Coming." His apprentices hear and flee. The episode
+  closes on the child sleeping while something beneath the ak-pu tree begins
+  to beat like a heart.
 
 ---
 
