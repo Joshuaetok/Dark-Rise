@@ -197,15 +197,15 @@ established.**
 ### People
 | Name | Role | Status (as of latest episode) |
 |---|---|---|
-| Amara | Mother of the twins | Alive, Idoro — heard Elder Maka's full confession (Episode 5); privately resolved that Elder Maka's vow to kill her son "if he comes back wrong" makes the elder a future threat, not just an ally; has not shared this resolve with anyone |
-| Obi | Father of the twins | Alive, Idoro — a shadow of himself; goes to the river but does not fish, present but absent |
+| Amara | Mother of the twins | Alive, Idoro — heard Elder Maka's full confession (Episode 5); privately resolved that Elder Maka's vow to kill her son "if he comes back wrong" makes the elder a future threat, not just an ally; told Obi the full truth (Episode 6), withholding only the entity's offer of a place beside their son; alone among the village, saw Kene's eyes turn dark during the cleansing rite and understood the entity now has a second door into Idoro |
+| Obi | Father of the twins | Alive, Idoro — reactivated from grief stupor after Amara told him the truth (Episode 6); grief and anger now share his face; agreed to attend the cleansing rite "together, watching" but pointedly did not promise to hold to watching only, a tension Amara noted and is tracking |
 | Zara | Village midwife | Alive, Idoro |
-| Elder Maka | Elder priestess, enforces the old law | Alive, Idoro — revealed to Amara (Episode 5) that she bore twins herself thirty four years ago; her abandoned son returned at eight years old changed and violent, killed her husband and two others, and she killed the returned child herself before dawn on the fifth day; this is why she enforces the law without mercy. Has a surviving daughter, unnamed, who grinds millet nearby and does not know the true reason for her mother's severity. Has vowed to Amara that she will personally end her son too if he returns "wrong" |
-| Kene | Surviving (first-born) twin | Alive, infant, Idoro — future foil/rival to the protagonist; the entity briefly brushed his twin bond in his sleep before withdrawing (too raw to touch yet, risk of detection); left him unusually restless, which his parents blame on teething |
-| *(unnamed)* | Abandoned (second-born) twin / protagonist | Alive, Oso — the entity has sustained him for over a week; underwent a rapid growth spurt fed by village-wide terror (Episode 5), now appears roughly one year old at only eight days of actual life; bone and skull fully fused ahead of schedule; the ak-pu roots have begun physically coiling around his body |
+| Elder Maka | Elder priestess, enforces the old law | Alive, Idoro — revealed to Amara (Episode 5) that she bore twins herself thirty four years ago; her abandoned son returned at eight years old changed and violent, killed her husband and two others, and she killed the returned child herself before dawn on the fifth day; this is why she enforces the law without mercy. Has a surviving daughter, unnamed, who grinds millet nearby and does not know the true reason for her mother's severity. Has vowed to Amara that she will personally end her son too if he returns "wrong"; led a cleansing rite meant to sever the entity's control of the dibia (Episode 6), interrupted before completion when Kene's scream shattered the village's focus |
+| Kene | Surviving (first-born) twin | Alive, infant, Idoro — future foil/rival to the protagonist; the entity briefly brushed his twin bond in his sleep before withdrawing (too raw to touch yet, risk of detection); left him unusually restless, which his parents blame on teething. During the cleansing rite (Episode 6), the entity struck this thread deliberately as a distraction, causing him to convulse and scream; his eyes turned dark and faintly oil sheened for one instant before returning to normal brown. Only Amara witnessed it; the village believes it was an ordinary startled cry |
+| *(unnamed)* | Abandoned (second-born) twin / protagonist | Alive, Oso — the entity has sustained him for over a week; underwent a rapid growth spurt fed by village-wide terror (Episode 5), now appears roughly one year old at only eight days of actual life; bone and skull fully fused ahead of schedule; the ak-pu roots have begun physically coiling around his body; took his first independent step (Episode 6) |
 | Eze Amadi | Ruling king, Kingdom of Ijendu, throned at Udo | Alive, unaware of the protagonist |
-| *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | Alive, Idoro — a prisoner in his own body, visibly aging under the strain (grayed hair, hollowed features); the entity spoke a full sentence through him directly to Amara for the first time (Episode 4), not just single words; also carried Elder Maka's own child to Oso thirty four years ago (Episode 5) — he has served as the village's deliverer of cursed children for at least that long; his apprentices have fled |
-| *(unnamed entity)* | Ancient presence beneath Oso | Active — bonded with the abandoned child; teaching the vessel control and perception; extended its senses beyond Oso to specific blood threads (the twin bond, the maternal bond); made first direct contact with a human other than the vessel by speaking through the dibia to Amara (Episode 4); fed on village-wide terror to accelerate the vessel's physical growth far beyond normal (Episode 5); true name/nature not yet revealed |
+| *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | Alive, Idoro — a prisoner in his own body, visibly aging under the strain (grayed hair, hollowed features); the entity spoke a full sentence through him directly to Amara for the first time (Episode 4), not just single words; also carried Elder Maka's own child to Oso thirty four years ago (Episode 5) — he has served as the village's deliverer of cursed children for at least that long; his apprentices have fled. Survived Elder Maka's cleansing rite (Episode 6) — the entity's control was threatened badly enough that his own voice broke through mid convulsion, gasping a partial warning ("He is not the only door. There are others already—") before the entity silenced him again via the Kene distraction |
+| *(unnamed entity)* | Ancient presence beneath Oso | Active — bonded with the abandoned child; teaching the vessel control and perception; extended its senses beyond Oso to specific blood threads (the twin bond, the maternal bond); made first direct contact with a human other than the vessel by speaking through the dibia to Amara (Episode 4); fed on village-wide terror to accelerate the vessel's physical growth far beyond normal (Episode 5); has survived three centuries sustained on ambient dread alone; defended its hold on the dibia during Elder Maka's cleansing rite by weaponizing the dormant Kene thread as a deliberate distraction, proving it now has at least two doors into Idoro (Episode 6); true name/nature not yet revealed |
 | *(unnamed)* | Elder Maka's returned son | Deceased — abandoned as a cursed twin thirty four years ago; returned at age eight, physically and temperamentally wrong, killed three people (including Elder Maka's husband) before Elder Maka killed him herself; the second known incident of a cursed child "returning" |
 
 ### Places
@@ -425,6 +425,20 @@ at a glance without rereading everything.
   returns wrong, she will end him too, without hesitation. Amara does not
   answer. The episode closes on her private, unspoken resolve that Elder
   Maka's vow makes her a future enemy, not a future ally.
+- **Episode 6 — "The Cleansing" (2026-07-13):** Four days later, Amara tells
+  Obi the full truth, jolting him out of grief into fear and purpose; that
+  night, the village gathers for a cleansing rite meant to sever whatever
+  binds the dibia to the forest. In Oso, the entity recognizes the rite as a
+  genuine threat to its only foothold in the village and arms a dormant
+  contingency: the twin thread to Kene, touched once and left alone since
+  Episode 4. At the rite's climax the dibia's own voice breaks through mid
+  convulsion to gasp a warning that he is "not the only door," but before he
+  can finish, the entity strikes the Kene thread, and the child convulses and
+  screams, shattering the village's attention and saving the entity's hold on
+  the dibia. Only Amara sees Kene's eyes turn dark and oil sheened for an
+  instant before returning to normal. The episode closes on her private
+  understanding that the entity now has at least two doors into Idoro, and
+  can open either one whenever it chooses.
 
 ---
 
