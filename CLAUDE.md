@@ -197,15 +197,15 @@ established.**
 ### People
 | Name | Role | Status (as of latest episode) |
 |---|---|---|
-| Amara | Mother of the twins | Alive, Idoro — grief has hardened into cold, calculating resolve; secretly gathering information about the old law and its victims |
+| Amara | Mother of the twins | Alive, Idoro — infiltrated the dibia's hut and was addressed directly by the entity through him; confirmed her second son lives and is "becoming"; offered a transactional place beside him if she "chooses correctly"; intercepted leaving the hut by Elder Maka, who is about to reveal her own hidden history with the old law |
 | Obi | Father of the twins | Alive, Idoro — a shadow of himself; goes to the river but does not fish, present but absent |
 | Zara | Village midwife | Alive, Idoro |
-| Elder Maka | Elder priestess, enforces the old law | Alive, Idoro |
-| Kene | Surviving (first-born) twin | Alive, infant, Idoro — future foil/rival to the protagonist |
-| *(unnamed)* | Abandoned (second-born) twin / protagonist | Alive, Oso — the entity has sustained him for one week; physically strengthening beyond infant norms (can sit up, eyes darkened); receiving the entity's lessons through direct mental communion |
+| Elder Maka | Elder priestess, enforces the old law | Alive, Idoro — publicly moving to contain village panic (posted guards on the dibia's hut, announced a coming cleansing rite); privately intercepted Amara outside the hut and is about to reveal that the old law once cost her something personal |
+| Kene | Surviving (first-born) twin | Alive, infant, Idoro — future foil/rival to the protagonist; the entity briefly brushed his twin bond in his sleep before withdrawing (too raw to touch yet, risk of detection); left him unusually restless, which his parents blame on teething |
+| *(unnamed)* | Abandoned (second-born) twin / protagonist | Alive, Oso — the entity has sustained him for over a week; physically strengthening beyond infant norms (can sit up, eyes darkened); receiving the entity's lessons through direct mental communion, now including how to perceive blood bonds beyond Oso's boundary |
 | Eze Amadi | Ruling king, Kingdom of Ijendu, throned at Udo | Alive, unaware of the protagonist |
-| *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | Alive, Idoro — a prisoner in his own body; the entity controls his speech and his hand; managed to whisper "Coming" when the entity briefly loosened its grip (Episode 3); his apprentices have fled |
-| *(unnamed entity)* | Ancient presence beneath Oso | Active — bonded with the abandoned child; teaching the vessel control and perception; sent its first deliberate message beyond Oso's boundary (Episode 3); true name/nature not yet revealed |
+| *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | Alive, Idoro — a prisoner in his own body, visibly aging under the strain (grayed hair, hollowed features); the entity spoke a full sentence through him directly to Amara for the first time (Episode 4), not just single words; his apprentices have fled |
+| *(unnamed entity)* | Ancient presence beneath Oso | Active — bonded with the abandoned child; teaching the vessel control and perception; extended its senses beyond Oso to specific blood threads (the twin bond, the maternal bond); made first direct contact with a human other than the vessel by speaking through the dibia to Amara (Episode 4); true name/nature not yet revealed |
 
 ### Places
 | Name | What it is |
@@ -397,6 +397,20 @@ at a glance without rereading everything.
   voice. He whispers "Coming." His apprentices hear and flee. The episode
   closes on the child sleeping while something beneath the ak-pu tree begins
   to beat like a heart.
+- **Episode 4 — "The Blood Remembers" (2026-07-11):** Three nights later, the
+  entity extends its senses beyond Oso for the first time, finding the twin
+  bond to Kene (touched briefly, then withdrawn as too raw to risk yet) and
+  the cracked-open grief bond to Amara, reachable through the dibia's hands.
+  In Idoro, panic spreads after the apprentices' story; Elder Maka posts
+  guards on the dibia's hut and announces a cleansing rite. Amara sneaks
+  past the guards that night and confronts the dibia directly — the entity
+  seizes the opening and speaks through him to her for the first time,
+  confirming her son lives, is "becoming," and offering her a transactional
+  place beside him if she chooses correctly when he returns. She flees, only
+  to find Elder Maka waiting outside, who reveals she has been watching all
+  along and that the old law once cost her something personal. The episode
+  closes on the thing beneath the ak-pu tree beating once, hard, as though
+  it heard its own name spoken.
 
 ---
 
