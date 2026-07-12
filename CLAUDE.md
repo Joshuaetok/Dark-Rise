@@ -197,15 +197,16 @@ established.**
 ### People
 | Name | Role | Status (as of latest episode) |
 |---|---|---|
-| Amara | Mother of the twins | Alive, Idoro — infiltrated the dibia's hut and was addressed directly by the entity through him; confirmed her second son lives and is "becoming"; offered a transactional place beside him if she "chooses correctly"; intercepted leaving the hut by Elder Maka, who is about to reveal her own hidden history with the old law |
+| Amara | Mother of the twins | Alive, Idoro — heard Elder Maka's full confession (Episode 5); privately resolved that Elder Maka's vow to kill her son "if he comes back wrong" makes the elder a future threat, not just an ally; has not shared this resolve with anyone |
 | Obi | Father of the twins | Alive, Idoro — a shadow of himself; goes to the river but does not fish, present but absent |
 | Zara | Village midwife | Alive, Idoro |
-| Elder Maka | Elder priestess, enforces the old law | Alive, Idoro — publicly moving to contain village panic (posted guards on the dibia's hut, announced a coming cleansing rite); privately intercepted Amara outside the hut and is about to reveal that the old law once cost her something personal |
+| Elder Maka | Elder priestess, enforces the old law | Alive, Idoro — revealed to Amara (Episode 5) that she bore twins herself thirty four years ago; her abandoned son returned at eight years old changed and violent, killed her husband and two others, and she killed the returned child herself before dawn on the fifth day; this is why she enforces the law without mercy. Has a surviving daughter, unnamed, who grinds millet nearby and does not know the true reason for her mother's severity. Has vowed to Amara that she will personally end her son too if he returns "wrong" |
 | Kene | Surviving (first-born) twin | Alive, infant, Idoro — future foil/rival to the protagonist; the entity briefly brushed his twin bond in his sleep before withdrawing (too raw to touch yet, risk of detection); left him unusually restless, which his parents blame on teething |
-| *(unnamed)* | Abandoned (second-born) twin / protagonist | Alive, Oso — the entity has sustained him for over a week; physically strengthening beyond infant norms (can sit up, eyes darkened); receiving the entity's lessons through direct mental communion, now including how to perceive blood bonds beyond Oso's boundary |
+| *(unnamed)* | Abandoned (second-born) twin / protagonist | Alive, Oso — the entity has sustained him for over a week; underwent a rapid growth spurt fed by village-wide terror (Episode 5), now appears roughly one year old at only eight days of actual life; bone and skull fully fused ahead of schedule; the ak-pu roots have begun physically coiling around his body |
 | Eze Amadi | Ruling king, Kingdom of Ijendu, throned at Udo | Alive, unaware of the protagonist |
-| *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | Alive, Idoro — a prisoner in his own body, visibly aging under the strain (grayed hair, hollowed features); the entity spoke a full sentence through him directly to Amara for the first time (Episode 4), not just single words; his apprentices have fled |
-| *(unnamed entity)* | Ancient presence beneath Oso | Active — bonded with the abandoned child; teaching the vessel control and perception; extended its senses beyond Oso to specific blood threads (the twin bond, the maternal bond); made first direct contact with a human other than the vessel by speaking through the dibia to Amara (Episode 4); true name/nature not yet revealed |
+| *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | Alive, Idoro — a prisoner in his own body, visibly aging under the strain (grayed hair, hollowed features); the entity spoke a full sentence through him directly to Amara for the first time (Episode 4), not just single words; also carried Elder Maka's own child to Oso thirty four years ago (Episode 5) — he has served as the village's deliverer of cursed children for at least that long; his apprentices have fled |
+| *(unnamed entity)* | Ancient presence beneath Oso | Active — bonded with the abandoned child; teaching the vessel control and perception; extended its senses beyond Oso to specific blood threads (the twin bond, the maternal bond); made first direct contact with a human other than the vessel by speaking through the dibia to Amara (Episode 4); fed on village-wide terror to accelerate the vessel's physical growth far beyond normal (Episode 5); true name/nature not yet revealed |
+| *(unnamed)* | Elder Maka's returned son | Deceased — abandoned as a cursed twin thirty four years ago; returned at age eight, physically and temperamentally wrong, killed three people (including Elder Maka's husband) before Elder Maka killed him herself; the second known incident of a cursed child "returning" |
 
 ### Places
 | Name | What it is |
@@ -411,6 +412,19 @@ at a glance without rereading everything.
   along and that the old law once cost her something personal. The episode
   closes on the thing beneath the ak-pu tree beating once, hard, as though
   it heard its own name spoken.
+- **Episode 5 — "The Cost of the Law" (2026-07-12):** Continuing directly
+  from Episode 4's hook, Elder Maka tells Amara the truth she has carried
+  for thirty four years: she bore twins herself, the same dibia carried her
+  abandoned son to Oso, and eight years later he returned changed, killing
+  her husband and two others before she killed him herself. Meanwhile in
+  Oso, the entity gorges on the village's fresh, concentrated terror far
+  faster than it has ever fed before, and the vessel undergoes a violent
+  growth spurt, aging from an eight day old infant to the apparent size of
+  a one year old child in a single night, the ak-pu roots visibly coiling
+  around him. Elder Maka finishes her story with a vow: if Amara's son
+  returns wrong, she will end him too, without hesitation. Amara does not
+  answer. The episode closes on her private, unspoken resolve that Elder
+  Maka's vow makes her a future enemy, not a future ally.
 
 ---
 
