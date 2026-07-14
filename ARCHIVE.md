@@ -964,5 +964,73 @@ something changed, it's recorded here.
   entity's nor the presence's, and choosing, unlike her past silences,
   to tell Amara the same night rather than carry it alone.
 
-*(End of archived changelog Episodes 1-63. Episodes 64-78 remain inline in
+- **Episode 64 — "What the Factor Carries Home" (2026-09-09):** The
+  Factor reports to the Warden at the Ijoma Concern's true, disguised
+  headquarters downriver. She recognizes his description of the
+  presence as matching an old account of a guardian power that cost a
+  prior House every hand it sent against it, forcing that House to
+  abandon its ground rather than lose more. Concluding that patience
+  cannot reach a power that grieves, she dispatches a retained
+  specialist trained to end guardian powers, over the Factor's
+  objection that Chibundu chose to trust this power and will not
+  thank the House for removing it. The episode closes on the summons
+  reaching the specialist in a quiet eastern compound; they begin
+  traveling west within the same day, while Idoro's ordinary evening
+  closes over a threat none of its people yet know is already moving
+  toward them.
+- **Episode 65 — "The Crown Hears of Two Powers" (2026-09-10):**
+  Osadebe's unsoftened report reaches Udo, telling Eze Amadi's council
+  for the first time that a second old power, distinct from the
+  entity, has been present at Idoro since at least the naming.
+  Nkiruka re-examines her own three historical accounts and realizes
+  the pattern she read as one power growing steadily bolder makes far
+  more sense as two separate powers acting across the same three
+  centuries, misread as one because no one ever thought to ask.
+  Unable to govern a danger this poorly understood on secondhand
+  letters, Eze Amadi summons Osadebe back to Udo in person for a full
+  moon, over Nkiruka's hesitation about the timing. Osadebe departs
+  Idoro reluctantly, leaving Chidebe to hold the ground, while Amara
+  and Chibundu both feel an unease about the timing neither can fully
+  justify.
+- **Episode 66 — "The Ordinary Days Between" (2026-09-11):** Kene,
+  old enough now to notice the village's careful silences, asks Amara
+  and Obi directly whether he has a brother, and is told plainly about
+  Chibundu without further softening. Elder Maka begins formally
+  teaching Adaugo the old rites and stories from the beginning,
+  including the true cost of the binding rite once used on Kene, a
+  first step toward naming a successor rather than simply repairing
+  their relationship. The episode closes on Zara seeking out Elder
+  Maka rather than Amara this time, describing a second, roughly
+  doubled occurrence of the unfamiliar cold touch first felt in
+  Episode 63; Elder Maka can offer no story that matches it, only the
+  promise to carry the warning to the council herself.
+- **Episode 67 — "The Lost Ground" (2026-09-12):** The presence
+  reaches for Chibundu unprompted for the first time and, with the
+  entity brought in to hear it too, finally tells the full account of
+  how its guardian was lost: not by force, but by a hunter who took
+  two people the guardian loved, then simply waited for the guardian
+  to come to them before ending it slowly and without hurry. The
+  entity realizes in real time that Episode 51's boundary ambush was
+  an unrecognized rehearsal of this exact tactic, using Amara's
+  presence at a fixed, learnable hour as bait. Chibundu and the entity
+  resolve to warn Amara, Obi, and Chidebe of this specific danger
+  themselves, choosing to face the family's fear early rather than let
+  it arrive the way it once did for the presence's guardian — after
+  the trap had already closed.
+- **Episode 68 — "The Watcher at the Tree Line" (2026-09-13):** The
+  entity delivers the warning to Amara, Obi, and Chidebe itself;
+  Chibundu insists Kene not be treated as safer than the rest of the
+  family simply because his twin thread was severed. The household
+  adopts new precautions — unpredictable patrols, a rotating soldier
+  near Kene approved by Amara herself — while trying to preserve his
+  ordinary childhood. The episode's second half reveals the specialist
+  has already reached the high ground above Oso's tree line, unsensed
+  by either old power for a full day, and after watching Idoro's
+  rhythms and Amara's now-taught wariness, settles on Kene, the
+  household's least guarded member, as the true opening. The episode
+  closes on an ordinary afternoon at the stream where a brief,
+  harmless lapse in the boy's new watch proves exactly the kind of gap
+  a patient enough hunter would only need once.
+
+*(End of archived changelog Episodes 1-68. Episodes 69-84 remain inline in
 CLAUDE.md's current Section 11 changelog as the active arc.)*

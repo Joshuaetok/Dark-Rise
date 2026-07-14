@@ -199,9 +199,9 @@ non-negotiable — violations produce awkward, unlistenable audio.
 ## 5. LIVING NAME REGISTRY
 
 **This section holds each character's CURRENT STATUS ONLY — not a
-history.** Full episode-by-episode detail through Episode 63 lives in
-`ARCHIVE.md`; Episodes 64-78 detail is still recoverable from Section 11's
-changelog below.
+history.** Full episode-by-episode detail through Episode 68 lives in
+`ARCHIVE.md`; recent episodes' detail is still recoverable from Section 11's
+changelog below (see that section's header for the exact current window).
 
 **Maintenance rule (read this before editing):**
 - When an episode changes a character's status, **replace** the relevant
@@ -222,27 +222,27 @@ changelog below.
 
 | Name | Role | Current status (as of Episode 78) |
 |---|---|---|
-| Amara | Mother of the twins | Alive, Idoro, full council seat. Knows the entity, the presence, Chibundu's identity, and Elder Maka's condition — no secrets left within the household. Current thread: agreed, after Elder Maka put the choice to the whole household rather than deciding alone, to leave Adaugo's anchor thread active and use it to trace Mfoniso rather than sever it blind (Ep83). |
-| Obi | Father of the twins | Alive, Idoro. Fully present and active partner to Amara in every crisis since Episode 6. Current thread: named aloud the true cost of Elder Maka's plan — leaving Adaugo marked on purpose to trace Mfoniso — before backing it (Ep83). |
+| Amara | Mother of the twins | Alive, Idoro, full council seat. Knows the entity, the presence, Chibundu's identity, and Elder Maka's condition — no secrets left within the household. Current thread: heard Osadebe name his suspicion of an informant inside Idoro directly, after three patrol near misses proved too precise for luck (Ep84); has not yet named a suspect. |
+| Obi | Father of the twins | Alive, Idoro. Fully present and active partner to Amara in every crisis since Episode 6. Current thread: began quietly turning over every face in Idoro he had once been certain of, after Osadebe's discovery that someone is feeding Mfoniso patrol information (Ep84). |
 | Zara | Village midwife | Alive, living mostly at Amara's compound. Delivered both twins; carries a dormant blood thread the presence (not the entity) has used to reach her since her Episode 42 return. Her borrowed sense of danger has been the family's best early warning system since Episode 69, though still muffled by Mfoniso's working since Ep77-78. Told Adaugo plainly, for the first time, that she considers her family (Ep82). Current thread: spared from carrying the Episode 83 trace herself, at Elder Maka's insistence, given how little of her reserve is left. |
 | Adaugo | Elder Maka's surviving daughter | Alive, Idoro, still carrying an active foreign working. Fully reconciled with her mother since Episode 66; learning the old rites. Current thread: chose, knowingly this time, to keep the anchor thread on her wrist active so Elder Maka could trace Mfoniso through it (Ep83); the thread remains open and unresolved. |
-| Elder Maka | Elder priestess | Alive, Idoro, restored to a respected advisory council seat (not sole authority over the old law, stripped Ep19). Secretly carries her own thin thread to the entity since the Episode 12 binding rite (now openly known to the household and village). Current thread: put the choice to sever or trace Adaugo's anchor thread to the whole household rather than deciding alone, then carried the trace herself in daylight to spare Zara (Ep83); found a second, thinner thread running from Mfoniso toward an unknown third point before Mfoniso severed the reading. |
+| Elder Maka | Elder priestess | Alive, Idoro, restored to a respected advisory council seat (not sole authority over the old law, stripped Ep19). Secretly carries her own thin thread to the entity since the Episode 12 binding rite (now openly known to the household and village). Current thread: found a second, thinner thread running from Mfoniso toward an unknown third point during her Ep83 trace; cautioned the household against naming an informant suspect without proof once Osadebe's discovery of a leak surfaced (Ep84). |
 | Ozoemena | Mid ranking Idoro elder | Alive, Idoro. Humbled, trusted council member who serves through labor since his own disastrous rite killed the dibia (Ep26). Current thread: raised at council (Ep75) whether Zara should be allowed to rest. |
 | Kene | Surviving firstborn twin | Alive, toddler, Idoro. Original twin thread to the entity severed (Ep12); knows he has a brother (told Ep66); survived Mfoniso's first abduction attempt (Ep70), saved when the presence reached beyond Oso's ground for the first time. Current thread: began tracing an unbidden spiral in the dirt (Ep76) — the same shape both old powers have used on Zara — raising fear the presence's rescue left a second, uncut thread in him. Family is watching, not attempting another hasty severing rite. |
-| Chibundu | Abandoned secondborn twin / protagonist ("the one whom the presence carries") | Alive, Oso. Named by the presence through Zara (Ep47); reunited with Amara (Ep50); survived a trading House ambush at that reunion; has twice refused the trading House's partnership offer (once in his own voice, once when the presence seized his voice to refuse it for him, Ep60-61) and extracted a narrower promise from the presence (it will not take his voice again except to save his life). Current thread: watched the entity and weakened presence lend careful support to Elder Maka's daylight trace of Adaugo's anchor thread (Ep83), learning alongside them that Mfoniso herself carries a second thread to someone or something behind her. |
+| Chibundu | Abandoned secondborn twin / protagonist ("the one whom the presence carries") | Alive, Oso. Named by the presence through Zara (Ep47); reunited with Amara (Ep50); survived a trading House ambush at that reunion; has twice refused the trading House's partnership offer (once in his own voice, once when the presence seized his voice to refuse it for him, Ep60-61) and extracted a narrower promise from the presence (it will not take his voice again except to save his life). Current thread: felt the household's fear turn inward toward suspicion of itself for the first time (Ep84); the entity theorized Mfoniso may have bought a pair of eyes inside Idoro rather than out thinking the garrison from outside it. |
 | Eze Amadi | King, Kingdom of Ijendu, throned at Udo | Alive, Udo. Aware of the entity and, since Ep65, the presence as a second distinct power. Has permanently assigned Osadebe to Idoro, stationed Chidebe's garrison there, and twice refused Ejikeme's push for a crown survey of Idoro's land. Currently absorbing Nkiruka's revised reading of the crown's historical archive (two powers across three centuries, not one). |
 | Nduka | Crown river-road intelligence agent | Alive. Minor, not currently active — carried the first report of Idoro's unraveling to Udo (Ep24). |
 | Nkiruka | Keeper of the crown's old rites and records, Udo | Alive. Holds the crown's only historical archive on prior encounters with old powers. Revised her reading (Ep65) to recognize two separate powers rather than one growing bolder. Active advisor to Eze Amadi. |
 | Ejikeme | Overseer of the crown's delta trade concessions, Udo | Alive. Has twice failed to win authorization for a crown survey of Idoro's land. Increasingly humbled by the scale of what the crown faces (admitted as much to Nkiruka, Ep65). |
-| Osadebe | Captain of Eze Amadi's personal service, permanently assigned to Idoro | Alive. The crown's primary eyewitness and liaison to Idoro. Recently returned from a full moon in Udo (Ep73), openly frustrated at how slow crown caution is. Current thread: argued for using Adaugo's anchor thread to trace Mfoniso rather than sever it, reasoning a hunter forced to move fast makes mistakes a patient one would not (Ep83). |
-| Chidebe | Captain, commands the crown garrison at Idoro | Alive. Disciplined, trusted by Osadebe. Has doubled the night watch three times in episodes 77-78 as warnings escalate. Current thread: held the compound's heaviest watch overnight after the anchor thread's discovery (Ep82), then surrounded Elder Maka's daylight trace of it with every soldier he could spare (Ep83). |
+| Osadebe | Captain of Eze Amadi's personal service, permanently assigned to Idoro | Alive. The crown's primary eyewitness and liaison to Idoro. Recently returned from a full moon in Udo (Ep73), openly frustrated at how slow crown caution is. Current thread: organized unpredictable staggered patrols along the trace's west and slightly south direction, then cross referenced three precise near misses against who knew each route change, concluding someone inside Idoro is feeding Mfoniso patrol information; brought the suspicion to Amara first (Ep84). |
+| Chidebe | Captain, commands the crown garrison at Idoro | Alive. Disciplined, trusted by Osadebe. Has doubled the night watch three times in episodes 77-78 as warnings escalate. Current thread: organized staggered patrol routes off Elder Maka's trace direction, then confronted the likelihood that a route he changed inside a closed four person meeting reached Mfoniso before it took effect — the first evidence pointing toward his own circle (Ep84). |
 | Ikwuano | Keeper of the crown's scattered intelligence reports, Udo | Alive. Traced the trading House's court sponsor and confirmed its interest in Idoro predates its public approach by years. Not currently central to the active plot thread. |
 | *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | **Deceased (Episode 26).** Was the entity's first mouthpiece; killed when Ozoemena's borrowed rite against him failed and the entity struck him down mid final message. |
-| *(unnamed entity)* | Ancient presence beneath Oso, bonded to Chibundu | Active. Three centuries old, patient and transactional; taught Chibundu control and restraint over many episodes. Current thread: lent careful strength to Elder Maka's own thin thread during her daylight trace of Adaugo's anchor (Ep83), approving of the slower, witnessed approach after the previous night's accident. |
+| *(unnamed entity)* | Ancient presence beneath Oso, bonded to Chibundu | Active. Three centuries old, patient and transactional; taught Chibundu control and restraint over many episodes. Current thread: told Chibundu it would not be surprised if Mfoniso had bought a pair of eyes inside Idoro, warning that a house doubting its own hands does half a hunter's work for her (Ep84). |
 | *(unnamed presence)* | Older power beyond Oso's outer borders, reaches Chibundu through dreams and has spoken through Zara | Active. Named Chibundu (Ep47). Once lost a guardian ground centuries ago to a hunter using the exact tactic Mfoniso now uses (take the people the guardian loves, wait, strike slowly) — revealed Ep67. Broke its three century habit of never overspending its strength to save Kene directly (Ep70), at a cost it still hadn't finished paying as of Ep72-73; further spent by tearing itself out of Zara in Ep82. Current thread: still weakened, watched rather than actively reached during Elder Maka's Episode 83 trace, cautioning that a thread held open on purpose would show only what it chose to reveal. |
 | Uduak | Market trader, former trading House informant | Alive, held pending Udo's judgment since his confession (Ep53). Not currently active in the plot. |
 | the Warden | Ijoma Concern's keeper of old and dangerous knowledge | Active but offstage. Authorized Mfoniso's second attempt, against Zara directly (Ep74), overruling the Factor's objection. |
-| Mfoniso | Ijoma Concern's retained guardian hunter | Active — the story's current antagonist. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82). Current thread: felt Elder Maka's daylight trace find her along Adaugo's anchor thread and severed it before being traced back (Ep83); revealed in the process to be carrying her own second thread to whoever trained her, a tie she had believed was hers alone to know about — now moving toward Idoro faster than she has allowed herself to move in weeks. True face and full backstory not yet revealed. |
+| Mfoniso | Ijoma Concern's retained guardian hunter | Active — the story's current antagonist. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82); revealed to be carrying her own second thread to whoever trained her, a tie she had believed was hers alone to know about (Ep83). Current thread: confirmed to be receiving Idoro's patrol movements from an inside informant via a bark cloth drop point near the market, twice weekly, burned after reading; does not know the informant's face or identity, only the drop point (Ep84). True face and full backstory not yet revealed. |
 | Chiazor | Trading House's formal sponsor at Udo | Alive. Revealed a senior House figure was already traveling toward Idoro before the ambush. Not currently central to the active plot. |
 | the Factor | Senior trading House figure, Ebiere's direct superior | Active but offstage since Ep61. Objected twice (Ep64, Ep74) to the Warden's authorization of lethal action against the old powers/Zara, both times overruled. |
 | Ebiere | Trading House field agent who orchestrated the boundary ambush | Whereabouts unknown since Ep53; publicly disowned by the Factor as a rogue agent. |
@@ -408,7 +408,7 @@ authentic texture, never quoted or copied.)
 
 Keep a running one-line-per-episode log here so continuity can be checked
 at a glance without rereading everything. **This section holds only the
-active arc — roughly the most recent 15-20 episodes.** Episodes 1-63 are
+active arc — roughly the most recent 15-20 episodes.** Episodes 1-68 are
 archived verbatim in `ARCHIVE.md` under "ARCHIVED CHANGELOG"; when this
 section grows past ~20 entries, move the oldest ones there following the
 same pattern (see Section 10, step 5).
@@ -420,73 +420,6 @@ same pattern (see Section 10, step 5).
   character with a maintenance rule against re-appending history; Section 11
   now holds only the active arc (Episodes 64-78 onward). Nothing was
   deleted — see `ARCHIVE.md` for the full Episode 1-63 record.
-- **Episode 64 — "What the Factor Carries Home" (2026-09-09):** The
-  Factor reports to the Warden at the Ijoma Concern's true, disguised
-  headquarters downriver. She recognizes his description of the
-  presence as matching an old account of a guardian power that cost a
-  prior House every hand it sent against it, forcing that House to
-  abandon its ground rather than lose more. Concluding that patience
-  cannot reach a power that grieves, she dispatches a retained
-  specialist trained to end guardian powers, over the Factor's
-  objection that Chibundu chose to trust this power and will not
-  thank the House for removing it. The episode closes on the summons
-  reaching the specialist in a quiet eastern compound; they begin
-  traveling west within the same day, while Idoro's ordinary evening
-  closes over a threat none of its people yet know is already moving
-  toward them.
-- **Episode 65 — "The Crown Hears of Two Powers" (2026-09-10):**
-  Osadebe's unsoftened report reaches Udo, telling Eze Amadi's council
-  for the first time that a second old power, distinct from the
-  entity, has been present at Idoro since at least the naming.
-  Nkiruka re-examines her own three historical accounts and realizes
-  the pattern she read as one power growing steadily bolder makes far
-  more sense as two separate powers acting across the same three
-  centuries, misread as one because no one ever thought to ask.
-  Unable to govern a danger this poorly understood on secondhand
-  letters, Eze Amadi summons Osadebe back to Udo in person for a full
-  moon, over Nkiruka's hesitation about the timing. Osadebe departs
-  Idoro reluctantly, leaving Chidebe to hold the ground, while Amara
-  and Chibundu both feel an unease about the timing neither can fully
-  justify.
-- **Episode 66 — "The Ordinary Days Between" (2026-09-11):** Kene,
-  old enough now to notice the village's careful silences, asks Amara
-  and Obi directly whether he has a brother, and is told plainly about
-  Chibundu without further softening. Elder Maka begins formally
-  teaching Adaugo the old rites and stories from the beginning,
-  including the true cost of the binding rite once used on Kene, a
-  first step toward naming a successor rather than simply repairing
-  their relationship. The episode closes on Zara seeking out Elder
-  Maka rather than Amara this time, describing a second, roughly
-  doubled occurrence of the unfamiliar cold touch first felt in
-  Episode 63; Elder Maka can offer no story that matches it, only the
-  promise to carry the warning to the council herself.
-- **Episode 67 — "The Lost Ground" (2026-09-12):** The presence
-  reaches for Chibundu unprompted for the first time and, with the
-  entity brought in to hear it too, finally tells the full account of
-  how its guardian was lost: not by force, but by a hunter who took
-  two people the guardian loved, then simply waited for the guardian
-  to come to them before ending it slowly and without hurry. The
-  entity realizes in real time that Episode 51's boundary ambush was
-  an unrecognized rehearsal of this exact tactic, using Amara's
-  presence at a fixed, learnable hour as bait. Chibundu and the entity
-  resolve to warn Amara, Obi, and Chidebe of this specific danger
-  themselves, choosing to face the family's fear early rather than let
-  it arrive the way it once did for the presence's guardian — after
-  the trap had already closed.
-- **Episode 68 — "The Watcher at the Tree Line" (2026-09-13):** The
-  entity delivers the warning to Amara, Obi, and Chidebe itself;
-  Chibundu insists Kene not be treated as safer than the rest of the
-  family simply because his twin thread was severed. The household
-  adopts new precautions — unpredictable patrols, a rotating soldier
-  near Kene approved by Amara herself — while trying to preserve his
-  ordinary childhood. The episode's second half reveals the specialist
-  has already reached the high ground above Oso's tree line, unsensed
-  by either old power for a full day, and after watching Idoro's
-  rhythms and Amara's now-taught wariness, settles on Kene, the
-  household's least guarded member, as the true opening. The episode
-  closes on an ordinary afternoon at the stream where a brief,
-  harmless lapse in the boy's new watch proves exactly the kind of gap
-  a patient enough hunter would only need once.
 - **Episode 69 — "A Face in the Market" (2026-09-14):** The
   specialist, named here as Mfoniso, walks into Idoro's market
   disguised as an ordinary traveler to finish what two days of
@@ -709,6 +642,24 @@ same pattern (see Section 10, step 5).
   end, then pushes toward Idoro faster than she has allowed herself to
   move in weeks, unsettled that the tie to her own teacher's lineage
   was found rather than kept hidden.
+- **Episode 84 — "The Path No One Watched" (2026-09-29):** Chidebe and
+  Osadebe convert Elder Maka's rough trace direction into staggered,
+  unpredictable patrols. Over three days, reports come back of fresh
+  signs of passage always in the one stretch of ground a patrol had
+  just left, too precise to be luck. When a route changed inside a
+  closed four person meeting is compromised before it even takes
+  effect, Osadebe brings the conclusion to Amara directly: someone
+  inside Idoro is feeding Mfoniso their movements. In Oso, the entity
+  tells Chibundu it would not be surprised if Mfoniso bought eyes
+  inside the household rather than out thinking the garrison from
+  outside it, warning that a house doubting its own hands does half a
+  hunter's work for her. Elder Maka cautions against naming a suspect
+  without proof. The episode closes on Mfoniso's own side, confirming
+  she receives Idoro's patrol movements through an anonymous bark
+  cloth drop point near the market, twice weekly — she does not know
+  her informant's face, only that someone inside that grieving,
+  guarded household wants her to succeed badly enough to risk
+  everything for it.
 
 ---
 
