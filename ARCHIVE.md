@@ -1173,5 +1173,89 @@ something changed, it's recorded here.
   Adaugo's exact routine out of her at the market grinding stone,
   confirming the family's fear one step too late.
 
-*(End of archived changelog Episodes 1-78. Episodes 79-93 remain inline in
+- **Episode 79 — "The Third Bend in the River" (2026-09-24):** Adaugo
+  mentions to Elder Maka, almost in passing during a rite lesson, the
+  friendly traveler who questioned her closely at the grinding stone;
+  Elder Maka recognizes the pattern instantly and realizes Adaugo has
+  already given away her exact path, hour, and habits. Adaugo leaves
+  for Zara's before the warning can reach her, forcing Elder Maka,
+  Amara, Obi, Chidebe, and Osadebe into a desperate race for the
+  river's third bend. Zara, her senses still muffled, cannot confirm
+  danger but trusts the instinct anyway and runs. In Oso, the entity
+  feels Idoro's dread spike and, cut off by distance exactly as it was
+  the night it could not reach Kene in time, can only warn Chibundu
+  that something fast and close to Zara is already happening. The
+  episode closes on Mfoniso herself, standing in the center of the
+  path in the failing light, telling Adaugo plainly that she has not
+  yet decided what she needs from her, and that the choice now belongs
+  to whoever is running toward them and what they are willing to
+  trade.
+- **Episode 80 — "What Adaugo Carried Home" (2026-09-25):** Osadebe
+  reaches the third bend in time to force Mfoniso to release Adaugo,
+  but not before she grips her wrist, murmurs a few unheard words, and
+  vanishes into the reeds leaving no trail at all, a new and uncanny
+  capability that unsettles Osadebe more than a clean escape would
+  have. Chidebe's search finds nothing; the family reaches Adaugo
+  physically unharmed and allows itself real relief, Elder Maka
+  declaring her whole after finding no mark. In Oso, the entity reads
+  Mfoniso's willingness to be seen and caught as proof she was not
+  chased off but finished, telling Chibundu a hunter who needs only
+  kindness rather than force is limited by nothing at all. The episode
+  closes on Zara, embracing Adaugo in relief on the walk home, feeling
+  a cold thread still active on Adaugo's wrist exactly where Mfoniso
+  held her, answering her reach the way her own borrowed gift used to
+  before it was muffled, proof the danger did not pass. It simply
+  changed hands.
+- **Episode 81 — "The Thread That Answered Back" (2026-09-26):** Elder
+  Maka confirms Zara's discovery herself, barely, before it retreats
+  past finding again, and refuses to cut it blind given her own
+  uncertain hands and the risk of alerting Mfoniso. Zara offers to be
+  a conduit for the presence rather than wait for a slow overland
+  consultation, over Amara's objection about the cost to her already
+  deep exhaustion. In Oso, the entity tells Chibundu the presence,
+  still not recovered from Episode 70's cost, is reaching through Zara
+  regardless, and that neither of them has ever successfully stopped
+  it when a child of this family is in danger. Reading through Zara,
+  the presence identifies the working on Adaugo's wrist as an anchor
+  rather than a blindfold, built to always reveal where she stands
+  rather than to blind anyone watching over her, meaning Mfoniso no
+  longer needs to stand inside Idoro to know what the household is
+  doing. The episode closes mid reading as the thread reacts to being
+  examined, Zara going rigid and voiceless as something reaches back
+  through the open door, the family moving to break the bridge before
+  they can learn what noticed them looking.
+- **Episode 82 — "The Same Hand" (2026-09-27):** Amara breaks the
+  bridge by force and the presence tears itself free of Zara, leaving
+  her shaken but alive; Adaugo and Zara name each other family for the
+  first time. In Oso, the presence tells Chibundu it recognizes the
+  exact craft behind Adaugo's anchor thread as the same technique used
+  by the hunter who took its guardian ground three centuries ago,
+  meaning Mfoniso inherited her method rather than invented it. Elder
+  Maka calls off any further reading or severing until dawn; the
+  compound holds its heaviest watch yet, with Osadebe refusing rest at
+  the gate. The episode closes on Mfoniso herself, unsettled to have
+  felt a guardian reach back along her own working for the first time
+  in her career, an experience her teacher once warned meant facing a
+  guardian old enough to remember being hunted before, and deciding to
+  abandon her patient timeline and move against the family sooner than
+  planned.
+- **Episode 83 — "A Second Thread" (2026-09-28):** At dawn, Elder Maka
+  puts the household's choice to the whole family rather than deciding
+  alone: sever Adaugo's still active anchor thread now, losing their
+  only lead on Mfoniso, or leave it open and use it, carefully, to
+  trace her back. After hearing Obi name the true cost, Adaugo consent
+  knowingly, and Osadebe argue a hunter forced to move fast makes
+  mistakes, the household chooses to trace. Elder Maka carries the
+  reading herself in daylight, with the entity lending support and the
+  still weakened presence cautioning restraint, sparing Zara further
+  cost. The reading finds Mfoniso's rough distance and direction, then
+  something unexpected: a second, thinner thread running from Mfoniso
+  herself toward an unknown third point, meaning she is not acting
+  entirely alone or entirely by her own will. Mfoniso feels the trace
+  find her and severs it before Elder Maka can see who holds the other
+  end, then pushes toward Idoro faster than she has allowed herself to
+  move in weeks, unsettled that the tie to her own teacher's lineage
+  was found rather than kept hidden.
+
+*(End of archived changelog Episodes 1-83. Episodes 84-98 remain inline in
 CLAUDE.md's current Section 11 changelog as the active arc.)*
