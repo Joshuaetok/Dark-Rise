@@ -234,15 +234,15 @@ changelog below (see that section's header for the exact current window).
 | Nduka | Crown river-road intelligence agent | Alive. Minor, not currently active — carried the first report of Idoro's unraveling to Udo (Ep24). |
 | Nkiruka | Keeper of the crown's old rites and records, Udo | Alive. Holds the crown's only historical archive on prior encounters with old powers. Revised her reading (Ep65) to recognize two separate powers rather than one growing bolder. Active advisor to Eze Amadi. |
 | Ejikeme | Overseer of the crown's delta trade concessions, Udo | Alive. Has twice failed to win authorization for a crown survey of Idoro's land. Increasingly humbled by the scale of what the crown faces (admitted as much to Nkiruka, Ep65). |
-| Osadebe | Captain of Eze Amadi's personal service, permanently assigned to Idoro | Alive. The crown's primary eyewitness and liaison to Idoro. Recently returned from a full moon in Udo (Ep73), openly frustrated at how slow crown caution is. Current thread: pressed the council to treat the west and slightly south bearing as a starting point rather than a rescue plan, tasked with mapping how far that ground extends before it leaves crown reach (Ep88). |
-| Chidebe | Captain, commands the crown garrison at Idoro | Alive. Disciplined, trusted by Osadebe. Has doubled the night watch three times in episodes 77-78 as warnings escalate. Current thread: recognized that an empty drop stone in two nights could provoke Mfoniso to retaliate against Ijeoma directly; tasked alongside Osadebe with mapping the ground west and slightly south of Idoro before the deadline (Ep88). |
+| Osadebe | Captain of Eze Amadi's personal service, permanently assigned to Idoro | Alive. The crown's primary eyewitness and liaison to Idoro. Recently returned from a full moon in Udo (Ep73), openly frustrated at how slow crown caution is. Current thread: took the ambush position nearest the drop stone itself, having seen Mfoniso's face and survived twice already (Ep89); the empty-stone trap is about to go unsprung as she moves on the family directly instead. |
+| Chidebe | Captain, commands the crown garrison at Idoro | Alive. Disciplined, trusted by Osadebe. Has doubled the night watch three times in episodes 77-78 as warnings escalate. Current thread: rejected forging a message in Emenike's hand as too risky, and instead rang the market's edge with hidden soldiers around the deliberately empty drop stone, betting Mfoniso would come to investigate in person (Ep89) — unaware she has instead decided to bypass the trap and strike the family directly that same night. |
 | Ikwuano | Keeper of the crown's scattered intelligence reports, Udo | Alive. Traced the trading House's court sponsor and confirmed its interest in Idoro predates its public approach by years. Not currently central to the active plot thread. |
 | *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | **Deceased (Episode 26).** Was the entity's first mouthpiece; killed when Ozoemena's borrowed rite against him failed and the entity struck him down mid final message. |
 | *(unnamed entity)* | Ancient presence beneath Oso, bonded to Chibundu | Active. Three centuries old, patient and transactional; taught Chibundu control and restraint over many episodes. Current thread: connected Emenike's account of his sister's captors to Elder Maka's Ep83 trace bearing, judging the possible link worth relaying since a frightened man given a direction to hope in makes different choices than one given none (Ep88). |
 | *(unnamed presence)* | Older power beyond Oso's outer borders, reaches Chibundu through dreams and has spoken through Zara | Active. Named Chibundu (Ep47). Once lost a guardian ground centuries ago to a hunter using the exact tactic Mfoniso now uses (take the people the guardian loves, wait, strike slowly) — revealed Ep67. Broke its three century habit of never overspending its strength to save Kene directly (Ep70), at a cost it still hadn't finished paying as of Ep72-73; further spent by tearing itself out of Zara in Ep82. Current thread: still weakened, watched rather than actively reached during Elder Maka's Episode 83 trace, cautioning that a thread held open on purpose would show only what it chose to reveal. |
 | Uduak | Market trader, former trading House informant | Alive, held pending Udo's judgment since his confession (Ep53). Not currently active in the plot. |
 | the Warden | Ijoma Concern's keeper of old and dangerous knowledge | Active but offstage. Authorized Mfoniso's second attempt, against Zara directly (Ep74), overruling the Factor's objection. |
-| Mfoniso | Ijoma Concern's retained guardian hunter | Active — the story's current antagonist. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82); revealed to be carrying her own second thread to whoever trained her (Ep83). Her informant, Emenike, has now been caught and detained by Chidebe and Osadebe (Ep87) — Mfoniso herself does not yet know her source inside Idoro is gone. True face and full backstory not yet revealed. |
+| Mfoniso | Ijoma Concern's retained guardian hunter | Active — the story's current antagonist. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82); revealed to be carrying her own second thread to whoever trained her (Ep83). Her informant, Emenike, was caught and detained (Ep87), though she does not know this directly. Current thread: read Emenike's first-ever missed contact as proof of compromise rather than accident; rejected investigating the drop point (where Chidebe and Osadebe had set an ambush) and instead decided to strike the family directly that same night, patience finally spent (Ep89). |
 | Chiazor | Trading House's formal sponsor at Udo | Alive. Revealed a senior House figure was already traveling toward Idoro before the ambush. Not currently central to the active plot. |
 | the Factor | Senior trading House figure, Ebiere's direct superior | Active but offstage since Ep61. Objected twice (Ep64, Ep74) to the Warden's authorization of lethal action against the old powers/Zara, both times overruled. |
 | Ebiere | Trading House field agent who orchestrated the boundary ambush | Whereabouts unknown since Ep53; publicly disowned by the Factor as a rogue agent. |
@@ -657,6 +657,21 @@ same pattern (see Section 10, step 5).
   reveals: Mfoniso expects contact at the drop stone within two nights,
   the longest silence would ever plausibly go unpunished, forcing a
   decision the household is not yet ready to make.
+- **Episode 89 — "A Trap With No Leak Left" (2026-10-04):** The
+  council rejects forging a message in Emenike's hand as too risky and
+  instead leaves the drop stone empty for the first time in two
+  seasons, ringing the market's edge with hidden soldiers under Chidebe
+  and Osadebe, betting Mfoniso will come herself to learn why. The
+  household spends the tense hours preparing; Kene unconsciously traces
+  another spiral in the dirt, unsettling Zara, and Adaugo and Elder
+  Maka discuss what comes next if the ambush succeeds. The episode
+  closes on Mfoniso's own side: her informant's first-ever missed
+  contact reads to her not as chance but as proof of compromise, and
+  recalling her teacher's warning about a guardian old enough to
+  remember being hunted, she rejects investigating the drop point
+  entirely and instead decides to strike the family directly that same
+  night, bypassing the ambush laid for her completely, patience finally
+  spent.
 
 ---
 
