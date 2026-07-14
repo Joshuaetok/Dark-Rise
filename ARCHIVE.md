@@ -1101,5 +1101,77 @@ something changed, it's recorded here.
   the entity, rather than objecting, agrees. Osadebe begins writing
   the most urgent report he has ever sent north.
 
-*(End of archived changelog Episodes 1-73. Episodes 74-88 remain inline in
+- **Episode 74 — "What Mfoniso Reports" (2026-09-19):** Rather than
+  travel home, Mfoniso holes up in a river town two days from Idoro
+  and writes the Warden an unflattering, honest account: the
+  guardian's reach was badly underestimated, and the true reason she
+  was caught was not either old power but Zara's borrowed senses. The
+  Warden, revealing the House's guilt over its old lost ground is an
+  inherited debt passed down through generations of keepers rather
+  than something she witnessed herself, overrules the Factor's renewed
+  objection and authorizes Mfoniso to move against Zara directly,
+  writing back a single word: proceed. The episode closes on the
+  Warden's private unease, quickly folded away with the rest of her
+  dangerous archive.
+- **Episode 75 — "What Zara's Gift Costs" (2026-09-20):** Zara's
+  exhaustion since Episode 70 has only deepened; Amara, Elder Maka,
+  Obi, and the council raise gently whether she should step back and
+  rest. She refuses to stop listening entirely, agreeing only to
+  smaller mercies — fewer duties, Adaugo assigned to sit with her
+  through the worst evenings. Chibundu presses the entity on whether
+  the cost is dangerous to her; it admits it does not know how to ease
+  a burden it did not cause. The episode closes on Mfoniso, watching
+  from a careful distance exactly as authorized, noting Zara's
+  visible exhaustion as a measurable vulnerability and beginning to
+  catalogue Adaugo as another piece worth tracking.
+- **Episode 76 — "What the Presence Left in Him" (2026-09-21):** Amara
+  finds Kene tracing an unbidden spiral in the compound dirt, the same
+  shape Zara once traced under both old powers' touch, and he describes
+  the feeling in his hand as a cold like morning water. Chibundu carries
+  the discovery straight to the presence, which admits honestly it does
+  not know whether its unprecedented reach to save Kene in Episode 70
+  left something behind, only that it was rougher and less careful than
+  anything it has done before. The entity, weighing the unknown thread
+  against the cost Elder Maka's own rite once exacted, counsels watching
+  over another hasty severing. Amara brings the discovery to Elder Maka
+  rather than sit with it alone; Elder Maka admits she has never
+  attempted to cut a thread this new or uncertain and is not confident
+  her hands still remember how to do it safely, and instead teaches
+  Amara what to watch for — his sleep, his unconscious hand movements,
+  whether the cold sharpens or fades. Chibundu tells the presence
+  plainly he does not want his brother raised the hard way he himself
+  was raised. The episode closes on Amara sitting with a sleeping Kene,
+  watching his curled hand for a shape she hopes never to see again.
+- **Episode 77 — "The Quiet She Mistook for Peace" (2026-09-22):** Zara
+  tells Adaugo she has felt no cold touch in three days and calls it
+  earned peace. In Oso, the entity, checking its threads out of old
+  habit, finds Zara's grown strangely muffled rather than gone, cannot
+  tell whether the cause is her own exhaustion or something acting on
+  her too slowly to notice, and tells Chibundu at once rather than
+  wait for certainty, naming the possibility that Mfoniso has traded a
+  sudden strike for a slow, patient one. Chibundu carries the warning
+  to Amara that same night; Zara realizes the quiet she trusted may be
+  the loss of the one gift this family has leaned on, and lets Adaugo
+  comfort her rather than face it alone. Amara has Chidebe double the
+  watch again. The episode closes on Mfoniso's own point of view,
+  confirming in the field that her working has already succeeded well
+  enough to let her walk closer to Idoro's boundary than she has dared
+  since the night she lost Kene, undetected.
+- **Episode 78 — "The Stranger at the Grinding Stone" (2026-09-23):**
+  Zara tests what remains of her senses alone at the tree line and
+  feels nothing answer her. Elder Maka examines her and diagnoses a
+  deliberate working rather than exhaustion, recalling her
+  grandmother's stories of houses that blind a guardian's watchers
+  before striking the guardian itself, and warns that such workings
+  require the attacker to have come physically close, repeatedly,
+  undetected. Osadebe finds Mfoniso's old footprints on the high
+  ground above the compound, confirming it; Chidebe doubles the watch
+  a third time. The entity admits to Chibundu it cannot feel Mfoniso
+  even knowing what to look for, and the two conclude together that
+  she will target whoever stands closest to Zara next. The episode
+  closes on Mfoniso herself, disguised as a traveler, gently drawing
+  Adaugo's exact routine out of her at the market grinding stone,
+  confirming the family's fear one step too late.
+
+*(End of archived changelog Episodes 1-78. Episodes 79-93 remain inline in
 CLAUDE.md's current Section 11 changelog as the active arc.)*

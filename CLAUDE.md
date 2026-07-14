@@ -199,7 +199,7 @@ non-negotiable — violations produce awkward, unlistenable audio.
 ## 5. LIVING NAME REGISTRY
 
 **This section holds each character's CURRENT STATUS ONLY — not a
-history.** Full episode-by-episode detail through Episode 73 lives in
+history.** Full episode-by-episode detail through Episode 78 lives in
 `ARCHIVE.md`; recent episodes' detail is still recoverable from Section 11's
 changelog below (see that section's header for the exact current window).
 
@@ -241,15 +241,15 @@ changelog below (see that section's header for the exact current window).
 | *(unnamed entity)* | Ancient presence beneath Oso, bonded to Chibundu | Active, badly weakened. Three centuries old, patient and transactional; broke three centuries of pure restraint to act directly against Mfoniso (Ep90). Current thread: answered Chibundu near dawn after a full night of silence, thinner and further away than he has ever felt it; admitted it does not know if it could reach that far again or what the act cost Oso itself, and conceded to Chibundu that it has called its own restraint "wisdom" for three centuries without ever being tested closely enough to know if that was true (Ep91). Resting at Chibundu's insistence. |
 | *(unnamed presence)* | Older power beyond Oso's outer borders, reaches Chibundu through dreams and has spoken through Zara | Active. Named Chibundu (Ep47). Once lost a guardian ground centuries ago to a hunter using the exact tactic Mfoniso now uses (take the people the guardian loves, wait, strike slowly) — revealed Ep67. Broke its three century habit of never overspending its strength to save Kene directly (Ep70), at a cost it still hadn't finished paying as of Ep72-73; further spent by tearing itself out of Zara in Ep82. Current thread: still weakened, watched rather than actively reached during Elder Maka's Episode 83 trace, cautioning that a thread held open on purpose would show only what it chose to reveal. |
 | Uduak | Market trader, former trading House informant | Alive, held pending Udo's judgment since his confession (Ep53). Not currently active in the plot. |
-| the Warden | Ijoma Concern's keeper of old and dangerous knowledge | Active but offstage. Authorized Mfoniso's second attempt, against Zara directly (Ep74), overruling the Factor's objection. |
-| Mfoniso | Ijoma Concern's retained guardian hunter | Active — the story's current antagonist. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82); revealed to be carrying her own second thread to whoever trained her (Ep83). Breached Idoro's compound directly, seized Adaugo, and struck down Emenike, then fled wounded and shaken when the entity met her in the open for the first time in her career (Ep90). Current thread: tending her wounds beyond Idoro's boundary, decided the setback is too significant to report by message and set out on the long river road toward the Ijoma Concern's disguised headquarters to deliver her account to the Warden in person, the first time in her career she has done so (Ep92). |
+| the Warden | Ijoma Concern's keeper of old and dangerous knowledge | Active. Authorized Mfoniso's second attempt, against Zara directly (Ep74), overruling the Factor's objection. Current thread: received Mfoniso's account of the entity's direct intervention in person at the Concern's headquarters (Ep93); revealed the guardian ground debt is inherited across four keepers before her rather than her own personal grievance, permanently relieved the Factor of any further say in the operation, and committed resources beyond anything spent on the hunt so far. |
+| Mfoniso | Ijoma Concern's retained guardian hunter | Active — the story's current antagonist. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82); revealed to be carrying her own second thread to whoever trained her (Ep83). Breached Idoro's compound directly, seized Adaugo, and struck down Emenike, then fled wounded and shaken when the entity met her in the open for the first time in her career (Ep90). Current thread: delivered her account to the Warden in person, receiving resources beyond anything committed to the hunt so far and a mandate she finds herself unsettled rather than comforted by; glimpsed Ijeoma alive in a guarded courtyard at the Concern's headquarters while being led out, confirming the location of Emenike's sister without yet deciding what to do with the knowledge (Ep93). |
 | Chiazor | Trading House's formal sponsor at Udo | Alive. Revealed a senior House figure was already traveling toward Idoro before the ambush. Not currently central to the active plot. |
-| the Factor | Senior trading House figure, Ebiere's direct superior | Active but offstage since Ep61. Objected twice (Ep64, Ep74) to the Warden's authorization of lethal action against the old powers/Zara, both times overruled. |
+| the Factor | Senior trading House figure, Ebiere's direct superior | Alive, permanently removed from any further say in the Mfoniso operation. Objected three times now (Ep64, Ep74, Ep93) to escalating the hunt against Oso's guardian, each time overruled; his final, sharpest objection after learning of the entity's direct intervention led the Warden to relieve him of authority over the operation entirely (Ep93). |
 | Ebiere | Trading House field agent who orchestrated the boundary ambush | Whereabouts unknown since Ep53; publicly disowned by the Factor as a rogue agent. |
 | Effiong | Young crown soldier who sold patrol schedules for coin, enabling the ambush | Confessed (Ep52). Not currently active in the plot. |
 | *(unnamed)* | Elder Maka's returned son | Deceased. Her own abandoned twin, returned wrong at age eight, killed three people including her husband; she killed him herself. Origin of her severity toward the old law. |
 | Emenike | Soldier in Chidebe's garrison at Idoro | Alive, recovering, formally reinstated. Served under Chidebe since before the boundary ambush (Ep51); confirmed as Mfoniso's informant (Ep87), coerced for two seasons by threats against his sister, Ijeoma. Threw himself between Mfoniso and Adaugo during her direct attack on the compound (Ep90). Current thread: council formally reinstated him as a soldier of Idoro under a season of supervised watch, with household resources committed to finding Ijeoma once he is strong enough to join the search; wept at the council's judgment, the first tears anyone has seen from him since his exposure (Ep92). |
-| Ijeoma | Emenike's younger sister | Alive (proof of life confirmed twice a season via a blue thread bracelet). Taken from a river town by Ijoma Concern agents two seasons ago while trading cloth for their mother; held as leverage to coerce Emenike's cooperation as an informant. Location unconfirmed but her captors' bearing from Idoro (west, slightly south) may match the unknown point tied to Mfoniso's own second thread (Ep88). |
+| Ijeoma | Emenike's younger sister | Alive, confirmed held at the Ijoma Concern's disguised headquarters downriver, seen briefly by Mfoniso in a heavily guarded inner courtyard (Ep93), confirming the bearing (west, slightly south) reported in Ep88. Taken from a river town by Ijoma Concern agents two seasons ago while trading cloth for their mother; held as leverage to coerce Emenike's cooperation as an informant. Idoro's household does not yet know her exact location has been confirmed. |
 | Adaeku | Soldier in Chidebe's garrison at Idoro, quietest of the six informant suspects | Alive. Cleared in practice, if not yet formally: paired with Emenike on the same false route, but his own night proved ordinary — a plain meal alone and sleep, watched the whole while by Osadebe (Ep86). |
 
 ### Places
@@ -411,7 +411,7 @@ authentic texture, never quoted or copied.)
 
 Keep a running one-line-per-episode log here so continuity can be checked
 at a glance without rereading everything. **This section holds only the
-active arc — roughly the most recent 15-20 episodes.** Episodes 1-73 are
+active arc — roughly the most recent 15-20 episodes.** Episodes 1-78 are
 archived verbatim in `ARCHIVE.md` under "ARCHIVED CHANGELOG"; when this
 section grows past ~20 entries, move the oldest ones there following the
 same pattern (see Section 10, step 5).
@@ -423,77 +423,6 @@ same pattern (see Section 10, step 5).
   character with a maintenance rule against re-appending history; Section 11
   now holds only the active arc (Episodes 64-78 onward). Nothing was
   deleted — see `ARCHIVE.md` for the full Episode 1-63 record.
-- **Episode 74 — "What Mfoniso Reports" (2026-09-19):** Rather than
-  travel home, Mfoniso holes up in a river town two days from Idoro
-  and writes the Warden an unflattering, honest account: the
-  guardian's reach was badly underestimated, and the true reason she
-  was caught was not either old power but Zara's borrowed senses. The
-  Warden, revealing the House's guilt over its old lost ground is an
-  inherited debt passed down through generations of keepers rather
-  than something she witnessed herself, overrules the Factor's renewed
-  objection and authorizes Mfoniso to move against Zara directly,
-  writing back a single word: proceed. The episode closes on the
-  Warden's private unease, quickly folded away with the rest of her
-  dangerous archive.
-- **Episode 75 — "What Zara's Gift Costs" (2026-09-20):** Zara's
-  exhaustion since Episode 70 has only deepened; Amara, Elder Maka,
-  Obi, and the council raise gently whether she should step back and
-  rest. She refuses to stop listening entirely, agreeing only to
-  smaller mercies — fewer duties, Adaugo assigned to sit with her
-  through the worst evenings. Chibundu presses the entity on whether
-  the cost is dangerous to her; it admits it does not know how to ease
-  a burden it did not cause. The episode closes on Mfoniso, watching
-  from a careful distance exactly as authorized, noting Zara's
-  visible exhaustion as a measurable vulnerability and beginning to
-  catalogue Adaugo as another piece worth tracking.
-- **Episode 76 — "What the Presence Left in Him" (2026-09-21):** Amara
-  finds Kene tracing an unbidden spiral in the compound dirt, the same
-  shape Zara once traced under both old powers' touch, and he describes
-  the feeling in his hand as a cold like morning water. Chibundu carries
-  the discovery straight to the presence, which admits honestly it does
-  not know whether its unprecedented reach to save Kene in Episode 70
-  left something behind, only that it was rougher and less careful than
-  anything it has done before. The entity, weighing the unknown thread
-  against the cost Elder Maka's own rite once exacted, counsels watching
-  over another hasty severing. Amara brings the discovery to Elder Maka
-  rather than sit with it alone; Elder Maka admits she has never
-  attempted to cut a thread this new or uncertain and is not confident
-  her hands still remember how to do it safely, and instead teaches
-  Amara what to watch for — his sleep, his unconscious hand movements,
-  whether the cold sharpens or fades. Chibundu tells the presence
-  plainly he does not want his brother raised the hard way he himself
-  was raised. The episode closes on Amara sitting with a sleeping Kene,
-  watching his curled hand for a shape she hopes never to see again.
-- **Episode 77 — "The Quiet She Mistook for Peace" (2026-09-22):** Zara
-  tells Adaugo she has felt no cold touch in three days and calls it
-  earned peace. In Oso, the entity, checking its threads out of old
-  habit, finds Zara's grown strangely muffled rather than gone, cannot
-  tell whether the cause is her own exhaustion or something acting on
-  her too slowly to notice, and tells Chibundu at once rather than
-  wait for certainty, naming the possibility that Mfoniso has traded a
-  sudden strike for a slow, patient one. Chibundu carries the warning
-  to Amara that same night; Zara realizes the quiet she trusted may be
-  the loss of the one gift this family has leaned on, and lets Adaugo
-  comfort her rather than face it alone. Amara has Chidebe double the
-  watch again. The episode closes on Mfoniso's own point of view,
-  confirming in the field that her working has already succeeded well
-  enough to let her walk closer to Idoro's boundary than she has dared
-  since the night she lost Kene, undetected.
-- **Episode 78 — "The Stranger at the Grinding Stone" (2026-09-23):**
-  Zara tests what remains of her senses alone at the tree line and
-  feels nothing answer her. Elder Maka examines her and diagnoses a
-  deliberate working rather than exhaustion, recalling her
-  grandmother's stories of houses that blind a guardian's watchers
-  before striking the guardian itself, and warns that such workings
-  require the attacker to have come physically close, repeatedly,
-  undetected. Osadebe finds Mfoniso's old footprints on the high
-  ground above the compound, confirming it; Chidebe doubles the watch
-  a third time. The entity admits to Chibundu it cannot feel Mfoniso
-  even knowing what to look for, and the two conclude together that
-  she will target whoever stands closest to Zara next. The episode
-  closes on Mfoniso herself, disguised as a traveler, gently drawing
-  Adaugo's exact routine out of her at the market grinding stone,
-  confirming the family's fear one step too late.
 - **Episode 79 — "The Third Bend in the River" (2026-09-24):** Adaugo
   mentions to Elder Maka, almost in passing during a rite lesson, the
   friendly traveler who questioned her closely at the grinding stone;
@@ -723,6 +652,22 @@ same pattern (see Section 10, step 5).
   Idoro's boundary, deciding this setback cannot be explained in a
   message left under a stone and setting out for the first time in her
   career to deliver her account to the Warden in person.
+- **Episode 93 — "What the Concern Decides" (2026-10-08):** Mfoniso
+  delivers her account in person at the Ijoma Concern's disguised
+  headquarters. The Warden, visibly shaken by the description of the
+  entity meeting Mfoniso directly, reveals the guardian ground debt has
+  passed through four keepers before her rather than being her own
+  personal grievance. The Factor, present for the account, makes his
+  sharpest objection yet, arguing the House cannot keep spending lives
+  on an inherited grudge; the Warden overrules him a third time and
+  permanently relieves him of any further say in the operation,
+  committing resources beyond anything spent on the hunt so far. Led
+  out through the compound's inner grounds, Mfoniso glimpses a young
+  woman in a heavily guarded courtyard whose watchfulness matches every
+  detail she has absorbed of Emenike's sister without ever seeing her
+  face, confirming that Ijeoma is held at this same headquarters. The
+  episode closes on Mfoniso saying nothing of the discovery to anyone,
+  filing it away as leverage she has not yet decided how to spend.
 
 ---
 
