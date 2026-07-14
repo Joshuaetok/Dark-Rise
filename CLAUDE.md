@@ -230,10 +230,10 @@ changelog below (see that section's header for the exact current window).
 | Ozoemena | Mid ranking Idoro elder | Alive, Idoro. Humbled, trusted council member who serves through labor since his own disastrous rite killed the dibia (Ep26). Current thread: seconded Amara's argument at council for Emenike's conditional reinstatement without hesitation (Ep92). |
 | Kene | Surviving firstborn twin | Alive, toddler, Idoro. Original twin thread to the entity severed (Ep12); knows he has a brother (told Ep66); survived Mfoniso's first abduction attempt (Ep70), saved when the presence reached beyond Oso's ground for the first time. Current thread: began tracing an unbidden spiral in the dirt (Ep76) — the same shape both old powers have used on Zara — raising fear the presence's rescue left a second, uncut thread in him. Family is watching, not attempting another hasty severing rite. |
 | Chibundu | Abandoned secondborn twin / protagonist ("the one whom the presence carries") | Alive, Oso. Named by the presence through Zara (Ep47); reunited with Amara (Ep50); survived a trading House ambush at that reunion; has twice refused the trading House's partnership offer (once in his own voice, once when the presence seized his voice to refuse it for him, Ep60-61) and extracted a narrower promise from the presence (it will not take his voice again except to save his life). Current thread: kept vigil through the night in Oso's cold place until the entity finally answered near dawn, weaker than he has ever felt it; told it plainly to rest, the first time he has ever given it an order rather than a request (Ep91). |
-| Eze Amadi | King, Kingdom of Ijendu, throned at Udo | Alive, Udo. Aware of the entity and, since Ep65, the presence as a second distinct power. Has permanently assigned Osadebe to Idoro, stationed Chidebe's garrison there, and twice refused Ejikeme's push for a crown survey of Idoro's land. Currently absorbing Nkiruka's revised reading of the crown's historical archive (two powers across three centuries, not one). |
+| Eze Amadi | King, Kingdom of Ijendu, throned at Udo | Alive, Udo. Aware of the entity and, since Ep65, the presence as a second distinct power. Has permanently assigned Osadebe to Idoro and stationed Chidebe's garrison there. Current thread: absorbed Osadebe's report of the entity's direct action and the coerced informant, and authorized a formal crown investigation into trading House sabotage, a doubled permanent garrison for Idoro, and Ejikeme's long refused land survey, reframed as crown obligation rather than trade measure (Ep94). |
 | Nduka | Crown river-road intelligence agent | Alive. Minor, not currently active — carried the first report of Idoro's unraveling to Udo (Ep24). |
-| Nkiruka | Keeper of the crown's old rites and records, Udo | Alive. Holds the crown's only historical archive on prior encounters with old powers. Revised her reading (Ep65) to recognize two separate powers rather than one growing bolder. Active advisor to Eze Amadi. |
-| Ejikeme | Overseer of the crown's delta trade concessions, Udo | Alive. Has twice failed to win authorization for a crown survey of Idoro's land. Increasingly humbled by the scale of what the crown faces (admitted as much to Nkiruka, Ep65). |
+| Nkiruka | Keeper of the crown's old rites and records, Udo | Alive. Holds the crown's only historical archive on prior encounters with old powers. Revised her reading (Ep65) to recognize two separate powers rather than one growing bolder. Current thread: found a centuries old record of a border village that discovered a coerced informant exactly as Idoro did, whose account then stops mid record with no resolution, pages lost or removed; kept the discovery private from Eze Amadi until she has more than a shapeless fear to offer him (Ep94). Tasked with tracing trading Houses with river access near Idoro's delta. |
+| Ejikeme | Overseer of the crown's delta trade concessions, Udo | Alive. Won authorization for the crown survey of Idoro's land he had twice been refused (Ep94), granted as crown protective obligation rather than a trade measure, though he could not promise Nkiruka the crown would keep that distinction once exploitable ground was found. Dispatched to begin survey preparations within the week. |
 | Osadebe | Captain of Eze Amadi's personal service, permanently assigned to Idoro | Alive. The crown's primary eyewitness and liaison to Idoro. Recently returned from a full moon in Udo (Ep73), openly frustrated at how slow crown caution is. Current thread: wrote and sent the most urgent report of his career to Udo, telling Eze Amadi's court plainly that Oso's guardian has now acted directly for the first time in three centuries; formalized Emenike's season of supervised reinstatement (Ep92). |
 | Chidebe | Captain, commands the crown garrison at Idoro | Alive. Disciplined, trusted by Osadebe. Has doubled the night watch three times in episodes 77-78 as warnings escalate. Current thread: took personal responsibility at Emenike's hearing for not seeing his coercion sooner, though Emenike refused to let him share the blame (Ep92). |
 | Ikwuano | Keeper of the crown's scattered intelligence reports, Udo | Alive. Traced the trading House's court sponsor and confirmed its interest in Idoro predates its public approach by years. Not currently central to the active plot thread. |
@@ -668,6 +668,23 @@ same pattern (see Section 10, step 5).
   face, confirming that Ijeoma is held at this same headquarters. The
   episode closes on Mfoniso saying nothing of the discovery to anyone,
   filing it away as leverage she has not yet decided how to spend.
+- **Episode 94 — "The Crown's Reckoning" (2026-10-09):** Osadebe's
+  report reaches Udo and Eze Amadi's council convenes within the hour.
+  Nkiruka confirms Oso's guardian has never before acted rather than
+  warned in three centuries of records; Ejikeme, humbled since Episode
+  65, asks a third time for a survey of Idoro's land, this time as
+  protective obligation rather than trade interest, and Eze Amadi
+  grants it alongside a formal crown investigation into which trading
+  House sponsored the informant's coercion and a doubling of Idoro's
+  permanent garrison. Nkiruka warns that moving against the sponsoring
+  House risks provoking Mfoniso into striking again before she is
+  ready; Eze Amadi accepts the risk as smaller than standing still. The
+  episode closes on Nkiruka alone in the archive, finding a centuries
+  old record of a border village that once discovered a coerced
+  informant exactly as Idoro did — whose account simply stops mid
+  record, unresolved, pages lost or removed, leaving her with a private,
+  unshared fear that Idoro's own story might be heading toward the same
+  silence.
 
 ---
 
