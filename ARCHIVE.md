@@ -1032,5 +1032,74 @@ something changed, it's recorded here.
   harmless lapse in the boy's new watch proves exactly the kind of gap
   a patient enough hunter would only need once.
 
-*(End of archived changelog Episodes 1-68. Episodes 69-84 remain inline in
+- **Episode 69 — "A Face in the Market" (2026-09-14):** The
+  specialist, named here as Mfoniso, walks into Idoro's market
+  disguised as an ordinary traveler to finish what two days of
+  watching began. Zara feels the cold touch a third time, whole and
+  close enough to have a direction for the first time, and raises the
+  alarm immediately rather than sit with the fear alone. Chidebe
+  doubles the watch on the compound and stream; Amara pulls Kene from
+  his afternoon game; the entity admits to Chibundu that neither its
+  own senses nor the presence's caught a threat moving too quietly, or
+  too humanly, for either of them to sense. The episode closes on
+  Mfoniso, given away by Zara rather than either old power, calmly
+  revising her plan to move that same night rather than wait the two
+  additional days she had originally allowed.
+- **Episode 70 — "What the Night Almost Took" (2026-09-15):** Mfoniso's
+  charm draws Kene from his own bed at night, past a distracted watch,
+  echoing Zara's Episode 8 sleepwalk. Zara wakes at the same instant
+  and screams the household into motion; Obi runs blind toward the
+  stream. The presence reaches beyond Oso's claimed ground for the
+  first time in its existence to break the compulsion directly, at an
+  unprecedented cost it admits to Chibundu it has not yet finished
+  paying. Mfoniso, seeing her House's old accounts of a guardian's
+  limited range proven wrong in front of her, withdraws unhurried and
+  unharmed rather than fight a fully alerted power. Amara thanks the
+  presence aloud, setting aside her Episode 61 anger for raw
+  gratitude; by morning the whole village understands a hunter who
+  retreats this calmly fully intends to return.
+- **Episode 71 — "The Morning After" (2026-09-16):** Chidebe
+  reconstructs the night's failure and realizes the tree line sound
+  was a deliberate distraction rather than chance, meaning Mfoniso
+  studies how trained soldiers think. He thanks Zara plainly for the
+  warning that saved Kene; she admits the toll of sensing each danger
+  faster and closer is wearing on her. The council, with Amara arguing
+  for more honesty rather than less, settles on a plain public account
+  of the attack to put every parent in Idoro on the same watch her own
+  family now keeps. Obi asks Amara whether the family should leave
+  Idoro; she argues honesty and speed, not distance, are the only
+  defense that has ever actually worked, and they choose to stay. In
+  Oso, Chibundu and the entity conclude that months of force-and-
+  restraint training would not have saved Kene, and that speed and
+  honesty between everyone this danger could reach may be the real
+  answer to a hunter who avoids direct force entirely.
+- **Episode 72 — "The Cost Not Yet Paid" (2026-09-17):** The entity
+  notices Oso's roots answering sluggishly for the first time in
+  three centuries; Chibundu goes to the cold place uninvited and finds
+  the presence genuinely weakened. It admits the Episode 70 reach
+  broke a habit of never overspending its strength, that it does not
+  know how long recovery takes, and that the act may have been the
+  loudest thing it has done in three centuries — possibly making it
+  visible for the first time to the thing it has never named. Chibundu
+  offers it comfort in return, a first in their acquaintance. The
+  entity asks him to keep the weakness secret from the rest of the
+  family briefly; he agrees uneasily. The episode closes on Zara
+  noticing the old powers' ambient presence has gone quieter and
+  mentioning it to Amara, who resolves to ask Chibundu directly rather
+  than let the worry sit unspoken.
+- **Episode 73 — "The Captain Returns" (2026-09-18):** Osadebe returns
+  from a full moon in Udo spent answering the council's slow, careful
+  questions, only to learn the danger he described in the abstract
+  already arrived, attempted to take Kene, and left again twelve days
+  earlier. Chidebe and Amara give him the full account unsoftened;
+  Osadebe voices open anger that crown caution this slow only protects
+  the crown from having decided wrongly. Chidebe shares his own guilt
+  over the failed watch. That evening, Chibundu privately tells
+  Osadebe the truth of the presence's weakened state so his next
+  report will not be written blind, judging that the circle of people
+  who need the truth first is larger than the entity accounted for;
+  the entity, rather than objecting, agrees. Osadebe begins writing
+  the most urgent report he has ever sent north.
+
+*(End of archived changelog Episodes 1-73. Episodes 74-88 remain inline in
 CLAUDE.md's current Section 11 changelog as the active arc.)*
