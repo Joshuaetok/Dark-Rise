@@ -1,0 +1,581 @@
+#!/usr/bin/env python3
+"""
+Build script for THE DARK RISE — Episode 85: "Who Among Us"
+Creates a properly formatted .docx file using only Python stdlib (no external deps).
+
+Written 2026-09-30: Episode 85 sits with the fallout of Episode 84's
+discovery. Suspicion of an inside informant spreads quietly through
+household and garrison alike; Amara and Obi struggle with not knowing
+who to trust in their own compound, and Ozoemena feels the sting of
+unspoken doubt fall on him for the first time since his redemption.
+Chidebe privately cross references duty rosters against Osadebe's
+overlap list and narrows a shortlist of names who were present at
+every compromised route change, including a long trusted soldier named
+Emenike, without yet being able to prove anything. A small, painful
+incident between two soldiers shows Elder Maka's Episode 84 warning
+already coming true — the house beginning to eat itself before Mfoniso
+ever lifts a hand. The episode closes with Chidebe and Osadebe deciding
+they cannot confront anyone on suspicion alone and must instead test
+the shortlist directly, while a brief interlude shows Mfoniso camped
+closer to Idoro than she has ever dared, trusting the reliability of
+her informant completely.
+"""
+
+import zipfile
+import os
+import xml.etree.ElementTree as ET
+from xml.etree.ElementTree import Element, SubElement, tostring
+
+# ─── CONSTANTS ───────────────────────────────────────────────────────────────
+OUTPUT_DIR = "/data/data/com.termux/files/home/dark-rise/episodes"
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "The_Dark_Rise_Episode_85.docx")
+OUTPUT_DIR_USER = "/mnt/user-data/outputs"
+
+# ─── EPISODE CONTENT ─────────────────────────────────────────────────────────
+EPISODE_CONTENT = [
+    # ── Title page ──
+    {"type": "title_series", "text": "THE DARK RISE"},
+    {"type": "title_subtitle", "text": "Book One: The Abandoned"},
+    {"type": "title_ep_num", "text": "Episode Eighty Five"},
+    {"type": "title_ep_name", "text": "Who Among Us"},
+    {"type": "page_break", "text": ""},
+
+    # ═══════════════════════════════════════════════════════════════════════════
+    # ACT ONE: THE WEIGHT OF NOT KNOWING
+    # ═══════════════════════════════════════════════════════════════════════════
+
+    {"type": "body", "text": (
+        "No one slept well the night after Osadebe said the word "
+        "informant aloud, and it showed in the compound the next "
+        "morning the way exhaustion always showed, in short tempers and "
+        "long silences. Amara caught herself watching the soldiers at "
+        "the gate a moment too long before catching herself doing it, "
+        "ashamed of the habit before she had even decided whether it "
+        "was fair."
+    )},
+    {"type": "body", "text": (
+        "\"I keep looking at faces I have known for years,\" she "
+        "admitted to Obi, low enough that no one else at the fire could "
+        "hear it, \"and wondering which one of them would sell a child's "
+        "life for coin.\" Obi took her hand, though his own eyes had "
+        "been doing the same quiet arithmetic since the previous night. "
+        "\"That is exactly what she wants us doing,\" he said. \"Even if "
+        "she never meant to cause it directly. A house that watches "
+        "itself stops watching the tree line.\""
+    )},
+    {"type": "body", "text": (
+        "Ozoemena felt it too, sharper than most, though no one had "
+        "said his name aloud in connection with anything. He noticed "
+        "the pause before a soldier answered a simple question he asked "
+        "at the gate, the half second too long before someone met his "
+        "eyes, and understood without being told that his own history, "
+        "the rite that killed the dibia, the years of penance since, "
+        "made him an easy shape for suspicion to land on even when no "
+        "one meant to aim it there."
+    )},
+    {"type": "body", "text": (
+        "He said as much to Amara plainly, because plainness was the "
+        "only apology he had ever known how to offer. \"I have given "
+        "this village reason to doubt me once already,\" he said. \"I "
+        "do not blame anyone for remembering it now. I only ask that "
+        "whoever looks at me looks at the facts as well as the memory.\" "
+        "Amara told him she had not doubted him, and meant it, but she "
+        "noted, with a small ache, that she understood exactly why he "
+        "felt the need to say it first."
+    )},
+
+    {"type": "body", "text": (
+        "Zara felt the change in the compound's mood the way she used "
+        "to feel danger itself, before Mfoniso's working muffled that "
+        "particular sense down to nearly nothing, and found the "
+        "irony bitter enough to mention to Adaugo. \"I spent months "
+        "warning this family about a threat I could feel coming,\" she "
+        "said, watching two soldiers pass each other at the well "
+        "without speaking. \"Now the threat is inside the walls, and "
+        "for once my gift has nothing at all to tell me about it.\""
+    )},
+    {"type": "body", "text": (
+        "Adaugo, still learning to read a room the way Elder Maka was "
+        "teaching her to read a working, studied the soldiers' careful "
+        "distance from each other and named what she saw plainly. "
+        "\"It is not a working,\" she said. \"It is just people, "
+        "frightened of the wrong thing in the wrong direction.\" Zara "
+        "allowed herself a small, tired laugh at that, the first in "
+        "days. \"You are learning faster than I did,\" she said. \"I "
+        "hope it never has to be useful to you the way it is today.\""
+    )},
+
+    {"type": "blank", "text": ""},
+
+    # ═══════════════════════════════════════════════════════════════════════════
+    # ACT TWO: CHIDEBE'S OWN RECKONING
+    # ═══════════════════════════════════════════════════════════════════════════
+
+    {"type": "body", "text": (
+        "Chidebe spent the morning alone with his duty rosters, "
+        "matching every soldier's name against the handful of route "
+        "changes Osadebe had already flagged, hating the work more with "
+        "every line he wrote. He had trained most of these men himself. "
+        "He had stood watch beside them through the boundary ambush, the "
+        "night Kene was nearly taken, a dozen smaller frights in "
+        "between. Doubting them felt like doubting his own hands."
+    )},
+    {"type": "body", "text": (
+        "The list that emerged was short and unwelcome. Six names "
+        "appeared somewhere in the pattern. Only one, a quiet, reliable "
+        "soldier named Emenike who had served under Chidebe since before "
+        "the boundary ambush, appeared at every single compromised "
+        "change, present each time not because he was assigned to be "
+        "but because he was, as Chidebe had always understood it, simply "
+        "the kind of man who showed up early and stayed late without "
+        "being asked."
+    )},
+    {"type": "body", "text": (
+        "He remembered, unwillingly, the specific morning Emenike had "
+        "first come to him asking to serve, a thin young man from a "
+        "family with nothing, who had walked to the garrison gate three "
+        "separate times before Chidebe finally agreed to test him. He "
+        "had proven himself a dozen times over since, steady under fire "
+        "at the boundary ambush, first to volunteer for the coldest "
+        "watches, the kind of soldier other men measured themselves "
+        "against. None of it, Chidebe knew, meant a debt or a fear "
+        "could not still be hiding somewhere behind it."
+    )},
+    {"type": "body", "text": (
+        "Chidebe stared at that name for a long time before he brought "
+        "it to Osadebe, and when he did, he made himself say the fair "
+        "half of it first. \"Emenike is also the most dependable man I "
+        "have,\" he said. \"That is exactly why he is always in the "
+        "room. It does not make him guilty. It makes him unlucky, or it "
+        "makes him something I do not want to say out loud yet.\" "
+        "Osadebe agreed, reluctantly, that presence alone proved "
+        "nothing. \"We need him to fail a test he does not know he is "
+        "taking,\" he said. \"Not a feeling. A fact.\""
+    )},
+    {"type": "body", "text": (
+        "\"And if it is him,\" Chidebe said quietly, more to himself "
+        "than to Osadebe, \"I want to be the one who hears why, before "
+        "anyone else in this compound decides they already know.\" "
+        "Osadebe did not answer that directly, but he did not disagree "
+        "with it either, and the two men sat a while longer over the "
+        "hide map in a silence neither of them found comfortable."
+    )},
+
+    {"type": "blank", "text": ""},
+
+    # ═══════════════════════════════════════════════════════════════════════════
+    # ACT THREE: THE HOUSE EATING ITSELF
+    # ═══════════════════════════════════════════════════════════════════════════
+
+    {"type": "body", "text": (
+        "The proof of Elder Maka's warning arrived before either man "
+        "had finished deciding how to build a fair test. A younger "
+        "soldier, overhearing half a rumor from someone who had "
+        "overheard it from someone else, accused a friend of his own "
+        "openly at the well, loud enough for half the compound to hear "
+        "it, over nothing more than the accused man's turn on duty "
+        "matching two of the compromised nights."
+    )},
+    {"type": "body", "text": (
+        "The argument turned physical before Chidebe reached them, two "
+        "men who had shared meals and watches for years grappling in "
+        "the dirt over a suspicion neither of them could actually prove, "
+        "while the rest of the garrison stood frozen, unwilling to take "
+        "either side and equally unwilling to look away. Chidebe pulled "
+        "them apart himself, breathing hard, angrier than either of the "
+        "men he separated."
+    )},
+    {"type": "body", "text": (
+        "\"This,\" he said, loud enough for the whole yard to hear, "
+        "\"is exactly what she wants from us, and I nearly let it "
+        "happen inside my own gate.\" He looked around at the gathered "
+        "soldiers, all of them ashamed now, all of them avoiding each "
+        "other's eyes for a different reason than they had that morning. "
+        "\"No one accuses anyone again without proof brought to me or "
+        "to Osadebe first. Whoever breaks that rule answers to me "
+        "personally, whether they are right or wrong.\""
+    )},
+    {"type": "body", "text": (
+        "Later, with the yard quiet again and the two soldiers sent to "
+        "separate duties for the rest of the day, Osadebe found Chidebe "
+        "still standing where the fight had happened, staring at the "
+        "churned dirt. \"We cannot wait for another one of those to "
+        "happen before we act,\" Osadebe said. \"We build the test. "
+        "Tonight. Different false details to different names on the "
+        "list, and we watch which one reaches her.\" Chidebe nodded "
+        "slowly, already dreading whichever name the answer turned out "
+        "to be."
+    )},
+    {"type": "body", "text": (
+        "Amara found Elder Maka afterward, sitting apart from the "
+        "settled yard with her eyes on the churned dirt where the fight "
+        "had happened. \"You warned us this would come,\" Amara said. "
+        "\"I did not expect it to come from two boys who have shared a "
+        "cook fire for years.\" Elder Maka did not look away from the "
+        "dirt. \"That is exactly where it always comes from,\" she "
+        "said. \"Not from strangers. From people already standing close "
+        "enough to hurt each other, the moment fear gives them a reason "
+        "to.\" She finally turned to Amara, her voice gentler than her "
+        "words had been. \"Find the truth quickly, child. A house can "
+        "survive being hunted. It survives doubting itself for far less "
+        "time before something in it breaks that cannot be mended with "
+        "an apology.\""
+    )},
+
+    {"type": "blank", "text": ""},
+
+    # ═══════════════════════════════════════════════════════════════════════════
+    # INTERLUDE: WHAT MFONISO NO LONGER FEARED
+    # ═══════════════════════════════════════════════════════════════════════════
+
+    {"type": "body", "text": (
+        "Mfoniso made camp that night closer to Idoro than she had "
+        "allowed herself to sleep since the night she lost Kene, near "
+        "enough that a careless fire would have shown against the tree "
+        "line. She built no fire at all, from habit rather than fear, "
+        "and trusted the silence around her the way she had learned to "
+        "trust silence her informant had never once given her reason to "
+        "doubt."
+    )},
+    {"type": "body", "text": (
+        "Twice a week for longer than she liked to count, the bark "
+        "cloth messages had told her exactly what she needed and never "
+        "once told her something false. That reliability had become, "
+        "without her quite noticing when it happened, something close "
+        "to trust, an unfamiliar feeling for a woman who had spent her "
+        "whole career trusting nothing she had not verified herself."
+    )},
+    {"type": "body", "text": (
+        "She did not yet know that the household she hunted had finally "
+        "turned its attention inward, or that the very reliability she "
+        "leaned on was about to be tested with a lie built specifically "
+        "to catch her listening. She only knew that Idoro was closer "
+        "tonight than it had ever been, and that patience, for the "
+        "first time in weeks, felt almost within reach of paying off."
+    )},
+    {"type": "body", "text": (
+        "She slept lightly, as always, one hand resting near the knife "
+        "at her belt out of habit rather than need, and let herself "
+        "believe, for the first time in a long while, that the hardest "
+        "part of this hunt might already be behind her rather than "
+        "still ahead."
+    )},
+]
+
+# ─── OOXML HELPERS ────────────────────────────────────────────────────────────
+
+NS_WORD = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+NS_MC = "http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+ET.register_namespace("w", NS_WORD)
+ET.register_namespace("mc", NS_MC)
+
+
+def qn(tag):
+    return f"{{{NS_WORD}}}{tag}"
+
+
+def make_element(tag, attrib=None, text=None):
+    el = Element(qn(tag), attrib=attrib or {})
+    if text is not None:
+        el.text = text
+    return el
+
+
+def make_run(text, bold=False, font_name="Georgia", font_size=24, caps=False):
+    r = make_element("r")
+    rPr = make_element("rPr")
+
+    rFonts = make_element("rFonts", {
+        f"{{{NS_WORD}}}ascii": font_name,
+        f"{{{NS_WORD}}}hAnsi": font_name,
+        f"{{{NS_WORD}}}cs": font_name,
+    })
+    rPr.append(rFonts)
+
+    sz = make_element("sz", {f"{{{NS_WORD}}}val": str(font_size)})
+    rPr.append(sz)
+    szCs = make_element("szCs", {f"{{{NS_WORD}}}val": str(font_size)})
+    rPr.append(szCs)
+
+    if bold:
+        rPr.append(make_element("b"))
+        rPr.append(make_element("bCs"))
+
+    if caps:
+        rPr.append(make_element("caps"))
+
+    r.append(rPr)
+
+    t = make_element("t", {"xml:space": "preserve"}, text)
+    r.append(t)
+
+    return r
+
+
+def make_paragraph(runs, spacing_after=120, spacing_line=360, alignment="left",
+                    first_line_indent=None):
+    p = make_element("p")
+    pPr = make_element("pPr")
+
+    spacing = make_element("spacing", {
+        f"{{{NS_WORD}}}after": str(spacing_after),
+        f"{{{NS_WORD}}}line": str(spacing_line),
+    })
+    pPr.append(spacing)
+
+    if alignment != "left":
+        jc = make_element("jc", {f"{{{NS_WORD}}}val": alignment})
+        pPr.append(jc)
+
+    if first_line_indent:
+        ind = make_element("ind", {f"{{{NS_WORD}}}firstLine": str(first_line_indent)})
+        pPr.append(ind)
+
+    p.append(pPr)
+
+    for run in runs:
+        p.append(run)
+
+    return p
+
+
+def make_title_paragraph(text, font_size=32, bold=True, alignment="center",
+                          spacing_after=60, spacing_line=360):
+    runs = [make_run(text, bold=bold, font_size=font_size)]
+    return make_paragraph(runs, spacing_after=spacing_after,
+                           spacing_line=spacing_line, alignment=alignment)
+
+
+def make_body_paragraph(text, spacing_after=60, spacing_line=360):
+    runs = [make_run(text, bold=False, font_size=24)]
+    return make_paragraph(runs, spacing_after=spacing_after,
+                           spacing_line=spacing_line, alignment="left",
+                           first_line_indent=360)
+
+
+def make_system_paragraph(text, spacing_after=120, spacing_line=360):
+    runs = [make_run(text, bold=True, font_size=24, caps=True)]
+    return make_paragraph(runs, spacing_after=spacing_after,
+                           spacing_line=spacing_line, alignment="left",
+                           first_line_indent=0)
+
+
+def make_blank_paragraph(spacing_after=0, spacing_line=360):
+    runs = [make_run("", font_size=24)]
+    return make_paragraph(runs, spacing_after=spacing_after,
+                           spacing_line=spacing_line)
+
+
+# ─── BUILD DOCUMENT XML ──────────────────────────────────────────────────────
+
+def build_document_xml():
+    document = Element(
+        qn("document"),
+        {f"{{{NS_MC}}}Ignorable": "w14 wp14"},
+    )
+
+    body = SubElement(document, qn("body"))
+
+    for item in EPISODE_CONTENT:
+        typ = item["type"]
+        text = item["text"]
+
+        if typ == "title_series":
+            para = make_title_paragraph(text, font_size=36, bold=True,
+                                         alignment="center", spacing_after=0)
+        elif typ == "title_subtitle":
+            para = make_title_paragraph(text, font_size=28, bold=False,
+                                         alignment="center", spacing_after=0)
+        elif typ == "title_ep_num":
+            para = make_title_paragraph(text, font_size=26, bold=False,
+                                         alignment="center", spacing_after=0)
+        elif typ == "title_ep_name":
+            para = make_title_paragraph(text, font_size=30, bold=True,
+                                         alignment="center", spacing_after=0)
+        elif typ == "page_break":
+            para = make_element("p")
+            pPr = make_element("pPr")
+            run = make_element("r")
+            br = make_element("br", {f"{{{NS_WORD}}}type": "page"})
+            run.append(br)
+            para.append(pPr)
+            para.append(run)
+        elif typ == "body":
+            para = make_body_paragraph(text)
+        elif typ == "system":
+            para = make_system_paragraph(text)
+        elif typ == "blank":
+            para = make_blank_paragraph()
+        else:
+            continue
+
+        body.append(para)
+
+    sectPr = make_element("sectPr")
+    pgSz = make_element("pgSz", {
+        f"{{{NS_WORD}}}w": "12240",
+        f"{{{NS_WORD}}}h": "15840",
+    })
+    sectPr.append(pgSz)
+    pgMar = make_element("pgMar", {
+        f"{{{NS_WORD}}}top": "1440",
+        f"{{{NS_WORD}}}right": "1440",
+        f"{{{NS_WORD}}}bottom": "1440",
+        f"{{{NS_WORD}}}left": "1440",
+        f"{{{NS_WORD}}}header": "720",
+        f"{{{NS_WORD}}}footer": "720",
+        f"{{{NS_WORD}}}gutter": "0",
+    })
+    sectPr.append(pgMar)
+    body.append(sectPr)
+
+    return document
+
+
+# ─── BUILD .DOCX PACKAGE ─────────────────────────────────────────────────────
+
+def build_docx(output_path):
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+    doc_xml = (
+        '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+        + tostring(build_document_xml(), encoding="unicode")
+    )
+
+    content_types_xml = (
+        '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+        '<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">'
+        '<Default Extension="rels" ContentType='
+        '"application/vnd.openxmlformats-package.relationships+xml"/>'
+        '<Default Extension="xml" ContentType="application/xml"/>'
+        '<Override PartName="/word/document.xml" ContentType='
+        '"application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>'
+        '<Override PartName="/word/styles.xml" ContentType='
+        '"application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/>'
+        '<Override PartName="/docProps/core.xml" ContentType='
+        '"application/vnd.openxmlformats-package.core-properties+xml"/>'
+        '<Override PartName="/docProps/app.xml" ContentType='
+        '"application/vnd.openxmlformats-officedocument.extended-properties+xml"/>'
+        '</Types>'
+    )
+
+    rels_xml = (
+        '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+        '<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">'
+        '<Relationship Id="rId1" Type='
+        '"http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument"'
+        ' Target="word/document.xml"/>'
+        '<Relationship Id="rId2" Type='
+        '"http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties"'
+        ' Target="docProps/core.xml"/>'
+        '<Relationship Id="rId3" Type='
+        '"http://schemas.openxmlformats.org/officeDocument/2006/relationships/extended-properties"'
+        ' Target="docProps/app.xml"/>'
+        '</Relationships>'
+    )
+
+    doc_rels_xml = (
+        '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+        '<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">'
+        '<Relationship Id="rId1" Type='
+        '"http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles"'
+        ' Target="styles.xml"/>'
+        '</Relationships>'
+    )
+
+    styles_xml = (
+        '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+        '<w:styles xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">'
+        '<w:docDefaults>'
+        '<w:rPrDefault><w:rPr>'
+        '<w:rFonts w:ascii="Georgia" w:hAnsi="Georgia" w:cs="Georgia"/>'
+        '<w:sz w:val="24"/><w:szCs w:val="24"/>'
+        '</w:rPr></w:rPrDefault>'
+        '</w:docDefaults>'
+        '<w:style w:type="paragraph" w:default="1" w:styleId="Normal">'
+        '<w:name w:val="Normal"/>'
+        '</w:style>'
+        '</w:styles>'
+    )
+
+    core_xml = (
+        '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+        '<cp:coreProperties '
+        'xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" '
+        'xmlns:dc="http://purl.org/dc/elements/1.1/">'
+        '<dc:title>The Dark Rise</dc:title>'
+        '<dc:creator>The Dark Rise</dc:creator>'
+        '</cp:coreProperties>'
+    )
+
+    app_xml = (
+        '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+        '<Properties xmlns='
+        '"http://schemas.openxmlformats.org/officeDocument/2006/extended-properties">'
+        '<Application>The Dark Rise Build Script</Application>'
+        '</Properties>'
+    )
+
+    with zipfile.ZipFile(output_path, "w", zipfile.ZIP_DEFLATED) as zf:
+        zf.writestr("[Content_Types].xml", content_types_xml)
+        zf.writestr("_rels/.rels", rels_xml)
+        zf.writestr("word/document.xml", doc_xml)
+        zf.writestr("word/_rels/document.xml.rels", doc_rels_xml)
+        zf.writestr("word/styles.xml", styles_xml)
+        zf.writestr("docProps/core.xml", core_xml)
+        zf.writestr("docProps/app.xml", app_xml)
+
+    return output_path
+
+
+# ─── WORD COUNT ───────────────────────────────────────────────────────────────
+
+def count_words():
+    total = 0
+    for item in EPISODE_CONTENT:
+        if item["type"] in ("body", "system"):
+            total += len(item["text"].split())
+    return total
+
+
+# ─── MAIN ─────────────────────────────────────────────────────────────────────
+
+def main():
+    print("=" * 60)
+    print("  THE DARK RISE — Episode 85: \"Who Among Us\"")
+    print("  Build Script")
+    print("=" * 60)
+    print()
+
+    wc = count_words()
+    print(f"  Word count: {wc}")
+    if wc < 1550:
+        print(f"  WARNING: Under minimum (1,550). Need {1550 - wc} more.")
+    elif wc > 2150:
+        print(f"  WARNING: Over maximum (2,150). Need to cut {wc - 2150}.")
+    else:
+        print(f"  Word count in range (1,550-2,150)")
+    print(f"  Estimated duration: {wc / 130:.1f}-{wc / 150:.1f} minutes")
+    print()
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    build_docx(OUTPUT_FILE)
+    print(f"  Created: {OUTPUT_FILE}")
+    print()
+
+    try:
+        os.makedirs(OUTPUT_DIR_USER, exist_ok=True)
+        import shutil
+        shutil.copy(OUTPUT_FILE, os.path.join(OUTPUT_DIR_USER, "The_Dark_Rise_Episode_85.docx"))
+        print(f"  Copied to: {OUTPUT_DIR_USER}/The_Dark_Rise_Episode_85.docx")
+    except Exception as e:
+        print(f"  Could not copy to {OUTPUT_DIR_USER}: {e}")
+    print()
+
+    print("  Done.")
+    return wc
+
+
+if __name__ == "__main__":
+    main()
