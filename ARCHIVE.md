@@ -72,7 +72,7 @@ something changed, it's recorded here.
 
 ---
 
-## ARCHIVED CHANGELOG (Episodes 1–83)
+## ARCHIVED CHANGELOG (Episodes 1–86)
 
 - **Episode 1 — "Born to Die" (rewritten 2026-07-05 for AI voice-over
   clarity):** Twins born in Idoro to Amara and Obi; second-born abandoned in
@@ -1264,6 +1264,56 @@ something changed, it's recorded here.
   move in weeks, unsettled that the tie to her own teacher's lineage
   was found rather than kept hidden.
 
-*(End of archived changelog Episodes 1-83. Episodes 84 onward remain inline
+- **Episode 84 — "The Path No One Watched" (2026-09-29):** Chidebe and
+  Osadebe convert Elder Maka's rough trace direction into staggered,
+  unpredictable patrols. Over three days, reports come back of fresh
+  signs of passage always in the one stretch of ground a patrol had
+  just left, too precise to be luck. When a route changed inside a
+  closed four person meeting is compromised before it even takes
+  effect, Osadebe brings the conclusion to Amara directly: someone
+  inside Idoro is feeding Mfoniso their movements. In Oso, the entity
+  tells Chibundu it would not be surprised if Mfoniso bought eyes
+  inside the household rather than out thinking the garrison from
+  outside it, warning that a house doubting its own hands does half a
+  hunter's work for her. Elder Maka cautions against naming a suspect
+  without proof. The episode closes on Mfoniso's own side, confirming
+  she receives Idoro's patrol movements through an anonymous bark
+  cloth drop point near the market, twice weekly — she does not know
+  her informant's face, only that someone inside that grieving,
+  guarded household wants her to succeed badly enough to risk
+  everything for it.
+- **Episode 85 — "Who Among Us" (2026-09-30):** Suspicion spreads
+  quietly through Idoro; Amara admits to Obi the shame of watching
+  trusted faces differently, and Ozoemena feels doubt land on him
+  first, unspoken, because of his own history with the dibia's death.
+  Chidebe privately narrows a shortlist of six names against duty
+  rosters, finding one, the long trusted soldier Emenike, present at
+  every compromised route change, though presence alone proves
+  nothing. Elder Maka's warning proves true when two soldiers come to
+  blows over unproven suspicion at the well; Chidebe breaks it up and
+  bars further accusations without proof brought to him or Osadebe
+  first. Osadebe proposes testing the shortlist with deliberately
+  false patrol details rather than confronting anyone outright. The
+  episode closes on Mfoniso, camped closer to Idoro than she has dared
+  since losing Kene, trusting her informant's unbroken reliability
+  completely, unaware the household has finally turned its attention
+  inward and is about to test that reliability with a lie built to
+  catch her listening.
+- **Episode 86 — "The False Patrol" (2026-10-01):** Chidebe splits the
+  six-name informant shortlist into isolated pairs, each given a
+  different fabricated patrol detail, pairing Emenike with the quiet
+  soldier Adaeku on a route along the old grain path. Amara presses him
+  on the ethics of lying to his own men before making him promise it
+  will not become how the household operates. After two tense days,
+  only the Emenike-Adaeku route draws fresh signs of Mfoniso's passage.
+  That night Osadebe trails Adaeku, whose evening proves ordinary,
+  while Chidebe follows Emenike himself and watches him break from his
+  usual path after watch, moving in secret toward the market's edge.
+  The episode closes mid pursuit, with Chidebe closing the last
+  distance behind Emenike toward what can only be the drop point,
+  forcing himself forward even as he wishes he had never built the
+  test at all.
+
+*(End of archived changelog Episodes 1-86. Episodes 84 onward remain inline
 in CLAUDE.md's current Section 11 changelog as the active arc; the oldest
 entries are appended here whenever that section is trimmed.)*
