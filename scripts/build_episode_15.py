@@ -109,7 +109,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity held the small, controlled "
+        "Beneath the iroko roots, the entity held the small, controlled "
         "portion of itself that spoke through the midwife with the same "
         "steady attention it gave every working it had ever spun out "
         "across this village, watching the reaction it produced the way "

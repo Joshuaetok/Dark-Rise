@@ -88,7 +88,7 @@ EPISODE_CONTENT = [
 
     {"type": "body", "text": (
         "The tree line came into view as the sky began to pale, the "
-        "ak-pu saplings standing in their strange, deliberate ring "
+        "iroko saplings standing in their strange, deliberate ring "
         "exactly as Zara had once described them, and beyond the "
         "saplings, the older growth, dark even in the strengthening "
         "light, close and patient in a way no ordinary forest had ever "
@@ -126,7 +126,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had felt the three of them "
+        "Beneath the iroko roots, the entity had felt the three of them "
         "coming since they first left the village behind, and had spent "
         "the whole of their approach weighing, with the same "
         "unhurried care it gave every decision that might cost it "
@@ -268,7 +268,7 @@ EPISODE_CONTENT = [
         "It had not done so by accident. Amara understood that much "
         "with a certainty that settled cold and permanent beneath "
         "everything else she felt standing at that boundary. Whatever "
-        "was growing beneath the ak-pu roots had just decided, for "
+        "was growing beneath the iroko roots had just decided, for "
         "reasons only it fully understood, that the time for staying "
         "unseen by the wider world had finally come to an end."
     )},

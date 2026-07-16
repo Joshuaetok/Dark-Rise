@@ -139,7 +139,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity reviewed the whole shape "
+        "Beneath the iroko roots, the entity reviewed the whole shape "
         "of what these last weeks had produced with the particular "
         "satisfaction of a careful trader closing out a season's "
         "accounts and finding the balance better than expected."

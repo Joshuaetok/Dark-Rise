@@ -123,7 +123,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity felt the thread go dark "
+        "Beneath the iroko roots, the entity felt the thread go dark "
         "the instant the dibia's body stopped, a small, final "
         "extinguishing it registered with the same flat attention it "
         "gave every other closed account across three centuries of "

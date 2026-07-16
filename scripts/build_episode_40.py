@@ -7,7 +7,7 @@ Written 2026-08-16: Episode 40 closes the block that began with Episode
 31. The trading House's agent returns to Idoro with his "clearer
 invitation" — armed men rather than a written permission — and forces a
 standoff Osadebe has no clean political tool to end. When the party pushes
-past the field boundary toward the ak-pu tree line despite every refusal,
+past the field boundary toward the iroko tree line despite every refusal,
 the entity, already primed by the spike of fear rolling off the village,
 makes a choice it has never made before: rather than a message or a
 warning, it answers with the root wall from Episode 23 turned violent for
@@ -130,7 +130,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had felt the shape of "
+        "Beneath the iroko roots, the entity had felt the shape of "
         "Idoro's fear change hours before the armed men ever reached "
         "the field, a fresh, sharp spike unlike the low steady dread "
         "it had fed on for months, closer to the particular terror a "
@@ -235,7 +235,7 @@ EPISODE_CONTENT = [
         "had just happened to him, carrying proof of Idoro's danger "
         "back to employers who would not let a beating stop them so "
         "much as sharpen their appetite for whatever had delivered it. "
-        "Somewhere far beyond even the ak-pu roots, something far "
+        "Somewhere far beyond even the iroko roots, something far "
         "older than either of them had almost certainly felt the boy "
         "reach outward and use his will for the very first time, and "
         "the entity, watching him gather his stones back into their "

@@ -58,7 +58,7 @@ EPISODE_CONTENT = [
     {"type": "blank", "text": ""},
 
     {"type": "body", "text": (
-        "The infant lay in its cloth bundle at the base of the ak-pu tree. "
+        "The infant lay in its cloth bundle at the base of the iroko tree. "
         "The night was cold. The child should have been shivering. It was "
         "not. The child should have been crying. It was not. The child "
         "should have been dying. It was not."
@@ -269,7 +269,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "The child was warm. The cold of the night had not touched him. The "
-        "ground around the ak-pu tree was warmer than the ground three feet "
+        "ground around the iroko tree was warmer than the ground three feet "
         "away. The roots had shifted in the night — just enough to cradle "
         "the bundle. The tree knew what slept beneath it. The tree knew what "
         "had woken."
@@ -287,7 +287,7 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "The child's hand moved. It was not the random flailing of an "
         "infant. It was deliberate. The small fingers uncurled. They "
-        "reached toward the ak-pu tree's trunk. They pressed against the "
+        "reached toward the iroko tree's trunk. They pressed against the "
         "bark."
     )},
     {"type": "body", "text": (

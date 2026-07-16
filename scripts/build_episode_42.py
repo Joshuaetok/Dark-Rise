@@ -143,7 +143,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had spent the days since "
+        "Beneath the iroko roots, the entity had spent the days since "
         "sensing the presence's closer attention doing something it "
         "had not done carefully in a long while: taking stock of every "
         "thread it had ever built into Idoro, the way a careful trader "

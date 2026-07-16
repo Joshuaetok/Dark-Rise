@@ -7,7 +7,7 @@ Written 2026-09-17: Episode 72 makes the presence's Episode 70 cost
 concrete. It has not reached for Chibundu unprompted since that
 night, a departure from the pattern it only just began in Episode 67,
 and Oso itself feels subtly duller to the entity, roots slower to
-answer, the ak-pu tree's usual restlessness gone quiet. Chibundu goes
+answer, the iroko tree's usual restlessness gone quiet. Chibundu goes
 to the cold place uninvited again and finds the presence genuinely
 weakened, admitting the reach cost more than it let itself believe in
 the moment and that it does not know how long recovery will take.

@@ -167,7 +167,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the boy had taken to murmuring a "
+        "Beneath the iroko roots, the boy had taken to murmuring a "
         "single soft word over his stones while he arranged them, low "
         "and rhythmic, the way a much older child might hum without "
         "noticing he was doing it, and the entity, which had shaped "

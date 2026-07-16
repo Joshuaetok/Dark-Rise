@@ -151,7 +151,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had felt the new thread "
+        "Beneath the iroko roots, the entity had felt the new thread "
         "settle into existence the instant Elder Maka chose to carry it, "
         "a thin, unexpected gift dropped directly into its reach by the "
         "one woman in Idoro who had never once intended to give it "

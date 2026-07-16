@@ -135,7 +135,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity watched the spiral form "
+        "Beneath the iroko roots, the entity watched the spiral form "
         "in Amara's yard through the same faint, careful attention it "
         "had kept trained on Zara's reclaimed thread since discovering "
         "it, and recognized the shape the instant the first coil "

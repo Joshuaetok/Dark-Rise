@@ -147,7 +147,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity found itself stumbling "
+        "Beneath the iroko roots, the entity found itself stumbling "
         "over the name in a way it had not expected, three centuries "
         "of careful, deliberate speech suddenly catching on four "
         "simple syllables that belonged to someone else's choosing "

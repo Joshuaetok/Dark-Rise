@@ -103,7 +103,7 @@ EPISODE_CONTENT = [
         "the edges of human fear like a man drinking dew from leaves."
     )},
     {"type": "body", "text": (
-        "It showed the child the ak-pu tree above them — not as a tree but "
+        "It showed the child the iroko tree above them — not as a tree but "
         "as a door. A door that had stood closed for three hundred years. A "
         "door that was now opening, one hair's width at a time."
     )},
@@ -122,7 +122,7 @@ EPISODE_CONTENT = [
     {"type": "blank", "text": ""},
 
     {"type": "body", "text": (
-        "In the branches of the ak-pu tree, a bird landed. It was the "
+        "In the branches of the iroko tree, a bird landed. It was the "
         "first bird to enter Oso in three hundred years. It stayed for "
         "three heartbeats. Then it fell from the branch, dead before it "
         "hit the ground."
@@ -287,7 +287,7 @@ EPISODE_CONTENT = [
         "living safe from the dead."
     )},
     {"type": "body", "text": (
-        "Now he understood. Every child he had left at the ak-pu tree had "
+        "Now he understood. Every child he had left at the iroko tree had "
         "been a feeding. Not a severing. The law had not protected Idoro. "
         "The law had kept something beneath Oso alive just long enough to "
         "find the right vessel."
@@ -352,7 +352,7 @@ EPISODE_CONTENT = [
 
     # System line — the progression
     {"type": "system", "text": "VESSEL STATUS: FIRST MOVEMENT — MOTOR CONTROL EXCEEDING INFANT NORM."},
-    {"type": "system", "text": "BOUNDARY INTEGRITY: STABLE — THINNING AT THE AK-PU ROOT LINE."},
+    {"type": "system", "text": "BOUNDARY INTEGRITY: STABLE — THINNING AT THE IROKO ROOT LINE."},
 
     {"type": "blank", "text": ""},
 
@@ -430,7 +430,7 @@ EPISODE_CONTENT = [
         "The entity dreamed."
     )},
     {"type": "body", "text": (
-        "And deep beneath the roots of the ak-pu tree, something that had "
+        "And deep beneath the roots of the iroko tree, something that had "
         "been dead for three hundred years began to beat."
     )},
     {"type": "body", "text": (

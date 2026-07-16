@@ -138,7 +138,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had felt the shape of "
+        "Beneath the iroko roots, the entity had felt the shape of "
         "Idoro's politics shifting for days now, a new hunger for "
         "certainty rising out of the vacuum Elder Maka's fall had left "
         "behind, and it turned its attention toward the man now "

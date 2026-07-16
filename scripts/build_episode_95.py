@@ -86,7 +86,7 @@ EPISODE_CONTENT = [
         "not relieved it finally has.\""
     )},
     {"type": "body", "text": (
-        "Elder Maka found Adaugo at the ak-pu tree's edge that same "
+        "Elder Maka found Adaugo at the iroko tree's edge that same "
         "afternoon, practicing the small, careful working she had been "
         "taught only the week before, and watched her complete it clean "
         "on the third attempt without needing correction. \"You are "

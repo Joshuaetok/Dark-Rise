@@ -190,7 +190,7 @@ EPISODE_CONTENT = [
         "ready for."
     )},
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity sat a long while with a "
+        "Beneath the iroko roots, the entity sat a long while with a "
         "name it had not chosen, had not been asked about, and could "
         "not now unhear, understanding with total clarity that "
         "whatever it had believed about its own authority over this "

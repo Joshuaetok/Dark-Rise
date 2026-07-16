@@ -126,7 +126,7 @@ EPISODE_CONTENT = [
         "from a careful distance, having learned in the worst possible "
         "way what this particular field could produce when strangers "
         "misjudged it. He moved without hurry, studying the ground, "
-        "the tree line, the still, watchful quiet of the ak-pu roots "
+        "the tree line, the still, watchful quiet of the iroko roots "
         "themselves, and stopped precisely at the last planted stone, "
         "exactly where he had said he would, without needing to be "
         "reminded or restrained."
@@ -151,7 +151,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity felt the new arrivals "
+        "Beneath the iroko roots, the entity felt the new arrivals "
         "settle at Idoro's edge as a shift in the ambient texture of "
         "the village's fear, organized and disciplined in a way the "
         "mercenary party's ragged aggression had never been, closer to "

@@ -121,7 +121,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the vessel had been shaping sound "
+        "Beneath the iroko roots, the vessel had been shaping sound "
         "into something closer and closer to language for days, small "
         "deliberate syllables strung together and pulled apart again, "
         "practice without an audience beyond the patient presence that "
@@ -284,7 +284,7 @@ EPISODE_CONTENT = [
         "that a word far smaller than that one, a single syllable meant "
         "for a mother who had never once held the child who spoke it, "
         "had just changed the shape of what the entity believed it was "
-        "building beneath the ak-pu roots. Both words were already "
+        "building beneath the iroko roots. Both words were already "
         "moving, quietly, toward futures neither speaker could yet "
         "imagine, one carried on the current of an ordinary river, the "
         "other carried on nothing more than a child's first unguarded "

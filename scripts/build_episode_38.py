@@ -142,7 +142,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had spent a full day "
+        "Beneath the iroko roots, the entity had spent a full day "
         "deciding how to keep the boy from the cold dark place without "
         "telling him why, and had concluded, reluctantly, that there "
         "was no version of the instruction that did not sound exactly "
@@ -250,7 +250,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "For the first time since it had claimed this ground, the "
-        "thing beneath the ak-pu roots understood that the silence on "
+        "thing beneath the iroko roots understood that the silence on "
         "the other side of its own borders had just stopped waiting "
         "and started speaking, and that it had chosen, deliberately, "
         "to do it on a night the entity had tried hardest to keep the "

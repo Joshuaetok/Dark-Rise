@@ -143,7 +143,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity tasted a new thread moving "
+        "Beneath the iroko roots, the entity tasted a new thread moving "
         "through Idoro's fear that afternoon, unfamiliar enough that it "
         "took a long moment to place what made the flavor of it "
         "different from everything the village had produced before."

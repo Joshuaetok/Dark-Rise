@@ -141,7 +141,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity felt the date settle into "
+        "Beneath the iroko roots, the entity felt the date settle into "
         "place the way it felt every decision Idoro made about its "
         "threads now, and turned, at last, to the question it had left "
         "open across two full episodes of careful observation."

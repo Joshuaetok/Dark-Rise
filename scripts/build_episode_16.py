@@ -128,7 +128,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity felt the shape of Elder "
+        "Beneath the iroko roots, the entity felt the shape of Elder "
         "Maka's alarm gathering the same way it had felt every alarm "
         "gather in this village since it first opened its senses toward "
         "the compound where its own son had been born, and weighed, "
@@ -291,7 +291,7 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "She walked away without looking back a second time, and Amara "
         "stood watching her go, thinking of a secret only she and Obi "
-        "and one voice from beneath the ak-pu roots now shared, and "
+        "and one voice from beneath the iroko roots now shared, and "
         "wondering how much longer mercy from a woman that afraid of her "
         "own hidden truth could be trusted to hold its shape at all."
     )},

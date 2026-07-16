@@ -135,7 +135,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the boy had not touched his stones "
+        "Beneath the iroko roots, the boy had not touched his stones "
         "since the roots fell still, sitting instead with his knees "
         "drawn up and his hands hidden beneath them, as though hiding "
         "them from sight might undo what they had done the night "
@@ -153,7 +153,7 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "A mile away, unaware any of it had happened, Kene had spent "
         "that same night asleep in his own bed, warm and ordinary and "
-        "untouched by anything that moved beneath the ak-pu roots, "
+        "untouched by anything that moved beneath the iroko roots, "
         "and the entity, holding both boys in its attention for one "
         "brief unguarded moment, felt the full weight of everything "
         "that had once been true of both of them and was now true of "

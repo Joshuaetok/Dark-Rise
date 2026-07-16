@@ -114,7 +114,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "Elder Maka told him the old law plainly, the abandonment of "
-        "children marked as cursed, the ak-pu tree at the boundary "
+        "children marked as cursed, the iroko tree at the boundary "
         "where each one had been laid, the generations of grief the "
         "ground had absorbed long before any living person in Idoro had "
         "been born to inherit it. She did not soften it, and did not "

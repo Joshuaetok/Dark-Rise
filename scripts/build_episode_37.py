@@ -157,7 +157,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity approached the boy with a "
+        "Beneath the iroko roots, the entity approached the boy with a "
         "gentleness it had to work harder than usual to sound "
         "unforced, asking him again, carefully, where the soft word "
         "from days before had come from, careful not to let its own "
@@ -184,7 +184,7 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "The boy described it plainly, the way he described anything "
         "he had not yet learned to be afraid of. Roots that were not "
-        "the ak-pu roots, thicker and darker and older, tangled close "
+        "the iroko roots, thicker and darker and older, tangled close "
         "enough to block out whatever light existed anywhere near that "
         "place. A silence that felt, he said, like something holding "
         "its breath on purpose. He went there most nights now, he told "

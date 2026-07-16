@@ -6,7 +6,7 @@ Creates a properly formatted .docx file using only Python stdlib (no external de
 Written 2026-07-30: Episode 23 turns fully to Oso for the first time in
 several episodes. The vessel, now walking steadily and stringing small
 sentences together, makes his first real attempt at independent will: he
-walks away from the ak-pu roots entirely, toward the direction some
+walks away from the iroko roots entirely, toward the direction some
 instinct tells him leads to the word he has been repeating since Episode
 20. The entity, curious about exactly how far this new independence
 might carry him, lets him go further than it has ever allowed before,
@@ -94,7 +94,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "In the hollow beneath the ak-pu roots, the boy woke before the "
+        "In the hollow beneath the iroko roots, the boy woke before the "
         "entity expected him to, and did not wait, the way he had "
         "always waited before, for the day's shapes and sounds to be "
         "offered to him. He stood, steadier on his legs than he had ever "
@@ -138,7 +138,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "He walked further than he ever had. Past the hollow's usual "
-        "boundary, past the ring of younger ak-pu saplings that marked "
+        "boundary, past the ring of younger iroko saplings that marked "
         "the edge of the entity's oldest and surest reach, out toward "
         "the thinning trees where the forest's dark gave slowly onto "
         "ordinary daylight and, beyond that, though neither of them "

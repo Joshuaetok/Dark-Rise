@@ -14,7 +14,7 @@ shaping never prepared the entity to answer plainly: what is my name.
 He was cast out before Idoro's naming rite could ever be performed over
 him. In Idoro, a brief scene shows Kene growing up ordinary and unaware,
 a quiet contrast to everything unfolding a mile away in the dark beneath
-the ak-pu roots. The episode ends with the entity turning the question
+the iroko roots. The episode ends with the entity turning the question
 of a name over seriously for the first time, unable to decide whether
 answering it would be a gift or one more claim staked on a boy already
 shaped almost entirely by hands that are not his own.
@@ -93,7 +93,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had decided, in the days "
+        "Beneath the iroko roots, the entity had decided, in the days "
         "since the boundary, that the careful half truths it had been "
         "offering the vessel no longer served the purpose they once "
         "had. Concealment had cost it something once, a reason to guard "

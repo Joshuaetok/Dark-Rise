@@ -141,7 +141,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity and Chibundu spent the "
+        "Beneath the iroko roots, the entity and Chibundu spent the "
         "day building the shape of the meeting the way they had once "
         "built the shape of a moved stone, piece by careful piece. The "
         "boundary itself, not deeper in Idoro. Night, when fewer eyes "

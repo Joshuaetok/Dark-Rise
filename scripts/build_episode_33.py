@@ -131,7 +131,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity felt the shape of Idoro's "
+        "Beneath the iroko roots, the entity felt the shape of Idoro's "
         "new arrangement settle into place with the same unhurried "
         "attention it gave every shift in the village's structure, and "
         "found, weighing the change honestly, that it altered very "

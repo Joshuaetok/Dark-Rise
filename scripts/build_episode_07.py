@@ -169,7 +169,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity turned the previous night "
+        "Beneath the iroko roots, the entity turned the previous night "
         "over with the patience of something that had already survived "
         "every mistake a younger power could make."
     )},
@@ -208,7 +208,7 @@ EPISODE_CONTENT = [
         "She had touched the vessel first, before Amara, before the "
         "dibia, before Oso had ever heard its name spoken in fear. Her "
         "hands had been the first hands, wet with the same blood that "
-        "now ran in the boy coiled inside the ak-pu roots a mile beyond "
+        "now ran in the boy coiled inside the iroko roots a mile beyond "
         "her hut. Blood remembered the hands that had held it, the "
         "entity had learned, the same way it remembered a mother's grief "
         "and a brother's sleeping bond. It only needed a reason to look."

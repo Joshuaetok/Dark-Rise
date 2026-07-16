@@ -116,7 +116,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity felt the human argument "
+        "Beneath the iroko roots, the entity felt the human argument "
         "unfolding in Idoro the way it felt every argument now, a "
         "familiar texture of fear layered over fear, and gave it no "
         "more attention than the bookkeeping already required."
@@ -285,7 +285,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "None of the three women standing in that quiet morning field "
-        "knew what the entity beneath the ak-pu roots had already known "
+        "knew what the entity beneath the iroko roots had already known "
         "for days, that a marked woman leaving Idoro by her own choice, "
         "under no one's compulsion but her own weary courage, was the "
         "exact outcome it had been patiently prepared to accept from the "

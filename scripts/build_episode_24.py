@@ -145,7 +145,7 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "A hundred miles south, in the delta neither Nduka nor Ikwuano "
         "had ever set foot in themselves, the entity beneath the "
-        "ak-pu roots had no awareness at all that its name, or the "
+        "iroko roots had no awareness at all that its name, or the "
         "absence of one, had just been spoken for the first time inside "
         "a room within sight of the throne of Ijendu."
     )},

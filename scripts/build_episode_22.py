@@ -143,7 +143,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity felt the shape of that "
+        "Beneath the iroko roots, the entity felt the shape of that "
         "conversation the way it felt every conversation that touched "
         "on its own threads now, a ripple moving through the fear it "
         "kept careful watch over, and weighed what it meant that real "

@@ -136,7 +136,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity reviewed the day's yield "
+        "Beneath the iroko roots, the entity reviewed the day's yield "
         "with the same unhurried satisfaction a careful trader takes in "
         "counting a harvest larger than expected."
     )},

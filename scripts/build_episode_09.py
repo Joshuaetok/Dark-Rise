@@ -137,7 +137,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity tasted the shift in the "
+        "Beneath the iroko roots, the entity tasted the shift in the "
         "village long before either woman had finished speaking, the way "
         "a man standing in a river feels the water rise around his "
         "ankles before he understands a storm has broken somewhere "

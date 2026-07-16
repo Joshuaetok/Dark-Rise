@@ -6,7 +6,7 @@ Creates a properly formatted .docx file using only Python stdlib (no external de
 Written 2026-07-15: Episode 8 picks up days after Episode 7. Obi, no longer
 willing to only watch, sneaks out at night to see Oso for himself, and finds
 Zara already on the bush path ahead of him, walking in an unseeing trance
-toward the ak-pu tree. He wakes her at the very edge of the boundary before
+toward the iroko tree. He wakes her at the very edge of the boundary before
 she crosses it. Neither of them understands what happened. The entity,
 watching through the thread it opened in Episode 7, treats the interruption
 as a successful test: it now knows it can move an adult body at will, and
@@ -59,7 +59,7 @@ EPISODE_CONTENT = [
         "He did not intend to cross the boundary. He told himself this "
         "twice more before he had gone even a hundred paces, which was "
         "itself a kind of warning he chose not to hear. He only wanted "
-        "to see the ak-pu tree from close enough to know it was a real "
+        "to see the iroko tree from close enough to know it was a real "
         "tree, rooted in real ground, and not the shapeless dread it had "
         "become in every telling since the dibia's apprentices ran."
     )},
@@ -137,7 +137,7 @@ EPISODE_CONTENT = [
     {"type": "blank", "text": ""},
 
     {"type": "body", "text": (
-        "In the hollow beneath the ak-pu roots, the entity felt the "
+        "In the hollow beneath the iroko roots, the entity felt the "
         "woman's feet cross ground it had marked in its own attention the "
         "moment it first touched her thread, and understood, with the "
         "flat satisfaction of an experiment concluding cleanly, exactly "
@@ -156,7 +156,7 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "She would have reached the tree line herself within a hundred "
         "more paces. The entity had intended to let her arrive, to feel "
-        "what her hands remembered when they touched ak-pu bark again "
+        "what her hands remembered when they touched iroko bark again "
         "after all these years, and to see what that memory might loosen "
         "in her the way memory had loosened something in the dibia."
     )},
@@ -186,7 +186,7 @@ EPISODE_CONTENT = [
     {"type": "blank", "text": ""},
 
     {"type": "body", "text": (
-        "Obi reached her three strides before the first line of ak-pu "
+        "Obi reached her three strides before the first line of iroko "
         "saplings and caught her arm, and the moment his hand closed "
         "around it, Zara's whole body seized as though she had been "
         "dropped from a height into her own skin."
@@ -285,7 +285,7 @@ EPISODE_CONTENT = [
 
     {"type": "body", "text": (
         "Neither of them slept again before dawn. Neither of them knew "
-        "yet that beneath the ak-pu roots, the entity had already filed "
+        "yet that beneath the iroko roots, the entity had already filed "
         "away everything it needed from the night's failed experiment, "
         "and had begun, with the patience of something that measured "
         "time in centuries rather than hours, considering exactly which "

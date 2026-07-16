@@ -124,7 +124,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had already set the "
+        "Beneath the iroko roots, the entity had already set the "
         "morning's message aside as spent, the way it set aside every "
         "act once its intended effect had been released into the "
         "world, and turned its full attention back to the slower, more "

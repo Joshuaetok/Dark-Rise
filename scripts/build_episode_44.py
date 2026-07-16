@@ -149,7 +149,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had decided that a "
+        "Beneath the iroko roots, the entity had decided that a "
         "promise to protect Zara, and every promise like it that would "
         "follow, meant little if the only power backing it remained "
         "something the vessel could summon by accident but not yet "

@@ -153,7 +153,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity considered the small, "
+        "Beneath the iroko roots, the entity considered the small, "
         "controlled intrusion it had just risked and judged the result "
         "worth the exposure."
     )},

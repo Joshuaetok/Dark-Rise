@@ -10,8 +10,8 @@ that episode.
 **This file was split on 2026-07-13** after the Living Name Registry and
 Changelog grew past the 150,000 character working-memory limit at Episode 78.
 Nothing was lost — the full, unabridged episode-by-episode history through
-Episode 63 (registry) and Episode 63 (changelog) now lives in `ARCHIVE.md` in
-this same repo. This file keeps only what's needed to write the next episode
+Episode 78 (registry) and Episode 83 (changelog, growing as Section 11 is
+trimmed) now lives in `ARCHIVE.md` in this same repo. This file keeps only what's needed to write the next episode
 without contradiction: each character's *current status*, and the
 changelog's active arc (last ~15 episodes). See Section 5 and Section 11
 below for the maintenance rule that keeps it that way going forward.
@@ -199,7 +199,7 @@ non-negotiable — violations produce awkward, unlistenable audio.
 ## 5. LIVING NAME REGISTRY
 
 **This section holds each character's CURRENT STATUS ONLY — not a
-history.** Full episode-by-episode detail through Episode 83 lives in
+history.** Full episode-by-episode detail through Episode 78 lives in
 `ARCHIVE.md`; recent episodes' detail is still recoverable from Section 11's
 changelog below (see that section's header for the exact current window).
 
@@ -220,7 +220,7 @@ changelog below (see that section's header for the exact current window).
 
 ### People
 
-| Name | Role | Current status (as of Episode 78) |
+| Name | Role | Current status (as of Episode 100) |
 |---|---|---|
 | Amara | Mother of the twins | Alive, Idoro, full council seat. Knows the entity, the presence, Chibundu's identity, and Elder Maka's condition — no secrets left within the household. Current thread: sent the search party off with a plain, direct plea for Emenike to come home either way, having claimed him as more than a soldier to this house (Ep100). |
 | Obi | Father of the twins | Alive, Idoro. Fully present and active partner to Amara in every crisis since Episode 6. Current thread: sat quietly with the recovering Emenike, who declined an early end to his season of watching, preferring trust earned slowly to trust granted out of pity (Ep95). |
@@ -264,7 +264,7 @@ changelog below (see that section's header for the exact current window).
 | Oji Delta | Oil-rich, foreign-exploited delta region |
 | Idoro | Village where the story begins, in the Oji Delta |
 | Oso | The "forbidden bush" where cursed children are abandoned |
-| ak-pu tree | Ancient tree at the boundary of Oso; where abandoned children are laid |
+| iroko tree | Ancient tree at the boundary of Oso; where abandoned children are laid. **Renamed from "ak-pu" on 2026-07-16** (post-Episode-100 maintenance pass): the old spelling was hyphenated (violating Section 3.4) and unreliable in TTS. All episode files, build scripts, and ARCHIVE.md were updated in the same commit. Never write "ak-pu" again. |
 | the Ijoma Concern | Foreign trading House operating through Ebiere, the Factor, and Chiazor; true headquarters revealed in Episode 64 as a disguised trading post several days downriver, kept off the crown's tax records |
 
 ### Titles / Concepts
@@ -276,6 +276,46 @@ changelog below (see that section's header for the exact current window).
 
 **Rule:** any new named character, village, or title must be added to this
 table before or immediately after the episode that introduces them.
+
+### 5.1 AUDIO CONFUSABLE-NAME RULES (mandatory — this is a TTS show)
+
+Names that read fine on the page can be near-identical spoken aloud. These
+rules exist because of collisions already present in the cast. Check every
+new name against this list for *sound*, not just spelling.
+
+- **Ijeoma vs. the Ijoma Concern:** one soft vowel apart in narration, and
+  they are victim and captor in the same arc. In episode narration, always
+  call the trading House **"the Concern"** (or "the House" in dialogue).
+  The full name "Ijoma Concern" must never appear in any episode that also
+  names Ijeoma. It has only ever been spoken on-page in Episodes 64, 68,
+  and 74 — keep it that rare.
+- **Amara vs. Eze Amadi:** never write bare "Amadi" in any scene that
+  contains Amara. The king is always "Eze Amadi" (his existing pattern —
+  bare "Amadi" has appeared only twice, Episodes 31-32, in crown-only
+  scenes).
+- **Chibundu vs. Chidebe (vs. Chiazor):** the protagonist and the garrison
+  captain have never shared a scene; when their storylines converge,
+  re-anchor with role tags ("the captain," "the boy") every few lines
+  rather than alternating bare names.
+- **Adaugo vs. Adaeku:** near-identical aloud. Adaeku is retired from
+  active use; if he must reappear, always tag him ("Adaeku, the quiet
+  one").
+
+### 5.2 WHO KNOWS WHAT — dramatic irony ledger (as of Episode 100)
+
+Update this table whenever knowledge changes hands. It protects continuity
+(no character may act on a fact this table says they lack) and marks where
+the suspense lives.
+
+| Fact | Who knows | Who does NOT know |
+|---|---|---|
+| The captor House's name ("the Ijoma Concern") | The Concern's own people; the narration (Eps 64, 68, 74 only) | **The household and the crown have never heard the name.** They say "the trading House" / "the House." The crown's Ep94 investigation into which House sponsored the coercion is still unresolved. |
+| Ijeoma's exact location (the Concern's headquarters, confirmed Ep93) | Mfoniso only — she told no one, holding it as leverage | The Warden, the household, the crown, and **Emenike**, who searches on a bearing alone |
+| The presence's lost guardian ground lies along the search bearing (Ep100) | The presence, the entity, Chibundu | Everyone else, including the search party walking it |
+| Mfoniso's lineage tie to the hunter who took the presence's ground (Ep82) and her second thread to her teacher (Ep83) | The household and both powers | Mfoniso does not know they know |
+| The search party's true purpose and departure (Ep99-100) | The household, the crown | Mfoniso — unless a future episode decides she saw them leave from her western ridgeline (Ep98); **decide this deliberately, on the page, before she next acts** |
+| Nkiruka's archive record that stops mid-page (Ep94) | Nkiruka only | Eze Amadi and everyone else |
+| Elder Maka's thin thread to the entity; Chibundu's identity; the presence's existence | The whole household (no secrets left inside it since ~Ep66) | The wider village knows Oso is feared ground, not what lives there; Ubani chose not to learn (Ep98) |
 
 ---
 
@@ -350,8 +390,8 @@ freely for pacing — this is scaffolding, not a rigid outline.
 (Researched from Chinua Achebe's novels and Igbo/Yoruba folklore — used for
 authentic texture, never quoted or copied.)
 
-- **Things Fall Apart**: the Evil Forest / twin-abandonment custom (our Ohia
-  Nso), the concept of *chi* (personal guardian spirit/fate — useful
+- **Things Fall Apart**: the Evil Forest / twin-abandonment custom (our
+  Oso), the concept of *chi* (personal guardian spirit/fate — useful
   framing for "why do I have this power"), the *osu* outcast caste (useful
   for how a village might treat someone marked as cursed), the Week of Peace
   (a sacred truce period that can be dramatically violated later), a beloved
@@ -420,13 +460,20 @@ archived verbatim in `ARCHIVE.md` under "ARCHIVED CHANGELOG"; when this
 section grows past ~20 entries, move the oldest ones there following the
 same pattern (see Section 10, step 5).
 
+**Note on dates:** the parenthetical dates on episode entries are the
+scheduled Pocket FM release dates (per Section 4's schedule-ahead cadence),
+not writing dates. Writing/commit dates live in git history and are weeks
+to months earlier.
+
 - **CLAUDE.md archive split (2026-07-13):** CLAUDE.md exceeded the
   150,000 character working-memory limit at Episode 78. Split the Living
   Name Registry and Changelog's older history out into `ARCHIVE.md`
   (lossless, verbatim). Section 5 now holds current-status-only entries per
   character with a maintenance rule against re-appending history; Section 11
-  now holds only the active arc (Episodes 64-78 onward). Nothing was
-  deleted — see `ARCHIVE.md` for the full Episode 1-63 record.
+  now holds only the active arc. Nothing was deleted — see `ARCHIVE.md`
+  for the full archived record (registry history through Episode 78;
+  archived changelog through Episode 83, growing as this section is
+  trimmed).
 - **Episode 84 — "The Path No One Watched" (2026-09-29):** Chidebe and
   Osadebe convert Elder Maka's rough trace direction into staggered,
   unpredictable patrols. Over three days, reports come back of fresh
@@ -486,8 +533,10 @@ same pattern (see Section 10, step 5).
   more than triumph; Ozoemena, cleared at last, mourns a friend rather
   than celebrating his own vindication, and Elder Maka counsels hearing
   Emenike's reason before judging him. Pressed by Amara, Emenike breaks
-  down and confesses the Ijoma Concern has held his sister captive for
-  two seasons, forcing his cooperation from the very first message. The
+  down and confesses that the people holding his sister have forced his
+  cooperation for two seasons, from the very first message. (On the page
+  he never names his captors — "They have my sister" — and the household
+  has still never heard the name "Ijoma Concern"; see Section 5.2.) The
   episode closes on Amara's cold new fear — not relief that the leak is
   found, but dread over how many other quiet debts like his might still
   be hidden inside Idoro's walls.
@@ -707,6 +756,23 @@ same pattern (see Section 10, step 5).
   search party making camp at the edge of unnamed country, unaware they
   may be walking toward two answers at once — Ijeoma's fate, and the
   presence's oldest unhealed wound.
+- **Continuity & audio-clarity maintenance pass (2026-07-16):** Global
+  rename of the boundary tree: "ak-pu" → **"iroko"** across all one hundred
+  episode files (eighty occurrences in fifty one files), all build scripts,
+  ARCHIVE.md, and this file — the old spelling was hyphenated (violating
+  Section 3.4) and unreliable in TTS narration. Added Section 5.1
+  (audio confusable-name rules: "the Concern" in narration, never bare
+  "Amadi" near Amara, Chibundu/Chidebe role tags, Adaeku retired) and
+  Section 5.2 (who-knows-what dramatic irony ledger). Corrected stale
+  bookkeeping: archive-split note now says registry history through
+  Episode 78 and changelog through Episode 83 (was "63/63");
+  ARCHIVE.md's changelog header corrected from "1–63" to "1–83" and its
+  tail note de-staled; registry column header updated to "as of Episode
+  100"; Section 8's "Ohia Nso" corrected to "Oso"; Section 12's push
+  target corrected from "main" to "master" (the actual branch);
+  changelog dates labeled as scheduled release dates; Episode 87's entry
+  corrected to reflect that the household never hears the captor House's
+  name on the page. No story content changed beyond the tree's name.
 
 ---
 
@@ -716,7 +782,7 @@ At the end of every episode:
 ```
 git add -A
 git commit -m "Episode ##: [short title] — [one-line summary]"
-git push origin main
+git push origin master
 ```
 Never batch multiple episodes into one commit. Never push without first
 completing the Section 10 checklist. If a push fails (auth/remote issue),

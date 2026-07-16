@@ -157,7 +157,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity followed the shape of the "
+        "Beneath the iroko roots, the entity followed the shape of the "
         "argument the way it followed everything that reached it out of "
         "Idoro now, as a texture of fear and anger it could taste "
         "without needing to understand every word carried inside it."

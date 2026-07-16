@@ -106,7 +106,7 @@ EPISODE_CONTENT = [
         "Amara plainly that whatever this House actually wanted from "
         "the delta, it had nothing to do with soil worth digging and "
         "everything to do with the exact thing sleeping beneath the "
-        "ak-pu roots."
+        "iroko roots."
     )},
     {"type": "body", "text": (
         "Word of the visit reached Elder Maka before the boundary "
@@ -146,7 +146,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had spent the day since "
+        "Beneath the iroko roots, the entity had spent the day since "
         "the boy's defiance turning the single answering sound over "
         "without finding anywhere honest to set it down, until "
         "turning it over stopped being enough for the second time in "

@@ -128,7 +128,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity felt the shape of the "
+        "Beneath the iroko roots, the entity felt the shape of the "
         "coming rite the moment the two women agreed to it, the same "
         "way it had felt the cleansing rite gathering weeks earlier, "
         "and turned the question over with none of the urgency a "

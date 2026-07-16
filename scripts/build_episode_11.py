@@ -146,7 +146,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity tasted the shape Idoro's "
+        "Beneath the iroko roots, the entity tasted the shape Idoro's "
         "fear had taken and found it richer than the sharper, more "
         "concentrated dread the cleansing rite had produced, though "
         "slower to arrive and slower still to fade."
@@ -279,7 +279,7 @@ EPISODE_CONTENT = [
     {"type": "blank", "text": ""},
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity felt the particular, sudden "
+        "Beneath the iroko roots, the entity felt the particular, sudden "
         "hollowness open in the midwife's thread, a loneliness sharper "
         "than anything it had tasted from her before, and understood, "
         "with the same flat attention it gave every useful thing, "

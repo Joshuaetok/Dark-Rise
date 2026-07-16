@@ -141,7 +141,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity felt Zara's compulsion "
+        "Beneath the iroko roots, the entity felt Zara's compulsion "
         "deepen the same evening the scholar arrived, no longer "
         "content with tracing shapes in borrowed dirt. She woke before "
         "dawn certain of a single fact she could not explain, the way "

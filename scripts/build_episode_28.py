@@ -146,7 +146,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "A hundred miles south, beneath the ak-pu roots, the entity "
+        "A hundred miles south, beneath the iroko roots, the entity "
         "spent that same morning exactly the way it had spent every "
         "morning since the dibia's death, tending the one thread that "
         "still mattered to it more than any question of thrones or "

@@ -120,7 +120,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had no awareness at all "
+        "Beneath the iroko roots, the entity had no awareness at all "
         "that its own long history, three separate encounters spread "
         "across more than three centuries of this kingdom's memory, had "
         "just been read aloud in a private chamber a hundred miles "

@@ -97,7 +97,7 @@ EPISODE_CONTENT = [
         "wanted. It had not once occurred to him, until a stranger's "
         "polite questions about surveyed ground, that other men might "
         "be circling Idoro for reasons that had nothing to do with the "
-        "presence beneath the ak-pu roots at all, and everything to do "
+        "presence beneath the iroko roots at all, and everything to do "
         "with whatever the delta's soil and water were quietly worth to "
         "houses that had never heard the word abiku spoken."
     )},
@@ -154,7 +154,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity had spent three days "
+        "Beneath the iroko roots, the entity had spent three days "
         "turning the boy's untraceable word over without finding "
         "anywhere to set it down, until turning it over stopped being "
         "enough, and it made a decision it had not made once in three "

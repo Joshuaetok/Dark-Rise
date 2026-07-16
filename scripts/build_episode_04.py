@@ -70,7 +70,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "The forest itself had begun to answer the lessons. At the "
-        "boundary line, where the ak-pu roots ran deepest, the grass had "
+        "boundary line, where the iroko roots ran deepest, the grass had "
         "stopped growing the ordinary green of grass. It grew the color of "
         "old bruises now, and it did not bend in the wind the way grass "
         "should bend. It leaned toward the tree, as though something under "
@@ -160,7 +160,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "An old woman who sold peppers near the crossroads swore she had "
-        "seen the ak-pu tree itself lean toward the village in the night, "
+        "seen the iroko tree itself lean toward the village in the night, "
         "the way a hungry man leans toward a fire. No one believed her out "
         "loud. Everyone believed her enough to keep their children close "
         "and their doors barred before dark."
@@ -341,7 +341,7 @@ EPISODE_CONTENT = [
 
     {"type": "body", "text": (
         "Behind them, in the dark hut, the dibia wept without sound. "
-        "Three miles away, beneath the roots of the ak-pu tree, the thing "
+        "Three miles away, beneath the roots of the iroko tree, the thing "
         "that had learned to beat like a heart beat once, hard, as though "
         "it had heard every word spoken in its name."
     )},

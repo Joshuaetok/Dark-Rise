@@ -182,7 +182,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Three miles away, beneath the ak-pu tree, the entity drank."
+        "Three miles away, beneath the iroko tree, the entity drank."
     )},
     {"type": "body", "text": (
         "It had fed on ambient dread for three centuries, sipping the "
@@ -214,7 +214,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "By the time the feeding slowed toward dawn, the thing lying in "
-        "the hollow beneath the ak-pu roots no longer looked like an "
+        "the hollow beneath the iroko roots no longer looked like an "
         "infant at all. It looked like a child of perhaps one year, "
         "though it had drawn its first breath only eight days before."
     )},

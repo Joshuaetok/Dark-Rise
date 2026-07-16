@@ -193,7 +193,7 @@ EPISODE_CONTENT = [
         "web simply because a hand is reaching for it."
     )},
     {"type": "body", "text": (
-        "In the hollow beneath the ak-pu roots, the vessel pushed itself "
+        "In the hollow beneath the iroko roots, the vessel pushed itself "
         "upright on legs that had not existed in that shape a week "
         "earlier, wavered, and took one small stumbling step before the "
         "roots caught him. It was the first step any part of this body "

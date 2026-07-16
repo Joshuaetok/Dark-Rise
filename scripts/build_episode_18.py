@@ -93,7 +93,7 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Beneath the ak-pu roots, the entity watched the gathering "
+        "Beneath the iroko roots, the entity watched the gathering "
         "crowd assemble through Zara's own eyes, counting witnesses the "
         "way it had once counted the pair standing beneath a mango tree, "
         "except that this count ran into the dozens rather than the "
