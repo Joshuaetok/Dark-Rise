@@ -169,6 +169,32 @@ non-negotiable — violations produce awkward, unlistenable audio.
   plates or letter codes: "Y U N four five seven eight" not "YUN 4578."
   This ensures the AI pronounces each character distinctly.
 
+### 3.10 Paragraph Pacing and Dialogue Tone (added 2026-07-17, piloted on Episode 1)
+TTS engines pause longest at paragraph breaks — noticeably longer than at a
+period. Structure paragraphs for the ear:
+- **One paragraph = one connected beat.** Group related sentences into
+  paragraphs of roughly two to five sentences. Do not give every sentence
+  its own paragraph — that inserts a long pause after each line and makes
+  the narration sound halting.
+- **A standalone one-line paragraph is a deliberate dramatic pause.** Use
+  it only at genuine peaks (a reveal, a hook, a gut punch) — a handful per
+  episode, no more.
+- **Never emit empty paragraphs for scene breaks.** Empty paragraphs become
+  stacked silence in narration. Build scripts must mark scene breaks by
+  adding vertical spacing (spacing before) on the next paragraph instead
+  (see `scripts/build_episode_01.py`, the `scene_break` type).
+- **No em dashes or en dashes in narration** — they read as another hard
+  pause. This extends Section 3.4's hyphen ban to all dashes. Use a period,
+  a comma, or a rewrite.
+- **Every dialogue line carries a tone cue** placed before or immediately
+  beside the quote, so the AI voice can color the line: "Zara urged, her
+  voice low and fierce," "his voice cracked open into begging," "he said,
+  dry as harmattan dust." Never leave a bare unattributed quote — the
+  listener cannot see paragraph placement, and the voice cannot infer tone
+  it was never given.
+- Build scripts should lint for dashes, double spaces, and hyphenated
+  words before building (see `lint_content()` in the Episode 1 script).
+
 ---
 
 ## 4. EPISODE FORMAT — NON-NEGOTIABLE
@@ -730,6 +756,17 @@ to months earlier.
   changelog dates labeled as scheduled release dates; Episode 87's entry
   corrected to reflect that the household never hears the captor House's
   name on the page. No story content changed beyond the tree's name.
+- **Episode 1 TTS pacing restructure (2026-07-17):** Rebuilt Episode 1 to
+  eliminate unnecessary narration pauses reported in the audio: merged
+  single-sentence paragraphs into full beat paragraphs (one hundred twenty
+  two body paragraphs down to eighty one, standalone lines now reserved for
+  dramatic peaks), replaced the thirteen empty spacer paragraphs with
+  spacing-before scene breaks (zero empty paragraphs in the docx), removed
+  all em dashes, and added a tone cue to every dialogue line so the AI
+  voice matches each speaker's emotion. Word count two thousand one
+  hundred forty six, in range. Codified as Section 3.10; roll out to other
+  episodes after the Episode 1 listen test confirms the improvement. No
+  story content changed.
 - **Episode 101 — "What She Is Worth" (2026-10-16):** The hostage clock
   starts. At the House's headquarters, the Warden cancels the bracelet
   proof runs — with Emenike discovered, proof of Ijeoma's life persuades
