@@ -169,7 +169,7 @@ non-negotiable — violations produce awkward, unlistenable audio.
   plates or letter codes: "Y U N four five seven eight" not "YUN 4578."
   This ensures the AI pronounces each character distinctly.
 
-### 3.10 Paragraph Pacing and Dialogue Tone (added 2026-07-17, piloted on Episode 1)
+### 3.10 Paragraph Pacing and Dialogue Tone (added 2026-07-17; applied to Episodes 1-10 so far)
 TTS engines pause longest at paragraph breaks — noticeably longer than at a
 period. Structure paragraphs for the ear:
 - **One paragraph = one connected beat.** Group related sentences into
@@ -764,9 +764,23 @@ to months earlier.
   spacing-before scene breaks (zero empty paragraphs in the docx), removed
   all em dashes, and added a tone cue to every dialogue line so the AI
   voice matches each speaker's emotion. Word count two thousand one
-  hundred forty six, in range. Codified as Section 3.10; roll out to other
-  episodes after the Episode 1 listen test confirms the improvement. No
-  story content changed.
+  hundred forty six, in range. Codified as Section 3.10. No story content
+  changed. The Episode 1 listen test confirmed the improvement.
+- **Episodes 2-10 TTS pacing pass (2026-07-17):** Rolled the Section 3.10
+  fixes out to the next nine episodes after the Episode 1 listen test
+  succeeded. All build scripts now use scene break spacing instead of
+  empty spacer paragraphs (about one hundred spacer paragraphs removed
+  across the nine files; every built docx verified to contain zero empty
+  paragraphs) and lint for dashes, double spaces, and hyphenated words.
+  Roughly fifty em and en dashes rewritten as periods or commas, with
+  dialogue interruptions becoming single ellipses. Every bare quote
+  gained a tone cue; Episode 3's rapid interrogation exchange and Episode
+  9's confession exchange got per speaker attributions. All system status
+  lines converted from typed all caps to sentence case (the caps run
+  property keeps the page look) and given a one line herald in the
+  entity's ledger voice, matching Episode 1. Episodes 2 and 3
+  additionally had one liner paragraph runs merged into beat paragraphs.
+  All nine word counts remain in range. No story content changed.
 - **Episode 101 — "What She Is Worth" (2026-10-16):** The hostage clock
   starts. At the House's headquarters, the Warden cancels the bracelet
   proof runs — with Emenike discovered, proof of Ijeoma's life persuades

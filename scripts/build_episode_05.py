@@ -15,6 +15,7 @@ too, and Amara's silence in response is its own answer.
 
 import zipfile
 import os
+import re
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, tostring
 
@@ -51,7 +52,7 @@ EPISODE_CONTENT = [
         "a weight she had never once set down."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "\"Thirty and four years ago,\" Elder Maka said, \"I was not an "
@@ -72,7 +73,7 @@ EPISODE_CONTENT = [
         "would only make the grief longer.\""
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "\"The same man who carried your son to the boundary of Oso "
@@ -107,7 +108,7 @@ EPISODE_CONTENT = [
         "penance.\""
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "\"For seven years I mourned him the way a mother is permitted "
@@ -116,10 +117,11 @@ EPISODE_CONTENT = [
         "weakness.\""
     )},
     {"type": "body", "text": (
+        "Elder Maka's voice went flat as a blade laid on a table. "
         "\"Then, in the eighth year, he came back.\""
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "The words landed in the dark like a stone dropped into still "
@@ -136,10 +138,10 @@ EPISODE_CONTENT = [
         "him home.\""
     )},
     {"type": "body", "text": (
-        "\"I was a fool for one whole day.\""
+        "\"I was a fool for one whole day,\" she said."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Elder Maka's voice did not break. That was somehow worse than "
@@ -152,7 +154,7 @@ EPISODE_CONTENT = [
         "the same smile he gave me at the tree line.\""
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "\"I do not know if it was the same hunger that speaks through "
@@ -170,12 +172,17 @@ EPISODE_CONTENT = [
         "explain it to anyone."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
-    # System line
-    {"type": "system", "text": "HISTORICAL RECORD: SECOND KNOWN INCIDENT OF RETURN. OUTCOME: THREE DEAD. VESSEL DESTROYED BY THE ELDER HERSELF."},
+    # System alert block — sentence case for clean TTS; the caps run
+    # property renders it all caps on the page.
+    {"type": "body", "text": (
+        "Far beneath Oso, the cold voice entered it into an old, old "
+        "ledger."
+    )},
+    {"type": "system", "text": "Historical record: second known incident of return. Outcome: three dead. Vessel destroyed by the elder herself."},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     # ═══════════════════════════════════════════════════════════════════════════
     # ACT TWO: OSO — THE HUNGER SPIKE
@@ -198,7 +205,7 @@ EPISODE_CONTENT = [
         "all of it at once."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "The vessel's body could not hold the feeding quietly."
@@ -227,7 +234,7 @@ EPISODE_CONTENT = [
         "meant to be."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Fear feeds faster than lessons, the entity thought, and there "
@@ -243,13 +250,16 @@ EPISODE_CONTENT = [
         "had already decided what it was looking for."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
-    # System lines
-    {"type": "system", "text": "VESSEL AGE: EIGHT DAYS. APPARENT DEVELOPMENT: APPROXIMATELY ONE YEAR AND ACCELERATING."},
-    {"type": "system", "text": "FEEDING SOURCE: VILLAGE WIDE TERROR, FIRST OF ITS SCALE. GROWTH RATE: NO LONGER LINEAR."},
+    # System alert block
+    {"type": "body", "text": (
+        "In Oso, the voice took its count again."
+    )},
+    {"type": "system", "text": "Vessel age: eight days. Apparent development: approximately one year and accelerating."},
+    {"type": "system", "text": "Feeding source: village wide terror, first of its scale. Growth rate: no longer linear."},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     # ═══════════════════════════════════════════════════════════════════════════
     # ACT THREE: IDORO — THE VOW / THE HOOK
@@ -273,7 +283,7 @@ EPISODE_CONTENT = [
         "I already knew I would carry for the rest of my life.\""
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Amara's hands had curled into fists in her lap without her "
@@ -287,20 +297,21 @@ EPISODE_CONTENT = [
         "does not belong to him.\""
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "She reached out and took Amara's clenched hand in both of hers. "
         "Her grip was dry, and warm, and utterly without mercy."
     )},
     {"type": "body", "text": (
-        "\"If he comes back wrong, Amara, I will end him too. Not out of "
+        "\"If he comes back wrong, Amara, I will end him too,\" she said, "
+        "without heat. \"Not out of "
         "hatred. Out of the same mercy I could not find the courage to "
         "show my own son quickly enough. I will not hesitate a second "
         "time. I owe the dead that much.\""
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Amara did not answer. She looked instead at the dark line of "
@@ -320,7 +331,7 @@ EPISODE_CONTENT = [
         "you.\""
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Elder Maka rose from the bench, her joints protesting the "
@@ -342,7 +353,7 @@ EPISODE_CONTENT = [
         "waiting with a blade when that time ran out."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 ]
 
 
@@ -398,14 +409,17 @@ def make_run(text, bold=False, font_name="Georgia", font_size=24, caps=False):
 
 
 def make_paragraph(runs, spacing_after=120, spacing_line=360, alignment="left",
-                    first_line_indent=None):
+                    first_line_indent=None, spacing_before=0):
     p = make_element("p")
     pPr = make_element("pPr")
 
-    spacing = make_element("spacing", {
+    spacing_attrs = {
         f"{{{NS_WORD}}}after": str(spacing_after),
         f"{{{NS_WORD}}}line": str(spacing_line),
-    })
+    }
+    if spacing_before:
+        spacing_attrs[f"{{{NS_WORD}}}before"] = str(spacing_before)
+    spacing = make_element("spacing", spacing_attrs)
     pPr.append(spacing)
 
     if alignment != "left":
@@ -431,18 +445,22 @@ def make_title_paragraph(text, font_size=32, bold=True, alignment="center",
                            spacing_line=spacing_line, alignment=alignment)
 
 
-def make_body_paragraph(text, spacing_after=60, spacing_line=360):
+def make_body_paragraph(text, spacing_after=60, spacing_line=360,
+                        spacing_before=0):
     runs = [make_run(text, bold=False, font_size=24)]
     return make_paragraph(runs, spacing_after=spacing_after,
                            spacing_line=spacing_line, alignment="left",
-                           first_line_indent=360)
+                           first_line_indent=360,
+                           spacing_before=spacing_before)
 
 
-def make_system_paragraph(text, spacing_after=120, spacing_line=360):
+def make_system_paragraph(text, spacing_after=120, spacing_line=360,
+                          spacing_before=0):
     runs = [make_run(text, bold=True, font_size=24, caps=True)]
     return make_paragraph(runs, spacing_after=spacing_after,
                            spacing_line=spacing_line, alignment="left",
-                           first_line_indent=0)
+                           first_line_indent=0,
+                           spacing_before=spacing_before)
 
 
 def make_blank_paragraph(spacing_after=0, spacing_line=360):
@@ -453,6 +471,11 @@ def make_blank_paragraph(spacing_after=0, spacing_line=360):
 
 # ─── BUILD DOCUMENT XML ──────────────────────────────────────────────────────
 
+# Vertical space (twips) inserted before the first paragraph of a new scene.
+# 480 twips = 24pt: the page shows a clear scene break, but no empty
+# paragraph exists for the TTS engine to turn into dead air.
+SCENE_BREAK_SPACE = 480
+
 def build_document_xml():
     document = Element(
         qn("document"),
@@ -461,9 +484,17 @@ def build_document_xml():
 
     body = SubElement(document, qn("body"))
 
+    pending_scene_break = False
+
     for item in EPISODE_CONTENT:
         typ = item["type"]
         text = item["text"]
+
+        if typ == "scene_break":
+            pending_scene_break = True
+            continue
+
+        before = SCENE_BREAK_SPACE if pending_scene_break else 0
 
         if typ == "title_series":
             para = make_title_paragraph(text, font_size=36, bold=True,
@@ -486,11 +517,11 @@ def build_document_xml():
             para.append(pPr)
             para.append(run)
         elif typ == "body":
-            para = make_body_paragraph(text)
+            para = make_body_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         elif typ == "system":
-            para = make_system_paragraph(text)
-        elif typ == "blank":
-            para = make_blank_paragraph()
+            para = make_system_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         else:
             continue
 
@@ -625,12 +656,39 @@ def count_words():
 
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
 
+# --- LINT (TTS pacing, CLAUDE.md Section 3.10) ---
+
+def lint_content():
+    """Check narration text for TTS pacing violations."""
+    problems = []
+    for i, item in enumerate(EPISODE_CONTENT):
+        if item["type"] not in ("body", "system"):
+            continue
+        text = item["text"]
+        if "\u2014" in text or "\u2013" in text:
+            problems.append(f"  item {i}: contains a dash: {text[:60]}")
+        if "  " in text:
+            problems.append(f"  item {i}: double space: {text[:60]}")
+        if re.search(r"\w-\w", text):
+            problems.append(f"  item {i}: hyphenated word: {text[:60]}")
+    return problems
+
+
 def main():
     print("=" * 60)
     print("  THE DARK RISE — Episode 5: \"The Cost of the Law\"")
     print("  Build Script")
     print("=" * 60)
     print()
+
+    problems = lint_content()
+    if problems:
+        print("  LINT PROBLEMS:")
+        for p in problems:
+            print(p)
+        print()
+    else:
+        print("  Lint clean: no dashes, double spaces, or hyphenated words")
 
     wc = count_words()
     print(f"  Word count: {wc}")

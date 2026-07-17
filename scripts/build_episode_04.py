@@ -15,6 +15,7 @@ the old law.
 
 import zipfile
 import os
+import re
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, tostring
 
@@ -47,7 +48,7 @@ EPISODE_CONTENT = [
         "to grow."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Each night, the lessons went further. The entity showed the "
@@ -77,7 +78,7 @@ EPISODE_CONTENT = [
         "the soil had started to pull on every root that touched it."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "One thread led to a healthy infant sleeping in a compound at the "
@@ -103,7 +104,7 @@ EPISODE_CONTENT = [
         "elders might hear."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "The second thread was different. It did not burn with the clean "
@@ -130,13 +131,18 @@ EPISODE_CONTENT = [
         "a fisherman's net wears water."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
-    # System lines
-    {"type": "system", "text": "VESSEL STATUS: SENSORY RANGE NOW EXTENDS BEYOND THE OSO BOUNDARY."},
-    {"type": "system", "text": "TWIN THREAD DETECTED, DORMANT BY CHOICE. MATERNAL THREAD DETECTED, OPEN AND UNGUARDED."},
+    # System alert block — sentence case for clean TTS; the caps run
+    # property renders it all caps on the page.
+    {"type": "body", "text": (
+        "In Oso, the flat cold voice took stock of what it could now "
+        "reach."
+    )},
+    {"type": "system", "text": "Vessel status: sensory range now extends beyond the Oso boundary."},
+    {"type": "system", "text": "Twin thread detected, dormant by choice. Maternal thread detected, open and unguarded."},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     # ═══════════════════════════════════════════════════════════════════════════
     # ACT TWO: IDORO — THE HUT
@@ -166,7 +172,7 @@ EPISODE_CONTENT = [
         "and their doors barred before dark."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Elder Maka moved quickly to smother the fire before it could "
@@ -185,7 +191,7 @@ EPISODE_CONTENT = [
         "ground she suspected was hollow beneath her feet."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Amara had spent the day the way she spent every day now. "
@@ -204,7 +210,7 @@ EPISODE_CONTENT = [
         "to them was gone, Amara was already inside."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "The dibia looked as though ten years had been taken from the "
@@ -229,7 +235,7 @@ EPISODE_CONTENT = [
         "her more than the silence she had already survived."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "\"Where is my son?\" Amara asked. Her voice did not shake. She "
@@ -237,7 +243,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "The dibia's throat convulsed. When he spoke, the first words were "
-        "his own, thin and desperate. \"Go. Now. Before it—\""
+        "his own, thin and desperate. \"Go. Now. Before it...\""
     )},
     {"type": "body", "text": (
         "Then his spine straightened in a way no old man's spine "
@@ -245,14 +251,15 @@ EPISODE_CONTENT = [
         "underneath his, wearing his mouth the way a hand wears a glove."
     )},
     {"type": "body", "text": (
-        "\"Amara.\""
+        "\"Amara,\" the doubled voice said, naming her the way an owner "
+        "names a debt."
     )},
     {"type": "body", "text": (
         "Her name in that voice was worse than any curse. It knew her. It "
         "had always known her."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "\"Your son is not dead,\" the voice said, gentle in a way that "
@@ -275,7 +282,7 @@ EPISODE_CONTENT = [
         "learned it.\""
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "The dibia's own eyes flooded with tears even as the wrong voice "
@@ -290,12 +297,15 @@ EPISODE_CONTENT = [
         "root connected this hut to the forest three miles away."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
-    # System line
-    {"type": "system", "text": "FIRST CONTACT ESTABLISHED WITH MATERNAL BLOODLINE. SUBJECT: AMARA. RESPONSE: UNRESOLVED."},
+    # System alert block
+    {"type": "body", "text": (
+        "The voice beneath the roots recorded it, flat and exact."
+    )},
+    {"type": "system", "text": "First contact established with maternal bloodline. Subject: Amara. Response: unresolved."},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     # ═══════════════════════════════════════════════════════════════════════════
     # ACT THREE: THE PATH OUTSIDE — THE HOOK
@@ -314,7 +324,7 @@ EPISODE_CONTENT = [
         "She was wrong."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Elder Maka stood in the path between the hut and the row of "
@@ -337,7 +347,7 @@ EPISODE_CONTENT = [
         "even after what it once cost me.\""
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Behind them, in the dark hut, the dibia wept without sound. "
@@ -349,7 +359,7 @@ EPISODE_CONTENT = [
         "And smiled, with a mouth it did not yet have."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 ]
 
 
@@ -405,14 +415,17 @@ def make_run(text, bold=False, font_name="Georgia", font_size=24, caps=False):
 
 
 def make_paragraph(runs, spacing_after=120, spacing_line=360, alignment="left",
-                    first_line_indent=None):
+                    first_line_indent=None, spacing_before=0):
     p = make_element("p")
     pPr = make_element("pPr")
 
-    spacing = make_element("spacing", {
+    spacing_attrs = {
         f"{{{NS_WORD}}}after": str(spacing_after),
         f"{{{NS_WORD}}}line": str(spacing_line),
-    })
+    }
+    if spacing_before:
+        spacing_attrs[f"{{{NS_WORD}}}before"] = str(spacing_before)
+    spacing = make_element("spacing", spacing_attrs)
     pPr.append(spacing)
 
     if alignment != "left":
@@ -438,18 +451,22 @@ def make_title_paragraph(text, font_size=32, bold=True, alignment="center",
                            spacing_line=spacing_line, alignment=alignment)
 
 
-def make_body_paragraph(text, spacing_after=60, spacing_line=360):
+def make_body_paragraph(text, spacing_after=60, spacing_line=360,
+                        spacing_before=0):
     runs = [make_run(text, bold=False, font_size=24)]
     return make_paragraph(runs, spacing_after=spacing_after,
                            spacing_line=spacing_line, alignment="left",
-                           first_line_indent=360)
+                           first_line_indent=360,
+                           spacing_before=spacing_before)
 
 
-def make_system_paragraph(text, spacing_after=120, spacing_line=360):
+def make_system_paragraph(text, spacing_after=120, spacing_line=360,
+                          spacing_before=0):
     runs = [make_run(text, bold=True, font_size=24, caps=True)]
     return make_paragraph(runs, spacing_after=spacing_after,
                            spacing_line=spacing_line, alignment="left",
-                           first_line_indent=0)
+                           first_line_indent=0,
+                           spacing_before=spacing_before)
 
 
 def make_blank_paragraph(spacing_after=0, spacing_line=360):
@@ -460,6 +477,11 @@ def make_blank_paragraph(spacing_after=0, spacing_line=360):
 
 # ─── BUILD DOCUMENT XML ──────────────────────────────────────────────────────
 
+# Vertical space (twips) inserted before the first paragraph of a new scene.
+# 480 twips = 24pt: the page shows a clear scene break, but no empty
+# paragraph exists for the TTS engine to turn into dead air.
+SCENE_BREAK_SPACE = 480
+
 def build_document_xml():
     document = Element(
         qn("document"),
@@ -468,9 +490,17 @@ def build_document_xml():
 
     body = SubElement(document, qn("body"))
 
+    pending_scene_break = False
+
     for item in EPISODE_CONTENT:
         typ = item["type"]
         text = item["text"]
+
+        if typ == "scene_break":
+            pending_scene_break = True
+            continue
+
+        before = SCENE_BREAK_SPACE if pending_scene_break else 0
 
         if typ == "title_series":
             para = make_title_paragraph(text, font_size=36, bold=True,
@@ -493,11 +523,11 @@ def build_document_xml():
             para.append(pPr)
             para.append(run)
         elif typ == "body":
-            para = make_body_paragraph(text)
+            para = make_body_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         elif typ == "system":
-            para = make_system_paragraph(text)
-        elif typ == "blank":
-            para = make_blank_paragraph()
+            para = make_system_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         else:
             continue
 
@@ -632,12 +662,39 @@ def count_words():
 
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
 
+# --- LINT (TTS pacing, CLAUDE.md Section 3.10) ---
+
+def lint_content():
+    """Check narration text for TTS pacing violations."""
+    problems = []
+    for i, item in enumerate(EPISODE_CONTENT):
+        if item["type"] not in ("body", "system"):
+            continue
+        text = item["text"]
+        if "\u2014" in text or "\u2013" in text:
+            problems.append(f"  item {i}: contains a dash: {text[:60]}")
+        if "  " in text:
+            problems.append(f"  item {i}: double space: {text[:60]}")
+        if re.search(r"\w-\w", text):
+            problems.append(f"  item {i}: hyphenated word: {text[:60]}")
+    return problems
+
+
 def main():
     print("=" * 60)
     print("  THE DARK RISE — Episode 4: \"The Blood Remembers\"")
     print("  Build Script")
     print("=" * 60)
     print()
+
+    problems = lint_content()
+    if problems:
+        print("  LINT PROBLEMS:")
+        for p in problems:
+            print(p)
+        print()
+    else:
+        print("  Lint clean: no dashes, double spaces, or hyphenated words")
 
     wc = count_words()
     print(f"  Word count: {wc}")

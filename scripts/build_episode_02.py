@@ -55,7 +55,7 @@ EPISODE_CONTENT = [
         "It was done sleeping."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "The infant lay in its cloth bundle at the base of the iroko tree. "
@@ -76,7 +76,7 @@ EPISODE_CONTENT = [
         "arms that had held him only once before they were pulled away. The "
         "father who had not spoken his name because no name had been given. "
         "The old woman's law that declared him a thing and not a person. It "
-        "was all imprinted in the soft clay of an infant mind — a mark "
+        "was all imprinted in the soft clay of an infant mind. A mark "
         "deeper than any ritual scar."
     )},
     {"type": "body", "text": (
@@ -88,10 +88,10 @@ EPISODE_CONTENT = [
         "That hope had been a mistake."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
-        "The bonding was not possession. Possession was crude — one will "
+        "The bonding was not possession. Possession was crude. One will "
         "crushing another. This was fusion. The entity did not want to "
         "erase the child. It wanted to become the child, and it wanted the "
         "child to become something new. A vessel that could walk among the "
@@ -106,7 +106,7 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "The hunger was not for food. It was for recognition. For the taste "
         "of worship that had once been its due before men learned to fear "
-        "it. The old compact had fed it on the abandoned — dozens of "
+        "it. The old compact had fed it on the abandoned. Dozens of "
         "infants over the decades, their small lives like drops of water on "
         "parched stone. Enough to keep it from fading. Not enough to let it "
         "rise."
@@ -122,18 +122,23 @@ EPISODE_CONTENT = [
         "that had delivered him here. On the law that wrapped him in ash "
         "marked cloth and laid him on cold ground. On the mother's screams "
         "and the father's silence and the old woman's stone face. Every "
-        "human cruelty was fuel — and there had been so much cruelty, over "
+        "human cruelty was fuel, and there had been so much cruelty, over "
         "so many centuries, all of it soaked into the soil of Oso. Now that "
         "fuel had a purpose."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
-    # System lines
-    {"type": "system", "text": "CONDITION: BONDING — THE VESSEL AND THE ANCIENT ARE BECOMING ONE."},
-    {"type": "system", "text": "HOST STATUS: MARKED — THE SECOND TWIN OF IDORO — TRANSFORMATION INITIATED."},
+    # System alert block — sentence case for clean TTS; the caps run
+    # property renders it all caps on the page.
+    {"type": "body", "text": (
+        "And in the dark beneath the roots, the flat cold voice of the "
+        "compact spoke, counting what it owned."
+    )},
+    {"type": "system", "text": "Condition: bonding. The vessel and the ancient are becoming one."},
+    {"type": "system", "text": "Host status: marked. The second twin of Idoro. Transformation initiated."},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     # ═══════════════════════════════════════════════════════════════════════════
     # ACT TWO: IDORO — THE MORNING AFTER / THE DIBIA'S TERROR
@@ -141,7 +146,7 @@ EPISODE_CONTENT = [
 
     {"type": "body", "text": (
         "Dawn came to Idoro. The village woke to roosters crowing, women "
-        "calling across compound walls, children laughing — children who had "
+        "calling across compound walls, children laughing. Children who had "
         "not been taken to Oso, children born alone and safe and blessed."
     )},
     {"type": "body", "text": (
@@ -150,7 +155,8 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "Kene wailed for milk and Amara gave it. Her body moved through the "
         "motions. Her arms held him. Her breast fed him. But her eyes were "
-        "somewhere else — on the empty space beside her on the sleeping mat, "
+        "somewhere else. They stayed on the empty space beside her on the "
+        "sleeping mat, "
         "the space where the second bundle should have been. Her arms ached "
         "for the weight that was not there. Her chest knew there should be "
         "two mouths to feed."
@@ -161,7 +167,7 @@ EPISODE_CONTENT = [
         "screaming at the absence of her child, and the scream had no sound."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Outside, Obi sat against the mud wall where he had been all night. "
@@ -180,7 +186,7 @@ EPISODE_CONTENT = [
         "It killed something in the father too."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Elder Maka came at midday with her staff of dark polished wood "
@@ -188,14 +194,16 @@ EPISODE_CONTENT = [
         "in the doorway. The sun behind her made her silhouette absolute."
     )},
     {"type": "body", "text": (
-        "\"The child is gone?\""
+        "\"The child is gone?\" Elder Maka asked. She already knew the "
+        "answer."
     )},
     {"type": "body", "text": (
         "\"The child is gone,\" Zara said, because Amara would not speak "
         "and Obi could not."
     )},
     {"type": "body", "text": (
-        "\"Good. The law has been served. You will nurse the firstborn and "
+        "\"Good,\" Elder Maka said, in the tone of a judge closing a case. "
+        "\"The law has been served. You will nurse the firstborn and "
         "forget the second. The abiku was never yours. It was a test sent "
         "by the spirits. You have passed. You will be blessed.\""
     )},
@@ -215,12 +223,12 @@ EPISODE_CONTENT = [
         "She turned away first."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "Three compounds away, the dibia had not left his hut since "
         "returning from Oso. His apprentices heard him through the raffia "
-        "door — the click of cowrie shells, the rattle of bone and charm, "
+        "door. The click of cowrie shells, the rattle of bone and charm, "
         "the murmur of words in a language older than any human tongue "
         "still spoken aloud."
     )},
@@ -234,11 +242,11 @@ EPISODE_CONTENT = [
         "The other side was not answering."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "He looked at the bowl. His blood had not spread into shapes the "
-        "way blood divination required. It had formed a perfect sphere — a "
+        "way blood divination required. It had formed a perfect sphere. A "
         "ball of darkness suspended in the clear water. It did not move. It "
         "did not dissolve. The dibia had delivered three hundred children. "
         "He had walked to the edge of Oso more times than he could count. "
@@ -246,7 +254,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "Because he understood now. The secondborn was not an abiku. An "
-        "abiku was small — a spirit child that tormented a single bloodline, "
+        "abiku was small. A spirit child that tormented a single bloodline, "
         "something that could be warded and appeased. What he had carried to "
         "Oso was not small. Something ancient and patient and vast had been "
         "waiting beneath the roots of the twisted trees. And he had "
@@ -256,7 +264,7 @@ EPISODE_CONTENT = [
         "The law had not protected the village. The law had fed it."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     # ═══════════════════════════════════════════════════════════════════════════
     # ACT THREE: RETURN TO OSO — THE CHILD STIRS / THE HOOK
@@ -270,19 +278,19 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "The child was warm. The cold of the night had not touched him. The "
         "ground around the iroko tree was warmer than the ground three feet "
-        "away. The roots had shifted in the night — just enough to cradle "
+        "away. The roots had shifted in the night, just enough to cradle "
         "the bundle. The tree knew what slept beneath it. The tree knew what "
         "had woken."
     )},
     {"type": "body", "text": (
         "The infant opened its eyes. The irises had darkened. The whites had "
-        "cleared. There was a depth in them that no infant should possess — "
-        "a depth that said someone was looking out, someone who understood "
+        "cleared. There was a depth in them that no infant should possess. "
+        "A depth that said someone was looking out, someone who understood "
         "what looking meant. The entity was learning to see through human "
         "eyes, and it found the world intoxicating."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "The child's hand moved. It was not the random flailing of an "
@@ -292,7 +300,7 @@ EPISODE_CONTENT = [
     )},
     {"type": "body", "text": (
         "The tree shuddered. A tremor ran from root to branch. Green leaves "
-        "fell — healthy leaves that should not have fallen, pushed from "
+        "fell. Healthy leaves that should not have fallen, pushed from "
         "their branches by something that was testing what a human body "
         "could channel. Not much. Not yet. The infant form was fragile. The "
         "entity had to grow the vessel slowly, let the child's body "
@@ -304,17 +312,20 @@ EPISODE_CONTENT = [
         "But even the ancient could count the days."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
-    # System line — the transformation progresses
-    {"type": "system", "text": "CONDITION: BONDED — THE FIRST THRESHOLD IS CROSSED."},
-    {"type": "system", "text": "VESSEL STATUS: AWAKENING — THE CHILD BEGINS TO MOVE WITH PURPOSE."},
+    # System alert block — the transformation progresses
+    {"type": "body", "text": (
+        "The voice that was not a voice spoke again, cold and exact."
+    )},
+    {"type": "system", "text": "Condition: bonded. The first threshold is crossed."},
+    {"type": "system", "text": "Vessel status: awakening. The child begins to move with purpose."},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     {"type": "body", "text": (
         "The child made a sound. Not a cry. Not a hum. Something between. A "
-        "sound a newborn should not have the breath to produce — a sound "
+        "sound a newborn should not have the breath to produce. A sound "
         "that held a tone beneath the tone, like two voices learning to "
         "speak as one."
     )},
@@ -325,13 +336,10 @@ EPISODE_CONTENT = [
         "door."
     )},
     {"type": "body", "text": (
-        "The boundary held."
-    )},
-    {"type": "body", "text": (
-        "It would not hold forever."
+        "The boundary held. It would not hold forever."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     # ── The hook ──
     {"type": "body", "text": (
@@ -341,13 +349,14 @@ EPISODE_CONTENT = [
         "bleeding. He did not seem to see them."
     )},
     {"type": "body", "text": (
-        "\"Master? What has happened?\""
+        "\"Master? What has happened?\" the eldest apprentice asked, his "
+        "voice gone small."
     )},
     {"type": "body", "text": (
         "The dibia opened his mouth. He had to warn them. He had to tell "
-        "Elder Maka. He had to undo what he had done — impossible, you "
-        "could not unfeed a hunger that had starved for three hundred years "
-        "— but he had to try."
+        "Elder Maka. He had to undo what he had done. Impossible. You "
+        "could not unfeed a hunger that had starved for three hundred "
+        "years. But he had to try."
     )},
     {"type": "body", "text": (
         "He said nothing."
@@ -355,8 +364,8 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "His mouth moved. His throat worked. The words were there. They "
         "would not come out. Something was stopping him. Something wanted "
-        "the village to go on with its ordinary day — children playing, "
-        "women cooking, men fishing — while a power older than the kingdom "
+        "the village to go on with its ordinary day. Children playing, "
+        "women cooking, men fishing, while a power older than the kingdom "
         "grew stronger three miles from their walls."
     )},
     {"type": "body", "text": (
@@ -374,7 +383,7 @@ EPISODE_CONTENT = [
         "It said: I am coming."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 ]
 
 
@@ -441,7 +450,7 @@ def make_run(text, bold=False, font_name="Georgia", font_size=24, caps=False):
     return r
 
 def make_paragraph(runs, spacing_after=120, spacing_line=360, alignment="left",
-                   first_line_indent=None):
+                   first_line_indent=None, spacing_before=0):
     """Create a w:p (paragraph) element.
     spacing_line=360 = 1.5 line spacing in twips (240 = single).
     spacing_after is in twips (120 twips ≈ 6pt).
@@ -452,10 +461,13 @@ def make_paragraph(runs, spacing_after=120, spacing_line=360, alignment="left",
     pPr = make_element("pPr")
 
     # Spacing
-    spacing = make_element("spacing", {
+    spacing_attrs = {
         f"{{{NS_WORD}}}after": str(spacing_after),
         f"{{{NS_WORD}}}line": str(spacing_line),
-    })
+    }
+    if spacing_before:
+        spacing_attrs[f"{{{NS_WORD}}}before"] = str(spacing_before)
+    spacing = make_element("spacing", spacing_attrs)
     pPr.append(spacing)
 
     # Alignment
@@ -482,19 +494,23 @@ def make_title_paragraph(text, font_size=32, bold=True, alignment="center",
     return make_paragraph(runs, spacing_after=spacing_after,
                           spacing_line=spacing_line, alignment=alignment)
 
-def make_body_paragraph(text, spacing_after=60, spacing_line=360):
+def make_body_paragraph(text, spacing_after=60, spacing_line=360,
+                        spacing_before=0):
     """Create a body text paragraph with Georgia 12pt and first-line indent."""
     runs = [make_run(text, bold=False, font_size=24)]
     return make_paragraph(runs, spacing_after=spacing_after,
                           spacing_line=spacing_line, alignment="left",
-                          first_line_indent=360)  # 0.25 inch indent
+                          first_line_indent=360,
+                           spacing_before=spacing_before)
 
-def make_system_paragraph(text, spacing_after=120, spacing_line=360):
+def make_system_paragraph(text, spacing_after=120, spacing_line=360,
+                          spacing_before=0):
     """Create a bold, all-caps system paragraph."""
     runs = [make_run(text, bold=True, font_size=24, caps=True)]
     return make_paragraph(runs, spacing_after=spacing_after,
                           spacing_line=spacing_line, alignment="left",
-                          first_line_indent=0)
+                          first_line_indent=0,
+                           spacing_before=spacing_before)
 
 def make_blank_paragraph(spacing_after=0, spacing_line=360):
     """Create an empty paragraph for spacing."""
@@ -504,6 +520,11 @@ def make_blank_paragraph(spacing_after=0, spacing_line=360):
 
 
 # ─── BUILD DOCUMENT XML ──────────────────────────────────────────────────────
+
+# Vertical space (twips) inserted before the first paragraph of a new scene.
+# 480 twips = 24pt: the page shows a clear scene break, but no empty
+# paragraph exists for the TTS engine to turn into dead air.
+SCENE_BREAK_SPACE = 480
 
 def build_document_xml():
     """Build the word/document.xml content."""
@@ -516,9 +537,17 @@ def build_document_xml():
 
     body = SubElement(document, qn("body"))
 
+    pending_scene_break = False
+
     for item in EPISODE_CONTENT:
         typ = item["type"]
         text = item["text"]
+
+        if typ == "scene_break":
+            pending_scene_break = True
+            continue
+
+        before = SCENE_BREAK_SPACE if pending_scene_break else 0
 
         if typ == "title_series":
             para = make_title_paragraph(text, font_size=36, bold=True,
@@ -542,11 +571,11 @@ def build_document_xml():
             para.append(pPr)
             para.append(run)
         elif typ == "body":
-            para = make_body_paragraph(text)
+            para = make_body_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         elif typ == "system":
-            para = make_system_paragraph(text)
-        elif typ == "blank":
-            para = make_blank_paragraph()
+            para = make_system_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         else:
             continue
 
@@ -638,6 +667,24 @@ def count_words():
 
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
 
+# --- LINT (TTS pacing, CLAUDE.md Section 3.10) ---
+
+def lint_content():
+    """Check narration text for TTS pacing violations."""
+    problems = []
+    for i, item in enumerate(EPISODE_CONTENT):
+        if item["type"] not in ("body", "system"):
+            continue
+        text = item["text"]
+        if "\u2014" in text or "\u2013" in text:
+            problems.append(f"  item {i}: contains a dash: {text[:60]}")
+        if "  " in text:
+            problems.append(f"  item {i}: double space: {text[:60]}")
+        if re.search(r"\w-\w", text):
+            problems.append(f"  item {i}: hyphenated word: {text[:60]}")
+    return problems
+
+
 def main():
     print("=" * 60)
     print("  THE DARK RISE — Episode 2: \"The Hunger Beneath\"")
@@ -646,6 +693,15 @@ def main():
     print()
 
     # Word count
+    problems = lint_content()
+    if problems:
+        print("  LINT PROBLEMS:")
+        for p in problems:
+            print(p)
+        print()
+    else:
+        print("  Lint clean: no dashes, double spaces, or hyphenated words")
+
     wc = count_words()
     print(f"  Word count: {wc}")
     if wc < 1550:
