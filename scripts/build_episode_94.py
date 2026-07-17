@@ -213,7 +213,9 @@ EPISODE_CONTENT = [
         "twice to be certain she had understood it correctly the first "
         "time. The village had discovered its informant. It had moved, "
         "as Idoro had moved, to close the leak and set a trap of its "
-        "own."
+        "own. The ink had browned with age, but the clerk's hand was "
+        "steady and clear, a person recording events they believed "
+        "would matter to someone later."
     )},
     {"type": "body", "text": (
         "The record did not describe what happened next. It simply "

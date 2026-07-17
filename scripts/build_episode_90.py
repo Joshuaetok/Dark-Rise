@@ -52,7 +52,10 @@ EPISODE_CONTENT = [
         "mattered. A hunter who avoided force, who valued patience over "
         "confrontation, was not the kind of danger a thin guard was "
         "built to stop. That belief had held for three seasons. It held "
-        "for exactly as long as Mfoniso needed it to."
+        "for exactly as long as Mfoniso needed it to. The night itself "
+        "seemed to cooperate with the thinness, moonless and mild, the "
+        "kind of dark that made a small watch feel sufficient right up "
+        "until it was not."
     )},
     {"type": "body", "text": (
         "Elder Maka had said as much herself, hours earlier, and no one "

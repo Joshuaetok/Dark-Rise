@@ -41,14 +41,17 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "Amara found Kene crouched at the compound's edge in the "
-        "quiet hour before the evening meal, tracing something into "
-        "the soft dirt with one finger, slow and careful and entirely "
-        "unbothered by her approach. She recognized the shape before "
-        "she consciously understood why it frightened her: a spiral, "
-        "drawn from the outside in, the same unhurried pattern she had "
-        "once watched Zara's own hand trace without her permission, "
-        "twice, in two different seasons."
+        "Amara found Kene crouched at the compound's edge in the quiet "
+        "hour before the evening meal, tracing something into the soft "
+        "dirt with one finger, slow and careful and entirely unbothered "
+        "by her approach. She recognized the shape before she "
+        "consciously understood why it frightened her: a spiral, drawn "
+        "from the outside in, the same unhurried pattern she had once "
+        "watched Zara's own hand trace without her permission, twice, "
+        "in two different seasons. Around them the compound went on "
+        "with its ordinary evening noises, wood smoke and a neighbor's "
+        "voice and somewhere the small clatter of a cooking pot, all of "
+        "it suddenly very far away."
     )},
     {"type": "body", "text": (
         "\"Where did you learn that,\" she asked, keeping her voice "

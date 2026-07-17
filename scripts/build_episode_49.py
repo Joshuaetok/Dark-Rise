@@ -99,15 +99,16 @@ EPISODE_CONTENT = [
         "and cruelty quietly began."
     )},
     {"type": "body", "text": (
-        "Amara received the news from Osadebe with a stillness that "
-        "did not fully break until she was alone, and only then let "
-        "herself feel the full, disorienting size of what tomorrow "
-        "night would actually be. She had imagined this reunion, in "
-        "some form, nearly every day for over a year. She found now "
-        "that none of her imagining had prepared her for how it would "
-        "actually feel to have a date, a place, and a number of hours "
-        "attached to a hope she had never quite let herself believe "
-        "would arrive at all."
+        "Amara received the news from Osadebe with a stillness that did "
+        "not fully break until she was alone, and only then let herself "
+        "feel the full, disorienting size of what tomorrow night would "
+        "actually be. She had imagined this reunion, in some form, "
+        "nearly every day for over a year. She found now that none of "
+        "her imagining had prepared her for how it would actually feel "
+        "to have a date, a place, and a number of hours attached to a "
+        "hope she had never quite let herself believe would arrive at "
+        "all. She slept little that night, and for once did not count "
+        "the loss."
     )},
     {"type": "body", "text": (
         "She told only Obi and Zara, deciding, after turning the "

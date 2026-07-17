@@ -180,9 +180,12 @@ EPISODE_CONTENT = [
         "chosen route on Ubani's map a final time with the two soldiers "
         "he had selected, quiet, capable men named Ifeanyi and Okonjo "
         "who had both served through the worst of the confrontation "
-        "without flinching, and satisfied himself that the party carried "
-        "exactly the balance of speed and strength the uncertain ground "
-        "ahead would demand."
+        "without flinching, and satisfied himself that the party "
+        "carried exactly the balance of speed and strength the "
+        "uncertain ground ahead would demand. Both men studied the map "
+        "in silence and asked only practical questions, about water, "
+        "about ground, about what to do if the bearing failed them, "
+        "which was exactly why he had chosen them."
     )},
 
     {"type": "scene_break", "text": ""},

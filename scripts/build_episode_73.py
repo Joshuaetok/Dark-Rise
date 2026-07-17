@@ -170,11 +170,14 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "That evening, alone in the hut he had left a moon before, "
         "Osadebe stared at a fresh sheet of paper for a long while "
-        "before setting down a single line: a full account follows. "
-        "He did not yet have the words for what would need to fill the "
+        "before setting down a single line: a full account follows. He "
+        "did not yet have the words for what would need to fill the "
         "space beneath it, only the certain knowledge that whatever he "
         "wrote next would need to travel faster and land harder than "
-        "anything he had carried to Udo before."
+        "anything he had carried to Udo before. Twice he lifted the "
+        "pen, and twice he set it down again, listening to the ordinary "
+        "night sounds of a village that did not know how close it had "
+        "come."
     )},
     {"type": "body", "text": (
         "Chibundu found him there before the ink had dried further "

@@ -150,7 +150,9 @@ EPISODE_CONTENT = [
         "a careful and rational man who had spent fifteen years "
         "trusting his instruments over his instincts, found his "
         "instincts, for the first time in his career, entirely and "
-        "completely correct."
+        "completely correct. He stood very still inside it for a "
+        "moment, the way a man stands in a river deciding whether the "
+        "current has grown too strong to cross."
     )},
 
     {"type": "scene_break", "text": ""},

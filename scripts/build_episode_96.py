@@ -157,8 +157,10 @@ EPISODE_CONTENT = [
         "honest map. He believes that is worth more than a village's "
         "comfort.\" The entity, listening from a stillness that still "
         "cost it visibly to hold, offered no easy answer. \"An honest "
-        "man is harder to deceive than a dishonest one,\" it said. "
-        "\"That has always been the trouble with them.\""
+        "man is harder to deceive than a dishonest one,\" it said. \"That "
+        "has always been the trouble with them.\" Chibundu sat with that "
+        "a long while, listening to the dark around them hold its "
+        "breath, and found no comfort anywhere in it."
     )},
     {"type": "body", "text": (
         "The presence, listening from further away, offered a colder "

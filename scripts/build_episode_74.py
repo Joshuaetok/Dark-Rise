@@ -43,13 +43,15 @@ EPISODE_CONTENT = [
 
     {"type": "body", "text": (
         "Mfoniso took a room above a quiet river town's trading post "
-        "two days from Idoro rather than begin the long journey back "
-        "to the Ijoma Concern's true headquarters, unwilling to spend "
+        "two days from Idoro rather than begin the long journey back to "
+        "the Ijoma Concern's true headquarters, unwilling to spend "
         "weeks traveling while a weakened guardian's condition might "
-        "still be worth exploiting before it fully recovered. She "
-        "wrote her account the same evening, in the same small, "
-        "unhurried hand the Warden had used to summon her in the "
-        "first place."
+        "still be worth exploiting before it fully recovered. She wrote "
+        "her account the same evening, in the same small, unhurried "
+        "hand the Warden had used to summon her in the first place. The "
+        "room suited her, one window, one door, a clear view of the "
+        "water, nothing she would regret leaving behind at an hour's "
+        "notice."
     )},
     {"type": "body", "text": (
         "She did not soften the failure, having learned across thirty "

@@ -161,11 +161,13 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "The evening stretched long and silent, the ordinary sounds of "
         "a market closing for the night giving way, hour by hour, to "
-        "the deeper quiet of a village that did not know a trap had been "
-        "laid inside it. Chidebe checked each hidden position twice, "
-        "found every man exactly where he had left him, and allowed "
-        "himself, briefly, to believe the plan might actually work "
-        "exactly as designed."
+        "the deeper quiet of a village that did not know a trap had "
+        "been laid inside it. Chidebe checked each hidden position "
+        "twice, found every man exactly where he had left him, and "
+        "allowed himself, briefly, to believe the plan might actually "
+        "work exactly as designed. Somewhere beyond the stalls a dog "
+        "barked twice and went quiet, and every hidden man tightened "
+        "and then eased again, one breath at a time."
     )},
     {"type": "body", "text": (
         "Adaugo sat with Elder Maka near the compound rather than the "

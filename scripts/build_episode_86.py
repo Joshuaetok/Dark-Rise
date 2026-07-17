@@ -119,7 +119,9 @@ EPISODE_CONTENT = [
         "gently what frightened her more, a hunter she had already met "
         "or a stranger she had not yet found. Adaugo did not have an "
         "answer, and Elder Maka told her that not having one was itself "
-        "an honest place to start."
+        "an honest place to start. It was the kind of counsel the old "
+        "priestess had never once offered in her sterner years, and "
+        "Adaugo found it steadied her more than certainty would have."
     )},
     {"type": "body", "text": (
         "Kene, too young to be told the shape of what his parents were "

@@ -161,15 +161,18 @@ EPISODE_CONTENT = [
         "demanding it reveal itself on a schedule."
     )},
     {"type": "body", "text": (
-        "They watched Idoro's ordinary rhythms first, the fields "
-        "worked at dawn, the market opening at its usual hour, the "
-        "soldiers' patrols moving with a discipline that told them "
-        "plainly this garrison, at least, had been well trained. Twice "
-        "that first day the patrol pattern changed without warning, "
-        "and the specialist noted the change with something almost "
-        "like respect, filing away the fact that whoever commanded "
-        "this garrison had learned, recently and well, exactly the "
-        "kind of watching a patient enemy relies on most."
+        "They watched Idoro's ordinary rhythms first, the fields worked "
+        "at dawn, the market opening at its usual hour, the soldiers' "
+        "patrols moving with a discipline that told them plainly this "
+        "garrison, at least, had been well trained. Twice that first "
+        "day the patrol pattern changed without warning, and the "
+        "specialist noted the change with something almost like "
+        "respect, filing away the fact that whoever commanded this "
+        "garrison had learned, recently and well, exactly the kind of "
+        "watching a patient enemy relies on most. None of it changed "
+        "the specialist's read of the ground. It only confirmed how "
+        "much patience the work ahead would ask, and patience had never "
+        "once been the difficult part."
     )},
     {"type": "body", "text": (
         "They watched the compound nearest the fields longest of all, "

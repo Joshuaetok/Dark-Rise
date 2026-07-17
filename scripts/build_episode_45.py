@@ -57,13 +57,15 @@ EPISODE_CONTENT = [
     {"type": "body", "text": (
         "Idoro watched the tents rise with an unease that had nothing "
         "to do with fear of the men themselves and everything to do "
-        "with a village that had spent a lifetime learning what it "
-        "cost to be watched closely by anyone, crown or otherwise. "
-        "Children who had grown bold enough to stare openly at Amara "
-        "in the market now stared instead at the neat rows of canvas "
-        "at the field's edge, unsure whether armed strangers camped so "
-        "near their homes counted as protection or simply a different "
-        "shape of danger wearing the crown's own colors."
+        "with a village that had spent a lifetime learning what it cost "
+        "to be watched closely by anyone, crown or otherwise. Children "
+        "who had grown bold enough to stare openly at Amara in the "
+        "market now stared instead at the neat rows of canvas at the "
+        "field's edge, unsure whether armed strangers camped so near "
+        "their homes counted as protection or simply a different shape "
+        "of danger wearing the crown's own colors. The older women said "
+        "less and watched more, which in Idoro had always been the "
+        "surer measure of how deep an unease actually ran."
     )},
     {"type": "body", "text": (
         "Ikwuano's careful orders, read aloud by Osadebe to the "

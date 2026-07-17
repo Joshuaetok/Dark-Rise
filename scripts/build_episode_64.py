@@ -46,14 +46,16 @@ EPISODE_CONTENT = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     {"type": "body", "text": (
-        "The Factor traveled three full days downriver to reach it, "
-        "the water widening and slowing the further he went until the "
-        "delta finally opened onto brackish water and the low, unlit "
+        "The Factor traveled three full days downriver to reach it, the "
+        "water widening and slowing the further he went until the delta "
+        "finally opened onto brackish water and the low, unlit "
         "silhouette of the Ijoma Concern's true business, a trading "
         "post built to look like nothing more than warehouses and a "
         "modest dock to anyone passing it by boat, its real purpose "
         "kept several rooms deeper than any tax collector had ever "
-        "cared to look."
+        "cared to look. Even the river seemed to arrive at the place "
+        "quietly, as though the water itself had learned the House's "
+        "preference for going unremarked."
     )},
     {"type": "body", "text": (
         "He delivered his report in a windowless room lit by a single "

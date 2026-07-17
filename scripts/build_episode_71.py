@@ -242,8 +242,10 @@ EPISODE_CONTENT = [
         "Obi took her hand, and they sat together a long while in the "
         "dark, neither one certain of the answer, both understanding "
         "that whatever they decided, it would have to be decided soon, "
-        "before patience this deep found a second night as quiet as "
-        "the last one had almost been."
+        "before patience this deep found a second night as quiet as the "
+        "last one had almost been. Outside, the watch fire at the "
+        "compound's edge burned low and steady, tended by a soldier "
+        "neither of them could see."
     )},
     {"type": "body", "text": (
         "\"I do not want to raise our sons deciding safety by how far "

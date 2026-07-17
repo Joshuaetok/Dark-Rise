@@ -826,7 +826,20 @@ to months earlier.
   eighteen episodes (45, 48, 49, 64, 68, 71, 73, 74, 76, 86, 87, 89,
   90, 94, 96, 97, 98, 99) sit one to fifteen words under the 1,550
   word minimum and did so before this pass; fixing them means adding
-  story content and should be its own deliberate pass.
+  story content and should be its own deliberate pass. (Resolved by
+  the padding pass in the next entry, same day.)
+- **Word count padding pass (2026-07-17):** Resolved the shortfall
+  flagged in the previous entry. Each of the eighteen episodes that had
+  shipped one to fifteen words under the 1,550 word minimum gained one
+  or two added sentences (thirteen to thirty three words each) inside
+  an existing mid episode paragraph — atmosphere, sensory texture, or a
+  small emotional beat in the episode's own voice. No closing hooks
+  were touched, no new plot facts were introduced, and every addition
+  follows the Section 3 audio rules. All eighteen now land between one
+  thousand five hundred sixty two and one thousand five hundred
+  seventy five words; the full series (Episodes 1 through 101) is now
+  verified in the 1,550-2,150 range, lint clean, with zero empty
+  paragraphs in every built docx.
 
 ---
 
