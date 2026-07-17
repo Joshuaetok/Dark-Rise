@@ -20,6 +20,7 @@ never once been able to name.
 
 import zipfile
 import os
+import re
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, tostring
 
@@ -59,7 +60,7 @@ EPISODE_CONTENT = [
         "had traveled upriver ahead of him, a village the crown itself "
         "sent soldiers to watch."
     )},
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
     {"type": "body", "text": (
         "Osadebe heard the same story secondhand that evening, sitting "
         "at the edge of the compound Amara had given him, and felt the "
@@ -82,7 +83,7 @@ EPISODE_CONTENT = [
         "not wrong to be afraid of that. I am not certain I disagree "
         "with them.\""
     )},
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
     {"type": "body", "text": (
         "The council met that afternoon under the mango tree that had "
         "once served only Elder Maka's judgments, now rearranged into a "
@@ -102,7 +103,7 @@ EPISODE_CONTENT = [
         "put me in this circle instead of leading it. I have had my "
         "fill of hiding.\""
     )},
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
     {"type": "body", "text": (
         "Osadebe offered the only thing he had that might weigh "
         "against a rumor: himself, and the crown's name behind him. He "
@@ -160,7 +161,7 @@ EPISODE_CONTENT = [
         "learning it.\""
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     # ═══════════════════════════════════════════════════════════════════════════
     # ACT TWO: OSO — THE WORD IT NEVER GAVE HIM
@@ -183,7 +184,7 @@ EPISODE_CONTENT = [
         "the root wall, as though it already belonged to something and "
         "he had simply been the one to notice."
     )},
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
     {"type": "body", "text": (
         "\"Where did you hear that,\" the entity asked him, keeping its "
         "voice as even as it kept every other question it had learned "
@@ -205,7 +206,7 @@ EPISODE_CONTENT = [
         "turned the sound over inside itself with a care it had not "
         "needed to spend on anything the boy had said or done in weeks."
     )},
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
     {"type": "body", "text": (
         "It searched every corner of what it had given him. The shapes "
         "and patterns taught directly into his mind since before he "
@@ -226,12 +227,12 @@ EPISODE_CONTENT = [
         "its own roots, a pressure it had always assumed belonged to "
         "the forest itself and had never once thought to name."
     )},
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
     {"type": "body", "text": (
-        "VESSEL: FIRST VERBAL PATTERN NOT TRACEABLE TO ANY TAUGHT "
-        "SOURCE. ORIGIN UNKNOWN. RECURRENCE UNPROMPTED, THREE SEPARATE "
-        "INSTANCES WITHIN ONE NIGHT."
+        "Beneath everything, the ledger voice recorded what it could "
+        "not explain."
     )},
+    {"type": "system", "text": "Vessel: first verbal pattern not traceable to any taught source. Origin unknown. Recurrence unprompted, three separate instances within one night."},
     {"type": "body", "text": (
         "It had told itself, across every one of these last careful "
         "days, that the boy's unclaimed will was a small and gentle "
@@ -264,7 +265,7 @@ EPISODE_CONTENT = [
         "ever managed. It had made the thing that raised him afraid."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 ]
 
 
@@ -320,14 +321,17 @@ def make_run(text, bold=False, font_name="Georgia", font_size=24, caps=False):
 
 
 def make_paragraph(runs, spacing_after=120, spacing_line=360, alignment="left",
-                    first_line_indent=None):
+                    first_line_indent=None, spacing_before=0):
     p = make_element("p")
     pPr = make_element("pPr")
 
-    spacing = make_element("spacing", {
+    spacing_attrs = {
         f"{{{NS_WORD}}}after": str(spacing_after),
         f"{{{NS_WORD}}}line": str(spacing_line),
-    })
+    }
+    if spacing_before:
+        spacing_attrs[f"{{{NS_WORD}}}before"] = str(spacing_before)
+    spacing = make_element("spacing", spacing_attrs)
     pPr.append(spacing)
 
     if alignment != "left":
@@ -353,18 +357,22 @@ def make_title_paragraph(text, font_size=32, bold=True, alignment="center",
                            spacing_line=spacing_line, alignment=alignment)
 
 
-def make_body_paragraph(text, spacing_after=60, spacing_line=360):
+def make_body_paragraph(text, spacing_after=60, spacing_line=360,
+                        spacing_before=0):
     runs = [make_run(text, bold=False, font_size=24)]
     return make_paragraph(runs, spacing_after=spacing_after,
                            spacing_line=spacing_line, alignment="left",
-                           first_line_indent=360)
+                           first_line_indent=360,
+                           spacing_before=spacing_before)
 
 
-def make_system_paragraph(text, spacing_after=120, spacing_line=360):
+def make_system_paragraph(text, spacing_after=120, spacing_line=360,
+                          spacing_before=0):
     runs = [make_run(text, bold=True, font_size=24, caps=True)]
     return make_paragraph(runs, spacing_after=spacing_after,
                            spacing_line=spacing_line, alignment="left",
-                           first_line_indent=0)
+                           first_line_indent=0,
+                           spacing_before=spacing_before)
 
 
 def make_blank_paragraph(spacing_after=0, spacing_line=360):
@@ -375,6 +383,11 @@ def make_blank_paragraph(spacing_after=0, spacing_line=360):
 
 # ─── BUILD DOCUMENT XML ──────────────────────────────────────────────────────
 
+# Vertical space (twips) inserted before the first paragraph of a new scene.
+# 480 twips = 24pt: the page shows a clear scene break, but no empty
+# paragraph exists for the TTS engine to turn into dead air.
+SCENE_BREAK_SPACE = 480
+
 def build_document_xml():
     document = Element(
         qn("document"),
@@ -383,9 +396,17 @@ def build_document_xml():
 
     body = SubElement(document, qn("body"))
 
+    pending_scene_break = False
+
     for item in EPISODE_CONTENT:
         typ = item["type"]
         text = item["text"]
+
+        if typ == "scene_break":
+            pending_scene_break = True
+            continue
+
+        before = SCENE_BREAK_SPACE if pending_scene_break else 0
 
         if typ == "title_series":
             para = make_title_paragraph(text, font_size=36, bold=True,
@@ -408,11 +429,11 @@ def build_document_xml():
             para.append(pPr)
             para.append(run)
         elif typ == "body":
-            para = make_body_paragraph(text)
+            para = make_body_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         elif typ == "system":
-            para = make_system_paragraph(text)
-        elif typ == "blank":
-            para = make_blank_paragraph()
+            para = make_system_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         else:
             continue
 
@@ -547,12 +568,39 @@ def count_words():
 
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
 
+# --- LINT (TTS pacing, CLAUDE.md Section 3.10) ---
+
+def lint_content():
+    """Check narration text for TTS pacing violations."""
+    problems = []
+    for i, item in enumerate(EPISODE_CONTENT):
+        if item["type"] not in ("body", "system"):
+            continue
+        text = item["text"]
+        if "\u2014" in text or "\u2013" in text:
+            problems.append(f"  item {i}: contains a dash: {text[:60]}")
+        if "  " in text:
+            problems.append(f"  item {i}: double space: {text[:60]}")
+        if re.search(r"\w-\w", text):
+            problems.append(f"  item {i}: hyphenated word: {text[:60]}")
+    return problems
+
+
 def main():
     print("=" * 60)
     print("  THE DARK RISE — Episode 35: \"What He Was Not Taught\"")
     print("  Build Script")
     print("=" * 60)
     print()
+
+    problems = lint_content()
+    if problems:
+        print("  LINT PROBLEMS:")
+        for p in problems:
+            print(p)
+        print()
+    else:
+        print("  Lint clean: no dashes, double spaces, or hyphenated words")
 
     wc = count_words()
     print(f"  Word count: {wc}")

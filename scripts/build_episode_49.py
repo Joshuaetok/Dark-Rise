@@ -23,6 +23,7 @@ request was refused.
 
 import zipfile
 import os
+import re
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, tostring
 
@@ -84,7 +85,7 @@ EPISODE_CONTENT = [
         "order that would simply get in the way of something that was "
         "never actually anyone's enemy to begin with.\""
     )},
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
     {"type": "body", "text": (
         "Osadebe thanked him with more feeling than he had expected "
         "to carry into the exchange, and found, walking back toward "
@@ -134,7 +135,7 @@ EPISODE_CONTENT = [
         "both."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     # ═══════════════════════════════════════════════════════════════════════════
     # ACT TWO: OSO — PRACTICING FOR A NIGHT THAT ACTUALLY COMES
@@ -158,7 +159,7 @@ EPISODE_CONTENT = [
         "that the meeting still belongs to the two of you rather than "
         "to me standing over it.\""
     )},
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
     {"type": "body", "text": (
         "Chibundu practiced holding still through the telling of it, "
         "the same deliberate stillness he had learned watching Chidebe "
@@ -205,11 +206,9 @@ EPISODE_CONTENT = [
         "failed. It usually only means the moment was real.\""
     )},
     {"type": "body", "text": (
-        "VESSEL: FIRST SCHEDULED, DELIBERATE PHYSICAL REUNION WITH "
-        "MATERNAL FIGURE. LOGISTICS CONFIRMED AND AGREED BY BOTH "
-        "PARTIES. EMOTIONAL PREPARATION INCOMPLETE BY DEFINITION — NO "
-        "PRIOR PRECEDENT AVAILABLE TO DRAW FROM."
+        "In its ledger, the flat voice set down the plan."
     )},
+    {"type": "system", "text": "Vessel: first scheduled, deliberate physical reunion with maternal figure. Logistics confirmed and agreed by both parties. Emotional preparation incomplete by definition. No prior precedent available to draw from."},
     {"type": "body", "text": (
         "They sat with the plan a long while after that, the entity "
         "turning over every remaining risk it could still name and "
@@ -249,7 +248,7 @@ EPISODE_CONTENT = [
         "carrying."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 ]
 
 
@@ -305,14 +304,17 @@ def make_run(text, bold=False, font_name="Georgia", font_size=24, caps=False):
 
 
 def make_paragraph(runs, spacing_after=120, spacing_line=360, alignment="left",
-                    first_line_indent=None):
+                    first_line_indent=None, spacing_before=0):
     p = make_element("p")
     pPr = make_element("pPr")
 
-    spacing = make_element("spacing", {
+    spacing_attrs = {
         f"{{{NS_WORD}}}after": str(spacing_after),
         f"{{{NS_WORD}}}line": str(spacing_line),
-    })
+    }
+    if spacing_before:
+        spacing_attrs[f"{{{NS_WORD}}}before"] = str(spacing_before)
+    spacing = make_element("spacing", spacing_attrs)
     pPr.append(spacing)
 
     if alignment != "left":
@@ -338,18 +340,22 @@ def make_title_paragraph(text, font_size=32, bold=True, alignment="center",
                            spacing_line=spacing_line, alignment=alignment)
 
 
-def make_body_paragraph(text, spacing_after=60, spacing_line=360):
+def make_body_paragraph(text, spacing_after=60, spacing_line=360,
+                        spacing_before=0):
     runs = [make_run(text, bold=False, font_size=24)]
     return make_paragraph(runs, spacing_after=spacing_after,
                            spacing_line=spacing_line, alignment="left",
-                           first_line_indent=360)
+                           first_line_indent=360,
+                           spacing_before=spacing_before)
 
 
-def make_system_paragraph(text, spacing_after=120, spacing_line=360):
+def make_system_paragraph(text, spacing_after=120, spacing_line=360,
+                          spacing_before=0):
     runs = [make_run(text, bold=True, font_size=24, caps=True)]
     return make_paragraph(runs, spacing_after=spacing_after,
                            spacing_line=spacing_line, alignment="left",
-                           first_line_indent=0)
+                           first_line_indent=0,
+                           spacing_before=spacing_before)
 
 
 def make_blank_paragraph(spacing_after=0, spacing_line=360):
@@ -360,6 +366,11 @@ def make_blank_paragraph(spacing_after=0, spacing_line=360):
 
 # ─── BUILD DOCUMENT XML ──────────────────────────────────────────────────────
 
+# Vertical space (twips) inserted before the first paragraph of a new scene.
+# 480 twips = 24pt: the page shows a clear scene break, but no empty
+# paragraph exists for the TTS engine to turn into dead air.
+SCENE_BREAK_SPACE = 480
+
 def build_document_xml():
     document = Element(
         qn("document"),
@@ -368,9 +379,17 @@ def build_document_xml():
 
     body = SubElement(document, qn("body"))
 
+    pending_scene_break = False
+
     for item in EPISODE_CONTENT:
         typ = item["type"]
         text = item["text"]
+
+        if typ == "scene_break":
+            pending_scene_break = True
+            continue
+
+        before = SCENE_BREAK_SPACE if pending_scene_break else 0
 
         if typ == "title_series":
             para = make_title_paragraph(text, font_size=36, bold=True,
@@ -393,11 +412,11 @@ def build_document_xml():
             para.append(pPr)
             para.append(run)
         elif typ == "body":
-            para = make_body_paragraph(text)
+            para = make_body_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         elif typ == "system":
-            para = make_system_paragraph(text)
-        elif typ == "blank":
-            para = make_blank_paragraph()
+            para = make_system_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         else:
             continue
 
@@ -532,12 +551,39 @@ def count_words():
 
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
 
+# --- LINT (TTS pacing, CLAUDE.md Section 3.10) ---
+
+def lint_content():
+    """Check narration text for TTS pacing violations."""
+    problems = []
+    for i, item in enumerate(EPISODE_CONTENT):
+        if item["type"] not in ("body", "system"):
+            continue
+        text = item["text"]
+        if "\u2014" in text or "\u2013" in text:
+            problems.append(f"  item {i}: contains a dash: {text[:60]}")
+        if "  " in text:
+            problems.append(f"  item {i}: double space: {text[:60]}")
+        if re.search(r"\w-\w", text):
+            problems.append(f"  item {i}: hyphenated word: {text[:60]}")
+    return problems
+
+
 def main():
     print("=" * 60)
     print("  THE DARK RISE — Episode 49: \"What the Boundary Will Allow\"")
     print("  Build Script")
     print("=" * 60)
     print()
+
+    problems = lint_content()
+    if problems:
+        print("  LINT PROBLEMS:")
+        for p in problems:
+            print(p)
+        print()
+    else:
+        print("  Lint clean: no dashes, double spaces, or hyphenated words")
 
     wc = count_words()
     print(f"  Word count: {wc}")

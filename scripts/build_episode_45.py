@@ -23,6 +23,7 @@ these men, unlike the last ones, have done nothing yet to deserve harm.
 
 import zipfile
 import os
+import re
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, tostring
 
@@ -68,15 +69,14 @@ EPISODE_CONTENT = [
         "Ikwuano's careful orders, read aloud by Osadebe to the "
         "assembled council that same morning exactly as instructed, "
         "helped less than Eze Amadi had hoped. The words themselves "
-        "were plain enough — protection of the boundary, no survey, no "
-        "interference with village governance — but Ozoemena, still "
-        "recovering his own credibility one small honest act at a "
-        "time, voiced the doubt several others were clearly holding "
-        "back. \"We have heard careful words from Udo before,\" he "
-        "said. \"They were true words, as far as I know. But careful "
-        "words and careful soldiers are not always the same promise, "
-        "and this village has learned that difference the hard way "
-        "more than once already.\""
+        "were plain enough. Protection of the boundary, no survey, no "
+        "interference with village governance. But Ozoemena, still "
+        "recovering his own credibility one small honest act at a time, "
+        "voiced the doubt several others were clearly holding back. \"We "
+        "have heard careful words from Udo before,\" he said. \"They were "
+        "true words, as far as I know. But careful words and careful "
+        "soldiers are not always the same promise, and this village has "
+        "learned that difference the hard way more than once already.\""
     )},
     {"type": "body", "text": (
         "\"I am to hold this boundary,\" he said, studying the tree "
@@ -87,7 +87,7 @@ EPISODE_CONTENT = [
         "your permission or without it. My orders are clear on that "
         "point even if they were vague on most others.\""
     )},
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
     {"type": "body", "text": (
         "Osadebe felt the particular, exhausted dread of a man watching "
         "the same mistake approach from a new direction, dressed this "
@@ -144,7 +144,7 @@ EPISODE_CONTENT = [
         "officer had chosen to indulge."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 
     # ═══════════════════════════════════════════════════════════════════════════
     # ACT TWO: OSO — LEARNING WHEN NOT TO ACT
@@ -178,7 +178,7 @@ EPISODE_CONTENT = [
         "weeks it had let a stranger approach the tree line and leave "
         "again having felt nothing from the ground at all."
     )},
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
     {"type": "body", "text": (
         "\"No,\" the entity said, more firmly than it had said "
         "anything to him in days. \"These men have done nothing yet "
@@ -204,13 +204,11 @@ EPISODE_CONTENT = [
         "who has not yet earned it is not strength. It is simply "
         "cruelty wearing strength's clothes.\""
     )},
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
     {"type": "body", "text": (
-        "VESSEL: FIRST LESSON IN RESTRAINT AS DELIBERATE ACT RATHER "
-        "THAN PASSIVE ABSENCE OF FORCE. DISTINCTION BETWEEN THREAT AND "
-        "CAUTION SUCCESSFULLY COMMUNICATED, THOUGH NOT YET FULLY "
-        "TESTED UNDER PRESSURE."
+        "The flat voice entered the lesson in its ledger."
     )},
+    {"type": "system", "text": "Vessel: first lesson in restraint as deliberate act rather than passive absence of force. Distinction between threat and caution successfully communicated, though not yet fully tested under pressure."},
     {"type": "body", "text": (
         "The boy sat with this longer than the entity expected, "
         "turning the idea over the way he turned over every lesson "
@@ -255,7 +253,7 @@ EPISODE_CONTENT = [
         "in advance."
     )},
 
-    {"type": "blank", "text": ""},
+    {"type": "scene_break", "text": ""},
 ]
 
 
@@ -311,14 +309,17 @@ def make_run(text, bold=False, font_name="Georgia", font_size=24, caps=False):
 
 
 def make_paragraph(runs, spacing_after=120, spacing_line=360, alignment="left",
-                    first_line_indent=None):
+                    first_line_indent=None, spacing_before=0):
     p = make_element("p")
     pPr = make_element("pPr")
 
-    spacing = make_element("spacing", {
+    spacing_attrs = {
         f"{{{NS_WORD}}}after": str(spacing_after),
         f"{{{NS_WORD}}}line": str(spacing_line),
-    })
+    }
+    if spacing_before:
+        spacing_attrs[f"{{{NS_WORD}}}before"] = str(spacing_before)
+    spacing = make_element("spacing", spacing_attrs)
     pPr.append(spacing)
 
     if alignment != "left":
@@ -344,18 +345,22 @@ def make_title_paragraph(text, font_size=32, bold=True, alignment="center",
                            spacing_line=spacing_line, alignment=alignment)
 
 
-def make_body_paragraph(text, spacing_after=60, spacing_line=360):
+def make_body_paragraph(text, spacing_after=60, spacing_line=360,
+                        spacing_before=0):
     runs = [make_run(text, bold=False, font_size=24)]
     return make_paragraph(runs, spacing_after=spacing_after,
                            spacing_line=spacing_line, alignment="left",
-                           first_line_indent=360)
+                           first_line_indent=360,
+                           spacing_before=spacing_before)
 
 
-def make_system_paragraph(text, spacing_after=120, spacing_line=360):
+def make_system_paragraph(text, spacing_after=120, spacing_line=360,
+                          spacing_before=0):
     runs = [make_run(text, bold=True, font_size=24, caps=True)]
     return make_paragraph(runs, spacing_after=spacing_after,
                            spacing_line=spacing_line, alignment="left",
-                           first_line_indent=0)
+                           first_line_indent=0,
+                           spacing_before=spacing_before)
 
 
 def make_blank_paragraph(spacing_after=0, spacing_line=360):
@@ -366,6 +371,11 @@ def make_blank_paragraph(spacing_after=0, spacing_line=360):
 
 # ─── BUILD DOCUMENT XML ──────────────────────────────────────────────────────
 
+# Vertical space (twips) inserted before the first paragraph of a new scene.
+# 480 twips = 24pt: the page shows a clear scene break, but no empty
+# paragraph exists for the TTS engine to turn into dead air.
+SCENE_BREAK_SPACE = 480
+
 def build_document_xml():
     document = Element(
         qn("document"),
@@ -374,9 +384,17 @@ def build_document_xml():
 
     body = SubElement(document, qn("body"))
 
+    pending_scene_break = False
+
     for item in EPISODE_CONTENT:
         typ = item["type"]
         text = item["text"]
+
+        if typ == "scene_break":
+            pending_scene_break = True
+            continue
+
+        before = SCENE_BREAK_SPACE if pending_scene_break else 0
 
         if typ == "title_series":
             para = make_title_paragraph(text, font_size=36, bold=True,
@@ -399,11 +417,11 @@ def build_document_xml():
             para.append(pPr)
             para.append(run)
         elif typ == "body":
-            para = make_body_paragraph(text)
+            para = make_body_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         elif typ == "system":
-            para = make_system_paragraph(text)
-        elif typ == "blank":
-            para = make_blank_paragraph()
+            para = make_system_paragraph(text, spacing_before=before)
+            pending_scene_break = False
         else:
             continue
 
@@ -538,12 +556,39 @@ def count_words():
 
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
 
+# --- LINT (TTS pacing, CLAUDE.md Section 3.10) ---
+
+def lint_content():
+    """Check narration text for TTS pacing violations."""
+    problems = []
+    for i, item in enumerate(EPISODE_CONTENT):
+        if item["type"] not in ("body", "system"):
+            continue
+        text = item["text"]
+        if "\u2014" in text or "\u2013" in text:
+            problems.append(f"  item {i}: contains a dash: {text[:60]}")
+        if "  " in text:
+            problems.append(f"  item {i}: double space: {text[:60]}")
+        if re.search(r"\w-\w", text):
+            problems.append(f"  item {i}: hyphenated word: {text[:60]}")
+    return problems
+
+
 def main():
     print("=" * 60)
     print("  THE DARK RISE — Episode 45: \"A Different Kind of Watching\"")
     print("  Build Script")
     print("=" * 60)
     print()
+
+    problems = lint_content()
+    if problems:
+        print("  LINT PROBLEMS:")
+        for p in problems:
+            print(p)
+        print()
+    else:
+        print("  Lint clean: no dashes, double spaces, or hyphenated words")
 
     wc = count_words()
     print(f"  Word count: {wc}")

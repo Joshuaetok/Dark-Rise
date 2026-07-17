@@ -169,7 +169,7 @@ non-negotiable — violations produce awkward, unlistenable audio.
   plates or letter codes: "Y U N four five seven eight" not "YUN 4578."
   This ensures the AI pronounces each character distinctly.
 
-### 3.10 Paragraph Pacing and Dialogue Tone (added 2026-07-17; applied to Episodes 1-10 so far)
+### 3.10 Paragraph Pacing and Dialogue Tone (added 2026-07-17; applied to all episodes, 1-101)
 TTS engines pause longest at paragraph breaks — noticeably longer than at a
 period. Structure paragraphs for the ear:
 - **One paragraph = one connected beat.** Group related sentences into
@@ -803,6 +803,30 @@ to months earlier.
   of the search. The episode closes cold on the Warden's ciphered
   question traveling toward Mfoniso: does the hunt still require the
   guest kept breathing, or may the House close the account.
+- **Episodes 11-101 TTS pacing pass (2026-07-17):** Completed the Section
+  3.10 rollout across the remaining ninety one episodes, finishing the
+  series-wide audit begun with Episode 1. All build scripts now use scene
+  break spacing instead of empty spacer paragraphs (three hundred ninety
+  four spacers removed; every built docx verified to contain zero empty
+  paragraphs) and lint for dashes, double spaces, and hyphenated words.
+  All forty four system status lines were converted from typed all caps
+  to sentence case (the caps run property keeps the page look) and given
+  a one line herald in the entity's ledger voice, matching Episode 1;
+  the fifteen status lines in Episodes 35-50 that had been typed as
+  plain body paragraphs were also restored to true system formatting.
+  Six em dashes rewritten (dialogue interruptions became single
+  ellipses, per the Episodes 2-10 pattern); one bare quote in Episode 77
+  gained a tone cue; Episode 101, built with no scene breaks at all,
+  gained four. Three spoken episode number references — Section 3.5
+  violations the AI voice would have read aloud ("since Episode eighty
+  two" in Episode 84's narration, "Episode ninety four's reckoning" in
+  Episode 99's, "predates episode thirty six contact" in Episode 37's
+  status line) — were rewritten in world. No story content changed.
+  Known pre existing issue, deliberately not addressed in this pass:
+  eighteen episodes (45, 48, 49, 64, 68, 71, 73, 74, 76, 86, 87, 89,
+  90, 94, 96, 97, 98, 99) sit one to fifteen words under the 1,550
+  word minimum and did so before this pass; fixing them means adding
+  story content and should be its own deliberate pass.
 
 ---
 
