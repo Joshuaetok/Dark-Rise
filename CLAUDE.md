@@ -261,27 +261,27 @@ changelog below (see that section's header for the exact current window).
 | Nduka | Crown river-road intelligence agent | Alive. Minor, not currently active — carried the first report of Idoro's unraveling to Udo (Ep24). |
 | Nkiruka | Keeper of the crown's old rites and records, Udo | Alive. Holds the crown's only historical archive on prior encounters with old powers. Revised her reading (Ep65) to recognize two separate powers rather than one growing bolder. Found a centuries old record of a border village that discovered a coerced informant exactly as Idoro did, whose account then stops mid record with no resolution (Ep94); still kept private from Eze Amadi. Current thread: personally endorsed Osadebe's Ijeoma search request alongside Eze Amadi's seal, privately hoping it might answer what her own unfinished archive record could not (Ep99). |
 | Ejikeme | Overseer of the crown's delta trade concessions, Udo | Alive. Won authorization for the crown survey of Idoro's land he had twice been refused (Ep94), granted as crown protective obligation rather than a trade measure, though he could not promise Nkiruka the crown would keep that distinction once exploitable ground was found. Dispatched to begin survey preparations within the week. |
-| Osadebe | Captain of Eze Amadi's personal service, permanently assigned to Idoro | Alive. The crown's primary eyewitness and liaison to Idoro. Leads the Ijeoma search party (himself, Emenike, Ifeanyi, Okonjo), sketching fresh maps each evening past the edge of Ubani's survey. Current thread: four days west, the party found a centuries old boundary stone laid deliberately face down with a spiral cut into its buried face; he copied the mark exactly onto his map, judged the stone was laid down rather than fallen ("the way you lay down the dead"), and noted its facing line runs west and slightly south (Ep101). |
+| Osadebe | Captain of Eze Amadi's personal service, permanently assigned to Idoro | Alive. The crown's primary eyewitness and liaison to Idoro. Leads the Ijeoma search party (himself, Emenike, Ifeanyi, Okonjo), sketching fresh maps each evening past the edge of Ubani's survey. Current thread: five days west, made early camp rather than push into failing light; marked a second, unexplored path branching north off the bearing's route and chose to leave it uninvestigated for now, one day short of what the presence promised (Ep102). |
 | Chidebe | Captain, commands the crown garrison at Idoro | Alive. Disciplined, trusted by Osadebe. Current thread: argued Emenike was not yet strong enough for the Ijeoma search and was overruled by Emenike's own flat refusal to be protected from the one thing he still has a right to insist on (Ep99). |
 | Ikwuano | Keeper of the crown's scattered intelligence reports, Udo | Alive. Traced the trading House's court sponsor and confirmed its interest in Idoro predates its public approach by years. Not currently central to the active plot thread. |
 | *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | **Deceased (Episode 26).** Was the entity's first mouthpiece; killed when Ozoemena's borrowed rite against him failed and the entity struck him down mid final message. |
 | *(unnamed entity)* | Ancient presence beneath Oso, bonded to Chibundu | Active, still badly weakened but mending. Three centuries old, patient and transactional; broke three centuries of pure restraint to act directly against Mfoniso (Ep90). Current thread: named plainly to the presence that in two days the searchers will stand on what is left of its ground, "and all three of us will learn what three centuries did to it" (Ep101). |
 | *(unnamed presence)* | Older power beyond Oso's outer borders, reaches Chibundu through dreams and has spoken through Zara | Active. Named Chibundu (Ep47). Once lost a guardian ground centuries ago to a hunter using the exact tactic Mfoniso now uses (take the people the guardian loves, wait, strike slowly) — revealed Ep67. Broke its three century habit of never overspending its strength to save Kene directly (Ep70), at a cost it still hadn't finished paying as of Ep72-73; further spent by tearing itself out of Zara in Ep82. **Major reveal (Ep100):** confirmed under Chibundu's direct pressure that its own lost guardian ground lay exactly along the bearing west and slightly south of Oso — the same bearing the Ijeoma search now travels. Current thread: the search party found its ground's easternmost boundary stone, laid face down by the hunters' custom "so the land forgets its own name"; through Chibundu's dream it confirmed the stone and that the lost ground now lies two days ahead of the search — the closest it has come in three centuries to learning what became of its people (Ep101). |
 | Uduak | Market trader, former trading House informant | Alive, held pending Udo's judgment since his confession (Ep53). Not currently active in the plot. |
-| the Warden | Ijoma Concern's keeper of old and dangerous knowledge | Active. Authorized Mfoniso's second attempt, against Zara directly (Ep74), overruling the Factor's objection. Revealed the guardian ground debt is inherited across four keepers before her rather than her own personal grievance; permanently relieved the Factor of any further say in the operation and committed resources beyond anything spent on the hunt so far (Ep93). Current thread: canceled the bracelet proof runs outright (no one left to persuade), took the guest's ledger line from the Factor, left Ijeoma's fate explicitly undecided between asset and expense, and sent a ciphered query to Mfoniso asking whether the hunt still requires the guest kept breathing or the House may close the account (Ep101). |
-| Mfoniso | Ijoma Concern's retained guardian hunter | Active — the story's current antagonist. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82); revealed to be carrying her own second thread to whoever trained her (Ep83). Breached Idoro's compound directly, seized Adaugo, and struck down Emenike, then fled wounded and shaken when the entity met her in the open for the first time (Ep90). Delivered her account to the Warden in person and received resources beyond anything committed so far, plus confirmation of Ijeoma's location at the Concern's headquarters (Ep93). Current thread: fully healed, resumed scouting Idoro from a distance and found it transformed — a far larger garrison and staggered patrols (the survey crew she observed has since departed, Ep98) — forcing her to rebuild her understanding of the village from the ground up before deciding her next move. A ciphered query from the Warden — whether the hunt still requires Ijeoma kept breathing — is en route to her; she has not yet received it, and does not know the Warden is asking (Ep101). |
+| the Warden | Ijoma Concern's keeper of old and dangerous knowledge | Active. Authorized Mfoniso's second attempt, against Zara directly (Ep74), overruling the Factor's objection. Revealed the guardian ground debt is inherited across four keepers before her rather than her own personal grievance; permanently relieved the Factor of any further say in the operation and committed resources beyond anything spent on the hunt so far (Ep93). Current thread: canceled the bracelet proof runs outright (no one left to persuade), took the guest's ledger line from the Factor, left Ijeoma's fate explicitly undecided between asset and expense, and sent a ciphered query to Mfoniso asking whether the hunt still requires the guest kept breathing or the House may close the account, now one day from delivery (Ep101-102). |
+| Mfoniso | Ijoma Concern's retained guardian hunter | Active — the story's current antagonist. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82); revealed to be carrying her own second thread to whoever trained her (Ep83). Breached Idoro's compound directly, seized Adaugo, and struck down Emenike, then fled wounded and shaken when the entity met her in the open for the first time (Ep90). Delivered her account to the Warden in person and received resources beyond anything committed so far, plus confirmation of Ijeoma's location at the Concern's headquarters (Ep93). Current thread: four days rebuilding her read of Idoro's transformed defenses from a western ridge; recalls watching a small four man band leave Idoro by its eastern road days ago and dismissing it as routine patrol rotation, not recognizing it as the search party. Increasingly unsettled by her own teacher's unexplained silence since before the Ep90 confrontation. The Warden's ciphered query is now one day from reaching her; she still does not know it is coming (Ep102). |
 | Chiazor | Trading House's formal sponsor at Udo | Alive. Revealed a senior House figure was already traveling toward Idoro before the ambush. Not currently central to the active plot. |
 | the Factor | Senior trading House figure, Ebiere's direct superior | Alive, permanently removed from any further say in the Mfoniso operation. Objected three times now (Ep64, Ep74, Ep93) to escalating the hunt against Oso's guardian, each time overruled; his final, sharpest objection after learning of the entity's direct intervention led the Warden to relieve him of authority over the operation entirely (Ep93). Current thread: surrendered the guest's ledger line to the Warden, argued in pure cost terms against killing Ijeoma (bodies open accounts rather than close them), and passed within sight of her for the first time — recognizing he had signed two seasons of her keeping without once reading the line as a person; the first private crack in his loyalty to the House (Ep101). |
 | Ebiere | Trading House field agent who orchestrated the boundary ambush | Whereabouts unknown since Ep53; publicly disowned by the Factor as a rogue agent. |
 | Effiong | Young crown soldier who sold patrol schedules for coin, enabling the ambush | Confessed (Ep52). Not currently active in the plot. |
 | *(unnamed)* | Elder Maka's returned son | Deceased. Her own abandoned twin, returned wrong at age eight, killed three people including her husband; she killed him herself. Origin of her severity toward the old law. |
-| Emenike | Soldier in Chidebe's garrison at Idoro | Alive, on the road with the Ijeoma search party, three days west of Idoro. Served under Chidebe since before the boundary ambush (Ep51); confirmed as Mfoniso's informant (Ep87), coerced for two seasons by threats against his sister, Ijeoma. Threw himself between Mfoniso and Adaugo during her direct attack on the compound (Ep90). Carries Elder Maka's protective cord and Amara's plea to come home either way. Current thread: four days out, present at the boundary stone discovery; crouched close but touched nothing, having learned some marks are not free to read aloud (Ep101). Does not know Mfoniso confirmed Ijeoma's location (Ep93), that the Warden has stopped the bracelet proof runs and is asking Mfoniso whether Ijeoma still needs keeping alive (Ep101), nor that the presence's lost guardian ground lies two days ahead of him. |
-| Ijeoma | Emenike's younger sister | Alive, confirmed held at the Ijoma Concern's disguised headquarters downriver, seen briefly by Mfoniso in a heavily guarded inner courtyard (Ep93), confirming the bearing (west, slightly south) reported in Ep88. Taken from a river town by the Concern's agents two seasons ago while trading cloth for their mother; held as leverage to coerce Emenike's cooperation as an informant. Introduced in her own viewpoint for the first time (Ep101): nineteen, a cloth trader's daughter who counts everything, watchful and deliberate. Current thread: deduced from the overdue fifth bracelet taking that proof of her life no longer purchases anything (her brother caught or dead), concluded the House is now keeping a witness rather than a lever, and quietly began studying guards, watches, and the wall's one bad corner — done waiting (Ep101). Does not know a search party is four days out, nor that the Warden has asked Mfoniso whether she still needs keeping alive. Idoro's household does not yet know her exact location has been confirmed. |
+| Emenike | Soldier in Chidebe's garrison at Idoro | Alive, on the road with the Ijeoma search party, three days west of Idoro. Served under Chidebe since before the boundary ambush (Ep51); confirmed as Mfoniso's informant (Ep87), coerced for two seasons by threats against his sister, Ijeoma. Threw himself between Mfoniso and Adaugo during her direct attack on the compound (Ep90). Carries Elder Maka's protective cord and Amara's plea to come home either way. Current thread: five days out, camped early rather than risk the last hour of daylight on unfamiliar ground; the presence's lost guardian ground now lies one day ahead of him (Ep102). Does not know Mfoniso confirmed Ijeoma's location (Ep93), that the Warden has stopped the bracelet proof runs and is asking Mfoniso whether Ijeoma still needs keeping alive, nor that the Warden's ciphered question is now within a day of reaching Mfoniso's hand. |
+| Ijeoma | Emenike's younger sister | Alive, confirmed held at the Ijoma Concern's disguised headquarters downriver, seen briefly by Mfoniso in a heavily guarded inner courtyard (Ep93), confirming the bearing (west, slightly south) reported in Ep88. Taken from a river town by the Concern's agents two seasons ago while trading cloth for their mother; held as leverage to coerce Emenike's cooperation as an informant. Introduced in her own viewpoint for the first time (Ep101): nineteen, a cloth trader's daughter who counts everything, watchful and deliberate. Current thread: began actively studying the eastern gate's guard rotation and identified a habitual gap when one guard leaves his post unwatched, a possible door she has not yet decided how to use (Ep102). Does not know a search party is five days out, nor that the Warden has asked Mfoniso whether she still needs keeping alive. Idoro's household does not yet know her exact location has been confirmed. |
 | Adaeku | Soldier in Chidebe's garrison at Idoro, quietest of the six informant suspects | Alive. Cleared in practice, if not yet formally: paired with Emenike on the same false route, but his own night proved ordinary — a plain meal alone and sleep, watched the whole while by Osadebe (Ep86). |
 | Ubani | Lead surveyor, crown survey party at Idoro (Ep94's authorized survey) | Alive, survey work concluded. Careful, observant, professionally honest; fifteen years' experience surveying disputed and unusual ground. Walked Oso's boundary alone (Ep97) and encountered an overwhelming, formless dread with no concrete cause he could name. Current thread: accepted Elder Maka's true but incomplete account of Oso as the old law's abandonment ground and grief-soaked site; marked it consecrated ground excluded from crown development in his official report, protecting the household's deeper secret without ever being told it, and departed Idoro with genuine respect for what he chose not to dig further into (Ep98). |
 | Ude | Ubani's second on the crown survey, carries the measuring chain | Alive. Grew up two villages from Idoro; knows Oso's reputation but is cautious about saying so to a crown official. Warned Ubani gently that the ground is tied to old grief, not merely superstition (Ep96), which helped prepare him to accept Elder Maka's account without much resistance (Ep98). |
-| Ifeanyi | Soldier, Chidebe's garrison at Idoro | Alive, with the search party. Grew up hunting; first to read the land's wrongness — game trails bending in wide curves around nothing (Ep101). |
-| Okonjo | Soldier, Chidebe's garrison at Idoro | Alive, with the search party. Found the toppled spiral boundary stone an hour before dusk on the fourth day west (Ep101). |
+| Ifeanyi | Soldier, Chidebe's garrison at Idoro | Alive, with the search party. Grew up hunting; first to read the land's wrongness — game trails bending in wide curves around nothing (Ep101). Current thread: read an old path underfoot that stopped being walked all at once, generations ago; flagged an unexplored northern branch off the bearing and chose, with Osadebe, to leave it uninvestigated for now (Ep102). |
+| Okonjo | Soldier, Chidebe's garrison at Idoro | Alive, with the search party. Found the toppled spiral boundary stone an hour before dusk on the fourth day west (Ep101). Current thread: rationed supplies without being asked as the party made early camp on the fifth day west (Ep102). |
 
 ### Places
 | Name | What it is |
@@ -341,10 +341,10 @@ the suspense lives.
 | The presence's lost guardian ground lies along the search bearing (Ep100), two days ahead of the party (Ep101) | The presence, the entity, Chibundu | Everyone else — the search party found the ground's boundary stone (Ep101) but has no idea what it marks or that Oso knows |
 | The bracelet proof runs are canceled (Ep101) | The Warden, the Factor; Ijeoma has independently deduced it from the overdue taking | The household, the crown, and Emenike, who does not know his sister's proof of life has stopped mattering to the House |
 | The Warden's ciphered question — does the hunt still need Ijeoma alive, or may the House close the account (Ep101) | The Warden only; the message is in transit | Mfoniso has not yet received it; no one in Idoro or Udo suspects a clock is now running on Ijeoma's life |
-| Ijeoma is planning her own escape (Ep101) | Ijeoma only | Everyone — including the search party coming for her and the House holding her |
+| Ijeoma is planning her own escape (Ep101); has identified the eastern gate's guard rotation gap as a possible route out (Ep102) | Ijeoma only | Everyone — including the search party coming for her and the House holding her |
 | The Factor's loyalty has begun to crack (Ep101) | The Factor only (and the audience) | The Warden believes his objections are still merely professional |
 | Mfoniso's lineage tie to the hunter who took the presence's ground (Ep82) and her second thread to her teacher (Ep83) | The household and both powers | Mfoniso does not know they know |
-| The search party's true purpose and departure (Ep99-100) | The household, the crown | Mfoniso — unless a future episode decides she saw them leave from her western ridgeline (Ep98); **decide this deliberately, on the page, before she next acts** |
+| The search party's true purpose and departure (Ep99-100) | The household, the crown | Mfoniso saw a small four man band leave Idoro at a distance (Ep102) but filed it as routine patrol rotation — she does not know it was the search party, or what it is for |
 | Nkiruka's archive record that stops mid-page (Ep94) | Nkiruka only | Eze Amadi and everyone else |
 | Elder Maka's thin thread to the entity; Chibundu's identity; the presence's existence | The whole household (no secrets left inside it since ~Ep66) | The wider village knows Oso is feared ground, not what lives there; Ubani chose not to learn (Ep98) |
 
@@ -488,7 +488,7 @@ Keep a running one-line-per-episode log here so continuity can be checked
 at a glance without rereading everything. **This section holds only the
 active arc — roughly the most recent 15-20 episodes.** Everything older
 is archived verbatim in `ARCHIVE.md` under "ARCHIVED CHANGELOG" (see that
-header for its current range, Episodes 1-86 as of this writing); when this
+header for its current range, Episodes 1-87 as of this writing); when this
 section grows past ~20 entries, move the oldest ones there following the
 same pattern (see Section 10, step 5).
 
@@ -497,32 +497,6 @@ scheduled Pocket FM release dates (per Section 4's schedule-ahead cadence),
 not writing dates. Writing/commit dates live in git history and are weeks
 to months earlier.
 
-- **CLAUDE.md archive split (2026-07-13):** CLAUDE.md exceeded the
-  150,000 character working-memory limit at Episode 78. Split the Living
-  Name Registry and Changelog's older history out into `ARCHIVE.md`
-  (lossless, verbatim). Section 5 now holds current-status-only entries per
-  character with a maintenance rule against re-appending history; Section 11
-  now holds only the active arc. Nothing was deleted — see `ARCHIVE.md`
-  for the full archived record (registry history through Episode 78;
-  archived changelog per its own header, growing as this section is
-  trimmed).
-- **Episode 87 — "The Name the Trap Caught" (2026-10-02):** Chidebe
-  catches Emenike at the drop point with a fresh message already left
-  for Mfoniso; Emenike does not run or lie once confronted, confirming
-  the betrayal outright. Osadebe arrives from clearing Adaeku and the
-  three walk back to the compound quietly rather than risk a public
-  scene, passing Zara, who recognizes Emenike immediately and grieves
-  before knowing his reason. The household absorbs the name with grief
-  more than triumph; Ozoemena, cleared at last, mourns a friend rather
-  than celebrating his own vindication, and Elder Maka counsels hearing
-  Emenike's reason before judging him. Pressed by Amara, Emenike breaks
-  down and confesses that the people holding his sister have forced his
-  cooperation for two seasons, from the very first message. (On the page
-  he never names his captors — "They have my sister" — and the household
-  has still never heard the name "Ijoma Concern"; see Section 5.2.) The
-  episode closes on Amara's cold new fear — not relief that the leak is
-  found, but dread over how many other quiet debts like his might still
-  be hidden inside Idoro's walls.
 - **Episode 88 — "What the Traitor Traded" (2026-10-03):** A formal
   council hearing gives Emenike's full account: his sister Ijeoma was
   taken from a river town two seasons ago, and Ijoma Concern agents
@@ -840,6 +814,32 @@ to months earlier.
   seventy five words; the full series (Episodes 1 through 101) is now
   verified in the 1,550-2,150 range, lint clean, with zero empty
   paragraphs in every built docx.
+- **Shared build module extracted (2026-08-06):** Ahead of the Episodes
+  102-140 arc, pulled the ~350 lines of OOXML/docx helper code
+  duplicated in every Episode 1-101 build script into a single
+  `scripts/dr_build.py` module (`make_run`, `make_paragraph`,
+  `build_docx`, `count_words`, `lint_content`, `build_episode`).
+  Existing Episode 1-101 scripts are untouched. New episode scripts
+  import the shared module and define only their content list, episode
+  number, and title. See `docs/superpowers/specs/2026-08-06-episodes-102-140-arc-design.md`
+  for the full arc design (Ijeoma captivity arc and the presence's lost
+  guardian ground resolve as one converging thread across Episodes
+  102-140; no new Section 7 skeleton arc introduced this block).
+- **Episode 102 — "The Shape of Waiting" (2026-10-17):** Opens the
+  Episodes 102-140 arc with three parallel watching threads. The
+  search party, one day into the two the presence promised, finds an
+  old path that stopped being walked all at once and a second,
+  unexplored branch they choose to leave for now. Ijeoma studies the
+  eastern gate's guard rotation with intent for the first time and
+  finds a habitual gap in it, a possible door she has not yet decided
+  how to use. Mfoniso, still rebuilding her read of a transformed
+  Idoro from her western ridge, is unsettled by her own teacher's
+  unexplained silence since the Episode 90 confrontation; this episode
+  deliberately resolves the open Section 5.2 question of whether she
+  saw the search party leave, she did, four days ago, and dismissed
+  the four man band as routine patrol rotation, not the search. The
+  episode closes cold: the Warden's ciphered question is one day from
+  reaching Mfoniso's hand, and she still has no idea it is coming.
 
 ---
 

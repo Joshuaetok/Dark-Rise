@@ -72,7 +72,7 @@ something changed, it's recorded here.
 
 ---
 
-## ARCHIVED CHANGELOG (Episodes 1–86)
+## ARCHIVED CHANGELOG (Episodes 1–87)
 
 - **Episode 1 — "Born to Die" (rewritten 2026-07-05 for AI voice-over
   clarity):** Twins born in Idoro to Amara and Obi; second-born abandoned in
@@ -1314,6 +1314,33 @@ something changed, it's recorded here.
   forcing himself forward even as he wishes he had never built the
   test at all.
 
-*(End of archived changelog Episodes 1-86. Episodes 84 onward remain inline
+- **CLAUDE.md archive split (2026-07-13):** CLAUDE.md exceeded the
+  150,000 character working-memory limit at Episode 78. Split the Living
+  Name Registry and Changelog's older history out into `ARCHIVE.md`
+  (lossless, verbatim). Section 5 now holds current-status-only entries per
+  character with a maintenance rule against re-appending history; Section 11
+  now holds only the active arc. Nothing was deleted — see `ARCHIVE.md`
+  for the full archived record (registry history through Episode 78;
+  archived changelog per its own header, growing as this section is
+  trimmed).
+- **Episode 87 — "The Name the Trap Caught" (2026-10-02):** Chidebe
+  catches Emenike at the drop point with a fresh message already left
+  for Mfoniso; Emenike does not run or lie once confronted, confirming
+  the betrayal outright. Osadebe arrives from clearing Adaeku and the
+  three walk back to the compound quietly rather than risk a public
+  scene, passing Zara, who recognizes Emenike immediately and grieves
+  before knowing his reason. The household absorbs the name with grief
+  more than triumph; Ozoemena, cleared at last, mourns a friend rather
+  than celebrating his own vindication, and Elder Maka counsels hearing
+  Emenike's reason before judging him. Pressed by Amara, Emenike breaks
+  down and confesses that the people holding his sister have forced his
+  cooperation for two seasons, from the very first message. (On the page
+  he never names his captors — "They have my sister" — and the household
+  has still never heard the name "Ijoma Concern"; see Section 5.2.) The
+  episode closes on Amara's cold new fear — not relief that the leak is
+  found, but dread over how many other quiet debts like his might still
+  be hidden inside Idoro's walls.
+
+*(End of archived changelog Episodes 1-87. Episodes 88 onward remain inline
 in CLAUDE.md's current Section 11 changelog as the active arc; the oldest
 entries are appended here whenever that section is trimmed.)*
