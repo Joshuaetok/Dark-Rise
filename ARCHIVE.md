@@ -72,7 +72,7 @@ something changed, it's recorded here.
 
 ---
 
-## ARCHIVED CHANGELOG (Episodes 1–87)
+## ARCHIVED CHANGELOG (Episodes 1–92)
 
 - **Episode 1 — "Born to Die" (rewritten 2026-07-05 for AI voice-over
   clarity):** Twins born in Idoro to Amara and Obi; second-born abandoned in
@@ -1341,6 +1341,89 @@ something changed, it's recorded here.
   found, but dread over how many other quiet debts like his might still
   be hidden inside Idoro's walls.
 
-*(End of archived changelog Episodes 1-87. Episodes 88 onward remain inline
+- **Episode 88 — "What the Traitor Traded" (2026-10-03):** A formal
+  council hearing gives Emenike's full account: his sister Ijeoma was
+  taken from a river town two seasons ago, and Ijoma Concern agents
+  have coerced his cooperation since, proving her survival twice a
+  season with a blue thread bracelet she has worn since childhood.
+  When Elder Maka has him describe her captors' bearing, west and
+  slightly south, the entity recognizes it as matching Elder Maka's own
+  Episode 83 trace of Mfoniso's unknown second thread, suggesting
+  Ijeoma may be held wherever Mfoniso herself answers to. Zara and
+  Adaugo each recognize a version of their own isolation in Emenike's
+  ordeal; Ozoemena speaks in his defense, asking the household to judge
+  fear and love rather than simple malice. Osadebe tempers the hope
+  with practicality, and the episode closes on the deadline Emenike
+  reveals: Mfoniso expects contact at the drop stone within two nights,
+  the longest silence would ever plausibly go unpunished, forcing a
+  decision the household is not yet ready to make.
+- **Episode 89 — "A Trap With No Leak Left" (2026-10-04):** The
+  council rejects forging a message in Emenike's hand as too risky and
+  instead leaves the drop stone empty for the first time in two
+  seasons, ringing the market's edge with hidden soldiers under Chidebe
+  and Osadebe, betting Mfoniso will come herself to learn why. The
+  household spends the tense hours preparing; Kene unconsciously traces
+  another spiral in the dirt, unsettling Zara, and Adaugo and Elder
+  Maka discuss what comes next if the ambush succeeds. The episode
+  closes on Mfoniso's own side: her informant's first-ever missed
+  contact reads to her not as chance but as proof of compromise, and
+  recalling her teacher's warning about a guardian old enough to
+  remember being hunted, she rejects investigating the drop point
+  entirely and instead decides to strike the family directly that same
+  night, bypassing the ambush laid for her completely, patience finally
+  spent.
+- **Episode 90 — "The Confrontation" (2026-10-05):** With most soldiers
+  deployed to the market ambush, Mfoniso breaches the thinly guarded
+  compound directly and seizes Adaugo by the anchor thread. Elder Maka
+  places herself unarmed between them; Emenike, freed to act for the
+  first time since his exposure, throws himself into Mfoniso's path
+  with a soldier's spear and is struck down, buying the household
+  perhaps three seconds at the cost of a deep wound to his side.
+  Chibundu, feeling the household's terror through their connection,
+  tells the entity "now, whatever it costs," and it breaks three
+  centuries of pure restraint to reach directly at Mfoniso for the
+  first time in the story rather than merely advise. Mfoniso releases
+  Adaugo and flees, wounded and shaken to have finally met a guardian
+  old enough to remember being hunted meeting her in the open, exactly
+  as her teacher once warned would happen eventually. The episode
+  closes on Amara pressing both hands against Emenike's spreading wound
+  in the compound dirt while, in Oso, the entity's reach snaps back
+  into total silence, leaving Chibundu unable to tell whether it will
+  answer him again.
+- **Episode 91 — "What the Confrontation Cost" (2026-10-06):** Zara
+  fights through the night to keep Emenike alive while Amara stays at
+  his side, forgiving his betrayal fully once she understands what his
+  sacrifice meant. Ozoemena and Adaugo each sit with him in turn;
+  Chidebe and Osadebe reconstruct the failed ambush, naming plainly
+  that pulling every soldier to the market was the very choice that
+  left the compound open. In Oso, Chibundu keeps vigil through hours of
+  total silence until the entity finally answers near dawn, badly
+  weakened, admitting it does not know if it could reach that far again
+  or what the act cost Oso itself, and conceding it has called its own
+  restraint wisdom for three centuries without ever being tested
+  closely enough to know if that was true. Chibundu orders it to rest,
+  the first time he has ever spoken to it that way. The episode closes
+  on Emenike's fever breaking toward survival and on Amara's unresolved
+  fear that the household bought this single dawn with a debt whose
+  size, and whose cost to people who never asked to stand in Mfoniso's
+  way, none of them yet understand.
+- **Episode 92 — "The Reckoning" (2026-10-07):** Elder Maka examines
+  Adaugo's anchor thread in daylight and finds it gone quiet, likely
+  overloaded past repair by the entity's direct intervention — a hard
+  won relief confirmed to Obi, Zara, and Kene. The full council hears
+  Emenike's case with him present; Amara argues justice and mercy ask
+  the same thing here, Ozoemena seconds her, and Chidebe takes personal
+  responsibility for not seeing the coercion sooner, which Emenike
+  refuses to let him share. The council reinstates Emenike as a soldier
+  under a season of supervised trust, with household resources
+  committed to finding Ijeoma once he recovers; Osadebe sends Udo the
+  most urgent report of his career, disclosing plainly that Oso's
+  guardian has now acted directly for the first time in three
+  centuries. The episode closes on Mfoniso, tending her wounds beyond
+  Idoro's boundary, deciding this setback cannot be explained in a
+  message left under a stone and setting out for the first time in her
+  career to deliver her account to the Warden in person.
+
+*(End of archived changelog Episodes 1-92. Episodes 93 onward remain inline
 in CLAUDE.md's current Section 11 changelog as the active arc; the oldest
 entries are appended here whenever that section is trimmed.)*
