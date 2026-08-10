@@ -72,7 +72,7 @@ something changed, it's recorded here.
 
 ---
 
-## ARCHIVED CHANGELOG (Episodes 1–92)
+## ARCHIVED CHANGELOG (Episodes 1–95)
 
 - **Episode 1 — "Born to Die" (rewritten 2026-07-05 for AI voice-over
   clarity):** Twins born in Idoro to Amara and Obi; second-born abandoned in
@@ -1424,6 +1424,56 @@ something changed, it's recorded here.
   message left under a stone and setting out for the first time in her
   career to deliver her account to the Warden in person.
 
-*(End of archived changelog Episodes 1-92. Episodes 93 onward remain inline
+- **Episode 93 — "What the Concern Decides" (2026-10-08):** Mfoniso
+  delivers her account in person at the Ijoma Concern's disguised
+  headquarters. The Warden, visibly shaken by the description of the
+  entity meeting Mfoniso directly, reveals the guardian ground debt has
+  passed through four keepers before her rather than being her own
+  personal grievance. The Factor, present for the account, makes his
+  sharpest objection yet, arguing the House cannot keep spending lives
+  on an inherited grudge; the Warden overrules him a third time and
+  permanently relieves him of any further say in the operation,
+  committing resources beyond anything spent on the hunt so far. Led
+  out through the compound's inner grounds, Mfoniso glimpses a young
+  woman in a heavily guarded courtyard whose watchfulness matches every
+  detail she has absorbed of Emenike's sister without ever seeing her
+  face, confirming that Ijeoma is held at this same headquarters. The
+  episode closes on Mfoniso saying nothing of the discovery to anyone,
+  filing it away as leverage she has not yet decided how to spend.
+- **Episode 94 — "The Crown's Reckoning" (2026-10-09):** Osadebe's
+  report reaches Udo and Eze Amadi's council convenes within the hour.
+  Nkiruka confirms Oso's guardian has never before acted rather than
+  warned in three centuries of records; Ejikeme, humbled since Episode
+  65, asks a third time for a survey of Idoro's land, this time as
+  protective obligation rather than trade interest, and Eze Amadi
+  grants it alongside a formal crown investigation into which trading
+  House sponsored the informant's coercion and a doubling of Idoro's
+  permanent garrison. Nkiruka warns that moving against the sponsoring
+  House risks provoking Mfoniso into striking again before she is
+  ready; Eze Amadi accepts the risk as smaller than standing still. The
+  episode closes on Nkiruka alone in the archive, finding a centuries
+  old record of a border village that once discovered a coerced
+  informant exactly as Idoro did — whose account simply stops mid
+  record, unresolved, pages lost or removed, leaving her with a private,
+  unshared fear that Idoro's own story might be heading toward the same
+  silence.
+- **Episode 95 — "What the Quiet Held" (2026-10-10):** The informant
+  and confrontation arc closes on a quieter note of recovery. Emenike
+  walks unassisted for the first time and declines an early end to his
+  supervised season, preferring trust earned slowly; Elder Maka
+  advances Adaugo to her next rite. Kene's unbidden spiral has gone
+  still rather than resolved, and Zara feels the first faint,
+  untrusted flicker of her muffled gift returning; Elder Maka calls
+  both "not the same as gone." The entity speaks daily again, thin but
+  present, mending slowly since Episode 90. The episode closes on the
+  crown survey party's measuring lines creeping toward Oso's tree line
+  for the first time in three centuries of outside eyes never reaching
+  that close; the entity, alert but uncertain, tells Chibundu it does
+  not yet know whether a secret kept this long should fear its first
+  honest look from the one power capable of someday deciding not to
+  keep it — a quiet dread opening the next arc rather than closing this
+  one.
+
+*(End of archived changelog Episodes 1-95. Episodes 96 onward remain inline
 in CLAUDE.md's current Section 11 changelog as the active arc; the oldest
 entries are appended here whenever that section is trimmed.)*
