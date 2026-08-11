@@ -269,11 +269,11 @@ changelog below (see that section's header for the exact current window).
 | *(unnamed entity)* | Ancient presence beneath Oso, bonded to Chibundu | Active, still badly weakened but mending. Three centuries old, patient and transactional; broke three centuries of pure restraint to act directly against Mfoniso (Ep90). Current thread: watched the presence receive its first returned fragment of old strength through Chibundu and asked, plainly, what the gain had cost; noted afterward that it had never once heard the presence speak this openly of its grief before this stretch of episodes (Ep115). |
 | *(unnamed presence)* | Older power beyond Oso's outer borders, reaches Chibundu through dreams and has spoken through Zara | Active. Named Chibundu (Ep47). Once lost a guardian ground centuries ago to a hunter using the exact tactic Mfoniso now uses (take the people the guardian loves, wait, strike slowly) — revealed Ep67. Broke its three century habit of never overspending its strength to save Kene directly (Ep70), at a cost it still hadn't finished paying as of Ep72-73; further spent by tearing itself out of Zara in Ep82. **Major reveal (Ep100):** confirmed under Chibundu's direct pressure that its own lost guardian ground lay exactly along the bearing west and slightly south of Oso. Learned through the search party's find that its people were taken and moved rather than slaughtered where they stood, breaking three centuries of mourning a false, finished story (Ep105). Current thread: received, unbidden and through Chibundu, the first fragment of its own old strength to return since the taking, sealed away inside the false grief and freed now that the true, unfinished grief has replaced it. Cost both of them a flood of raw memory (including a woman's name it let slip and will not yet explain) but yielded a small, real, tested gain: it can now reach a short true distance past Oso's border for the first time since Ep70, and privately admits it would pay the same cost again gladly (Ep115). |
 | Uduak | Market trader, former trading House informant | Alive, held pending Udo's judgment since his confession (Ep53). Not currently active in the plot. |
-| the Warden | Ijoma Concern's keeper of old and dangerous knowledge | Active. Authorized Mfoniso's second attempt, against Zara directly (Ep74), overruling the Factor's objection. Revealed the guardian ground debt is inherited across four keepers before her rather than her own personal grievance; permanently relieved the Factor of any further say in the operation and committed resources beyond anything spent on the hunt so far (Ep93). Current thread: when Mfoniso's three day deadline arrived, received an outright refusal, both to recommend closing Ijeoma's account and to personally carry out a kill order, the first order Mfoniso has ever refused (Ep124). Concluded Mfoniso's own lineage tie to the guardian had compromised her judgment, and summoned Ebiere, quietly kept in reserve since her public disowning after the boundary ambush, to close Ijeoma's account cleanly instead; withheld both Mfoniso's guardian theory and the full shape of the recent strangers found on the property, judging a colder hand works best unburdened by complications (Ep125). Does not yet know a Concern patrol clashed with armed strangers on the property this same stretch of days. |
-| Mfoniso | Ijoma Concern's retained guardian hunter | Formerly active as the story's chief antagonist — **broke from the House (Ep124)**, its most consequential status change since her introduction. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82); revealed to be carrying her own second thread to whoever trained her, gone silent since Ep108 and never restored. Breached Idoro's compound directly, seized Adaugo, and struck down Emenike, then fled wounded and shaken when the entity met her in the open for the first time (Ep90). Learned her own teacher stands only two apprenticeships from the original hunter (Ep113). Current thread: when her final three day deadline arrived, refused outright to recommend closing Ijeoma's account and refused, in the same breath, to carry out a kill order personally, the first order she has ever refused in her career. Cited her growing conviction that the guardian at Idoro is the same one her teacher's unfinished training story always protected, and that continuing the hunt would mean knowingly finishing an unpaid debt she no longer believes her lineage had any right to collect. Relieved of every operation and told to remain findable, her fate undecided. Does not yet know a Concern patrol clashed with armed strangers on the property this same stretch of days. |
+| the Warden | Ijoma Concern's keeper of old and dangerous knowledge | Active. Authorized Mfoniso's second attempt, against Zara directly (Ep74), overruling the Factor's objection. Revealed the guardian ground debt is inherited across four keepers before her rather than her own personal grievance; permanently relieved the Factor of any further say in the operation and committed resources beyond anything spent on the hunt so far (Ep93). Current thread: when Mfoniso's three day deadline arrived, received an outright refusal, both to recommend closing Ijeoma's account and to personally carry out a kill order, the first order Mfoniso has ever refused (Ep124). Concluded Mfoniso's own lineage tie to the guardian had compromised her judgment, and summoned Ebiere, quietly kept in reserve since her public disowning after the boundary ambush, to close Ijeoma's account cleanly instead (Ep125). Does not yet know Ebiere's attempt was openly stopped by Mfoniso in front of witnesses that same night, a public break she will not be able to keep quiet once word finishes spreading (Ep128). Does not yet know a Concern patrol clashed with armed strangers on the property this same stretch of days. |
+| Mfoniso | Ijoma Concern's retained guardian hunter | Formerly active as the story's chief antagonist — **broke from the House (Ep124)**, its most consequential status change since her introduction. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82); revealed to be carrying her own second thread to whoever trained her, gone silent since Ep108 and never restored. Breached Idoro's compound directly, seized Adaugo, and struck down Emenike, then fled wounded and shaken when the entity met her in the open for the first time (Ep90). Learned her own teacher stands only two apprenticeships from the original hunter (Ep113). Relieved of every operation and told to remain findable after refusing the Warden's kill order (Ep124). Current thread: noticed Ebiere's arrival within the hour and correctly guessed its purpose; warned by the Factor that the account would close that same night, reached the guest's door first and openly drew her blade against Ebiere in front of a guard and two household staff, an undeniable public break rather than a private disagreement. Standoff unresolved as of Ep128. Does not yet know a Concern patrol clashed with armed strangers on the property this same stretch of days. |
 | Chiazor | Trading House's formal sponsor at Udo | Alive. Revealed a senior House figure was already traveling toward Idoro before the ambush. Not currently central to the active plot. |
-| the Factor | Senior trading House figure, Ebiere's direct superior | Alive, permanently removed from any further say in the Mfoniso operation. Objected three times now (Ep64, Ep74, Ep93) to escalating the hunt against Oso's guardian, each time overruled; his final, sharpest objection after learning of the entity's direct intervention led the Warden to relieve him of authority over the operation entirely (Ep93). Split the eastern gate's morning post into two shorter watches during a routine staffing review (Ep114); recognized Ijeoma's family trade knot during a dock inspection and let it pass (Ep117). Current thread: used a pretext security review, prompted by the compound wide alert after the courier ambush, to speak to Ijeoma directly for the first time, an oblique but real warning that the House's tightened fear will not make it more patient with her. His most dangerous act of quiet treason yet, deliberate rather than deniable (Ep121). |
-| Ebiere | Trading House field agent who orchestrated the boundary ambush | Alive. **Reveal (Ep125):** never actually cut loose — quietly reassigned to a small downriver holding two seasons ago while publicly disowned as a rogue agent, kept in reserve for exactly the kind of task the House could not afford to be seen requesting directly. Current thread: summoned by the Warden to take over Ijeoma's account from Mfoniso, precisely because she carries no lineage tie to the guardian and no capacity the Warden has yet seen for doubt. Accepted the assignment as her chance to erase the stain of a fall she has always privately believed was undeserved; traveling to the main compound (Ep125). |
+| the Factor | Senior trading House figure, Ebiere's direct superior | Alive, permanently removed from any further say in the Mfoniso operation. Objected three times now (Ep64, Ep74, Ep93) to escalating the hunt against Oso's guardian, each time overruled; his final, sharpest objection after learning of the entity's direct intervention led the Warden to relieve him of authority over the operation entirely (Ep93). Split the eastern gate's morning post into two shorter watches during a routine staffing review (Ep114); recognized Ijeoma's family trade knot during a dock inspection and let it pass (Ep117); gave her a direct, oblique warning during a pretext security review (Ep121). Current thread: read a disguised meal count amendment and guard rotation request as proof Ebiere meant to close Ijeoma's account that same night, and risked the last of his cover to warn Mfoniso directly, his boldest act yet (Ep128). |
+| Ebiere | Trading House field agent who orchestrated the boundary ambush | Alive. **Reveal (Ep125):** never actually cut loose — quietly reassigned to a small downriver holding two seasons ago while publicly disowned as a rogue agent, kept in reserve for exactly the kind of task the House could not afford to be seen requesting directly. Current thread: arrived at the main compound and, accelerated by the recent failed escape attempt, moved to close Ijeoma's account that same night, only to find Mfoniso blocking the guarded door with a drawn blade in front of witnesses. Unmoved by Mfoniso's guardian theory, professional rather than personal about the confrontation itself. Standoff unresolved as of Ep128 (Ep125, Ep128). |
 | Effiong | Young crown soldier who sold patrol schedules for coin, enabling the ambush | Confessed (Ep52). Not currently active in the plot. |
 | *(unnamed)* | Elder Maka's returned son | Deceased. Her own abandoned twin, returned wrong at age eight, killed three people including her husband; she killed him herself. Origin of her severity toward the old law. |
 | Emenike | Soldier in Chidebe's garrison at Idoro | Alive, on the road with the Ijeoma search party, well past the lost ground. Served under Chidebe since before the boundary ambush (Ep51); confirmed as Mfoniso's informant (Ep87), coerced for two seasons by threats against his sister, Ijeoma. Threw himself between Mfoniso and Adaugo during her direct attack on the compound (Ep90). Carries Elder Maka's protective cord and Amara's plea to come home either way. Current thread: scouted the dock side with Osadebe while Ifeanyi and Okonjo were caught in a clash on the compound's northern wall; sat with the badly wounded Ifeanyi through the night, newly and viscerally aware of exactly what he has been asking the other three men to risk on his sister's behalf (Ep127). Does not know Mfoniso has broken from the House, that Ebiere now holds Ijeoma's account, or that Ijeoma made and lost her own second escape attempt this same stretch of days. |
@@ -329,7 +329,7 @@ new name against this list for *sound*, not just spelling.
   active use; if he must reappear, always tag him ("Adaeku, the quiet
   one").
 
-### 5.2 WHO KNOWS WHAT — dramatic irony ledger (as of Episode 127)
+### 5.2 WHO KNOWS WHAT — dramatic irony ledger (as of Episode 128)
 
 Update this table whenever knowledge changes hands. It protects continuity
 (no character may act on a fact this table says they lack) and marks where
@@ -351,6 +351,7 @@ the suspense lives.
 | Mfoniso's private suspicion that the one guardian her teacher's training story always broke off at, the single lineage conquest ever refused, is the same guardian that met her at Idoro's wall (Ep108); deepened by learning her own teacher stands only two apprenticeships removed from the original hunter (Ep113) | Mfoniso only | The household, both powers, the Warden, and the search party have no idea she has begun drawing this connection |
 | Mfoniso has refused the Warden's order outright, both the recommendation and any personal role in closing Ijeoma's account, and been relieved of every operation (Ep124) | The Warden, Mfoniso, and (by rumor already spreading) the wider compound staff | Ijeoma, the household in Idoro, the search party, and the Factor (who passed Mfoniso in a corridor but does not know why the mood around her has shifted) |
 | Ebiere was never actually cut loose after the boundary ambush, only quietly reassigned; the Warden has now summoned her to close Ijeoma's account in Mfoniso's place, and she is traveling to the main compound (Ep125) | The Warden and Ebiere | Ijeoma, Mfoniso, the Factor, the household in Idoro, and the search party all have no idea a second, colder threat is now converging |
+| Mfoniso openly drew her blade against Ebiere outside Ijeoma's cell, in front of a guard and two household staff, an undeniable public break with the House (Ep128); the Factor risked his own cover to warn her in time | Everyone present at the confrontation; word is already spreading through the compound | The Warden does not yet know it happened; Ijeoma, behind the barred door, knows only that voices are raised outside it |
 | Ijeoma was recaptured and moved to a far harsher windowless confinement with a permanently posted guard (Ep127), resolving Ep126's cliffhanger | The compound's staff and guards | The search party, still unaware their own opening that same night was Ijeoma's escape attempt rather than anything they caused |
 | The search party clashed with a hastily thrown together northern wall patrol, itself a byproduct of Ijeoma's escape attempt that same night; Ifeanyi was seriously wounded (two attackers killed, one fled raising alarm) and the party's mobility is now limited (Ep127) | The search party and the compound's surviving guard who raised the alarm | The Warden, Ebiere, Ijeoma, and the household in Idoro all remain unaware of this clash |
 | The Warden has privately begun to doubt whether Mfoniso's legendary reliability has ever been tested by anything that mattered to her personally rather than only to the House (Ep119) | The Warden only | Mfoniso does not know the Warden's trust in her has quietly started to shift |
@@ -508,7 +509,7 @@ Keep a running one-line-per-episode log here so continuity can be checked
 at a glance without rereading everything. **This section holds only the
 active arc — roughly the most recent 15-20 episodes.** Everything older
 is archived verbatim in `ARCHIVE.md` under "ARCHIVED CHANGELOG" (see that
-header for its current range, Episodes 1-108 as of this writing); when this
+header for its current range, Episodes 1-114 as of this writing); when this
 section grows past ~20 entries, move the oldest ones there following the
 same pattern (see Section 10, step 5).
 
@@ -517,94 +518,6 @@ scheduled Pocket FM release dates (per Section 4's schedule-ahead cadence),
 not writing dates. Writing/commit dates live in git history and are weeks
 to months earlier.
 
-- **Episode 109 — "The Wall She Almost Cleared" (2026-10-24):** Ijeoma
-  makes her first real escape attempt, using her newly granted laundry
-  duty and the eastern gate guard's habitual gap to slip out of her
-  holding room and climb the compound's weak wall corner alone in the
-  dark. She reaches the top only to find the far side is unreadable
-  black water rather than open ground, and makes the deliberate,
-  characteristic choice to retreat rather than drop in blind. The
-  guard returns to his post in time to see her walk back and says
-  nothing, an unfinished thought about a sister of his own surfacing
-  and going deliberately unexamined. At dawn the Factor finds the
-  disturbed ground at the wall's corner, reads it correctly, and
-  quietly scuffs it smooth rather than report it, his second small
-  act of withheld loyalty since Episode 101. Neither man yet knows the
-  other also chose silence. Closes on the shape of the secret itself:
-  a girl who counts everything now knows the wall, and the man who
-  guards it, can both be climbed.
-- **Episode 110 — "The Wrong Reason to Be Afraid" (2026-10-25):** The
-  Warden, unsettled by Mfoniso's overdue answer, orders the guest's
-  household watch doubled for reasons that have nothing to do with
-  Episode 109's failed climb; privately, the delay is tipping her own
-  ledger further toward closing the account. Ijeoma wakes to a
-  visibly tightened compound and spends the day certain she has been
-  caught, working through the fear with the same counting patience
-  that has kept her alive this long. By nightfall, reasoning from the
-  eastern gate guard's unchanged habits rather than any proof, she
-  concludes the tightening is not about her, and reclassifies his
-  continued silence from one time luck to intelligence worth banking.
-  Closes on the dramatic irony made explicit to the audience alone:
-  the net closing around the compound is the Warden's, not Ijeoma's,
-  and if Mfoniso's answer does not arrive soon it will not need
-  Ijeoma's own secret to justify what comes next.
-- **Episode 111 — "The Weight He Could Finally Carry" (2026-10-26):**
-  Five days past the lost ground, on country no crown map has ever
-  touched, a rain rotted footbridge gives way under Okonjo crossing a
-  swollen ravine. Emenike, once doubted as too fragile for this
-  search, holds him from the current at the cost of a deep arm
-  bruise, and Osadebe tells him plainly, in front of the other two,
-  that Chidebe's Episode 99 doubt was wrong. The near miss deepens
-  trust among the four men under real strain rather than simply
-  costing them a day. Closes on Ifeanyi finding fresh, carelessly
-  left footprints crossing their own trail, moving the same
-  direction, with a fainter set weeks older beneath them, proof this
-  forgotten ground is walked regularly by someone who has never once
-  worried about being followed on it.
-- **Episode 112 — "What the Record Was Trying to Say" (2026-10-27):**
-  Idoro's rider reaches Udo after nine hard days, confirming the
-  search for Ijeoma and the search for the presence's lost people are
-  one lineage's work. Nkiruka, hearing it land beside the archive
-  record she has privately sat on since Episode 94, a border village's
-  coerced informant account that stops mid page, marked with the same
-  spiral the search party found, finally understands it as a pattern
-  rather than an isolated mystery and confesses the full truth to Eze
-  Amadi that same night. He orders it copied and sent west as a
-  warning. Closes on Nkiruka's unspoken fear that no courier, however
-  fast, can outrun ground the search party is already walking, and
-  that the record's warning may reach them only after they have found
-  its meaning for themselves.
-- **Episode 113 — "Closer Than the Story Let Her Believe" (2026-10-28):**
-  Mfoniso reaches the Concern's headquarters and insists on asking the
-  Warden her own question first: what became of the guardian ground's
-  resettled people, and does the House still keep record of where.
-  The Warden answers plainly, then names the debt's four keeper chain
-  almost as an aside, letting Mfoniso work out for herself that her
-  own teacher stands only two apprenticeships removed from the
-  original hunter, collapsing the "one guardian who ever refused to
-  run" story from distant legend to something close enough to touch.
-  Mfoniso recommends caution rather than closing Ijeoma's account; the
-  Warden agrees to wait, but warns it will not be forever. Closes on
-  Mfoniso's private, unspoken realization that she may have spent her
-  entire career unknowingly finishing a story her own teacher never
-  let her hear the end of.
-- **Episode 114 — "The Kindness No One Will Trace" (2026-10-29) [Act 2
-  hook]:** The Factor, left with only the household's quarterly
-  staffing review as authority, splits the eastern gate's morning
-  post into two shorter watches, folding a second official, logged,
-  unquestionable gap into the handoff between them inside an
-  otherwise ordinary security improvement, untraceable to himself and
-  motivated by the shame of Episode 101's realization that he had
-  never once read Ijeoma as a person. Ijeoma notices the new pattern
-  without yet understanding its cause. The Warden, unmoved by
-  Mfoniso's call for more time, sets a firm ten day deadline for a
-  final recommendation on Ijeoma's fate, closed account or continued
-  asset, and warns she will decide herself, unsentimentally, if the
-  ten days pass unanswered. Closes on the number sitting unseen over
-  the compound: unknown to Ijeoma, unknown to the search party still
-  days out, unknown to the guard now working a schedule reshaped by a
-  man who wants nothing from this House but its own overdue
-  conscience.
 - **Episode 115 — "A Fragment of What Was Lost" (2026-10-30):** Days
   after the search party disproved the presence's three century
   "slaughter" story, a fragment of its own old strength finally finds
@@ -765,6 +678,17 @@ to months earlier.
   the ribs. Closes on Emenike sitting with him through the night,
   newly aware of exactly what he has asked the other three men to
   risk on his sister's behalf.
+- **Episode 128 — "Between the Blade and the Door" (2026-11-12) [point
+  of no return]:** The Factor reads a disguised meal count amendment
+  and guard rotation request as proof Ebiere means to close Ijeoma's
+  account that same night, accelerated by her failed escape attempt,
+  and risks the last of his cover to warn Mfoniso directly, his
+  boldest act yet. Mfoniso reaches the barred door first and openly
+  draws her blade against Ebiere in front of a guard and two household
+  staff, an undeniable public break rather than a private
+  disagreement. Neither hunter yields; closes on the standoff
+  unresolved, word of what has already been seen beginning its own
+  unstoppable journey through the compound.
 
 ---
 

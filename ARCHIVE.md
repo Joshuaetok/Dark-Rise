@@ -72,7 +72,7 @@ something changed, it's recorded here.
 
 ---
 
-## ARCHIVED CHANGELOG (Episodes 1–108)
+## ARCHIVED CHANGELOG (Episodes 1–114)
 
 - **Episode 1 — "Born to Die" (rewritten 2026-07-05 for AI voice-over
   clarity):** Twins born in Idoro to Amara and Obi; second-born abandoned in
@@ -1770,6 +1770,95 @@ something changed, it's recorded here.
   became of the people her lineage once resettled, and whether the
   House still keeps any record of where.
 
-*(End of archived changelog Episodes 1-108. Episode 109 onward remains
+- **Episode 109 — "The Wall She Almost Cleared" (2026-10-24):** Ijeoma
+  makes her first real escape attempt, using her newly granted laundry
+  duty and the eastern gate guard's habitual gap to slip out of her
+  holding room and climb the compound's weak wall corner alone in the
+  dark. She reaches the top only to find the far side is unreadable
+  black water rather than open ground, and makes the deliberate,
+  characteristic choice to retreat rather than drop in blind. The
+  guard returns to his post in time to see her walk back and says
+  nothing, an unfinished thought about a sister of his own surfacing
+  and going deliberately unexamined. At dawn the Factor finds the
+  disturbed ground at the wall's corner, reads it correctly, and
+  quietly scuffs it smooth rather than report it, his second small
+  act of withheld loyalty since Episode 101. Neither man yet knows the
+  other also chose silence. Closes on the shape of the secret itself:
+  a girl who counts everything now knows the wall, and the man who
+  guards it, can both be climbed.
+- **Episode 110 — "The Wrong Reason to Be Afraid" (2026-10-25):** The
+  Warden, unsettled by Mfoniso's overdue answer, orders the guest's
+  household watch doubled for reasons that have nothing to do with
+  Episode 109's failed climb; privately, the delay is tipping her own
+  ledger further toward closing the account. Ijeoma wakes to a
+  visibly tightened compound and spends the day certain she has been
+  caught, working through the fear with the same counting patience
+  that has kept her alive this long. By nightfall, reasoning from the
+  eastern gate guard's unchanged habits rather than any proof, she
+  concludes the tightening is not about her, and reclassifies his
+  continued silence from one time luck to intelligence worth banking.
+  Closes on the dramatic irony made explicit to the audience alone:
+  the net closing around the compound is the Warden's, not Ijeoma's,
+  and if Mfoniso's answer does not arrive soon it will not need
+  Ijeoma's own secret to justify what comes next.
+- **Episode 111 — "The Weight He Could Finally Carry" (2026-10-26):**
+  Five days past the lost ground, on country no crown map has ever
+  touched, a rain rotted footbridge gives way under Okonjo crossing a
+  swollen ravine. Emenike, once doubted as too fragile for this
+  search, holds him from the current at the cost of a deep arm
+  bruise, and Osadebe tells him plainly, in front of the other two,
+  that Chidebe's Episode 99 doubt was wrong. The near miss deepens
+  trust among the four men under real strain rather than simply
+  costing them a day. Closes on Ifeanyi finding fresh, carelessly
+  left footprints crossing their own trail, moving the same
+  direction, with a fainter set weeks older beneath them, proof this
+  forgotten ground is walked regularly by someone who has never once
+  worried about being followed on it.
+- **Episode 112 — "What the Record Was Trying to Say" (2026-10-27):**
+  Idoro's rider reaches Udo after nine hard days, confirming the
+  search for Ijeoma and the search for the presence's lost people are
+  one lineage's work. Nkiruka, hearing it land beside the archive
+  record she has privately sat on since Episode 94, a border village's
+  coerced informant account that stops mid page, marked with the same
+  spiral the search party found, finally understands it as a pattern
+  rather than an isolated mystery and confesses the full truth to Eze
+  Amadi that same night. He orders it copied and sent west as a
+  warning. Closes on Nkiruka's unspoken fear that no courier, however
+  fast, can outrun ground the search party is already walking, and
+  that the record's warning may reach them only after they have found
+  its meaning for themselves.
+- **Episode 113 — "Closer Than the Story Let Her Believe" (2026-10-28):**
+  Mfoniso reaches the Concern's headquarters and insists on asking the
+  Warden her own question first: what became of the guardian ground's
+  resettled people, and does the House still keep record of where.
+  The Warden answers plainly, then names the debt's four keeper chain
+  almost as an aside, letting Mfoniso work out for herself that her
+  own teacher stands only two apprenticeships removed from the
+  original hunter, collapsing the "one guardian who ever refused to
+  run" story from distant legend to something close enough to touch.
+  Mfoniso recommends caution rather than closing Ijeoma's account; the
+  Warden agrees to wait, but warns it will not be forever. Closes on
+  Mfoniso's private, unspoken realization that she may have spent her
+  entire career unknowingly finishing a story her own teacher never
+  let her hear the end of.
+- **Episode 114 — "The Kindness No One Will Trace" (2026-10-29) [Act 2
+  hook]:** The Factor, left with only the household's quarterly
+  staffing review as authority, splits the eastern gate's morning
+  post into two shorter watches, folding a second official, logged,
+  unquestionable gap into the handoff between them inside an
+  otherwise ordinary security improvement, untraceable to himself and
+  motivated by the shame of Episode 101's realization that he had
+  never once read Ijeoma as a person. Ijeoma notices the new pattern
+  without yet understanding its cause. The Warden, unmoved by
+  Mfoniso's call for more time, sets a firm ten day deadline for a
+  final recommendation on Ijeoma's fate, closed account or continued
+  asset, and warns she will decide herself, unsentimentally, if the
+  ten days pass unanswered. Closes on the number sitting unseen over
+  the compound: unknown to Ijeoma, unknown to the search party still
+  days out, unknown to the guard now working a schedule reshaped by a
+  man who wants nothing from this House but its own overdue
+  conscience.
+
+*(End of archived changelog Episodes 1-114. Episode 115 onward remains
 inline in CLAUDE.md's current Section 11 changelog as the active arc; the
 oldest entries are appended here whenever that section is trimmed.)*
