@@ -72,7 +72,7 @@ something changed, it's recorded here.
 
 ---
 
-## ARCHIVED CHANGELOG (Episodes 1–101, plus Episode 102-140 arc pre-production notes)
+## ARCHIVED CHANGELOG (Episodes 1–108)
 
 - **Episode 1 — "Born to Die" (rewritten 2026-07-05 for AI voice-over
   clarity):** Twins born in Idoro to Amara and Obi; second-born abandoned in
@@ -1673,7 +1673,103 @@ something changed, it's recorded here.
   guardian ground resolve as one converging thread across Episodes
   102-140; no new Section 7 skeleton arc introduced this block).
 
-*(End of archived changelog Episodes 1-101, plus the Episode 102-140 arc's
-pre-production notes (shared build module). Episode 102 onward remains
+- **Episode 102 — "The Shape of Waiting" (2026-10-17):** Opens the
+  Episodes 102-140 arc with three parallel watching threads. The
+  search party, one day into the two the presence promised, finds an
+  old path that stopped being walked all at once and a second,
+  unexplored branch they choose to leave for now. Ijeoma studies the
+  eastern gate's guard rotation with intent for the first time and
+  finds a habitual gap in it, a possible door she has not yet decided
+  how to use. Mfoniso, still rebuilding her read of a transformed
+  Idoro from her western ridge, is unsettled by her own teacher's
+  unexplained silence since the Episode 90 confrontation; this episode
+  deliberately resolves the open Section 5.2 question of whether she
+  saw the search party leave, she did, four days ago, and dismissed
+  the four man band as routine patrol rotation, not the search. The
+  episode closes cold: the Warden's ciphered question is one day from
+  reaching Mfoniso's hand, and she still has no idea it is coming.
+- **Episode 103 — "Ground That Remembers Feet" (2026-10-18):** Okonjo
+  finds the first worked stone of a buried settlement wall; the search
+  party spends the day uncovering a vanished town of hundreds and
+  camps one day short of it, unsettled that its story seems to have
+  been buried along with it. In Oso, the presence shows Chibundu a
+  remembered evening from its lost street for the first time in three
+  centuries, an ordinary night of firelight and a laughing child, and
+  admits it no longer remembers all of its people's names. The entity
+  reads the gesture as the presence taking Chibundu at his word about
+  not wanting to be protected from the truth. In Udo, Nkiruka reopens
+  her Episode 94 archive record and finds a spiral mark hidden in its
+  gutter, matching the search party's own find, recontextualizing the
+  record's unfinished ending as a deliberate warning rather than lost
+  pages. She copies it in full, undecided whether to send it west.
+- **Episode 104 — "What Grief Left Standing" (2026-10-19):** The
+  search party reaches the presence's lost ground: a settlement
+  preserved unnaturally intact, bowls still set in place, grass that
+  will not cross a doorway. At its ruined square's heart they find a
+  standing stone cut with a spiral far fresher than three centuries
+  old, proof someone still tends it, and Osadebe orders camp made
+  outside the clearing rather than within it. In Oso, Chibundu feels
+  the presence's grief directly for the first time as the party enters
+  its square; the presence admits it does not know whether it has been
+  waiting for this moment or dreading it, and confirms, for the first
+  time, that it was drawn away from its own ground before the strike
+  centuries ago, the same tactic Mfoniso later used against Kene. The
+  entity, in turn, offers the presence something close to comfort for
+  the first time in their long acquaintance.
+- **Episode 105 — "Not a Grave" (2026-10-20):** Working the clearing's
+  edges rather than its dangerous heart, the search party finds a
+  concealed chamber built into the hillside, still oiled and dusted,
+  stocked with restraints and handling tools rather than bones.
+  Emenike names it plainly, a holding room, not a grave, and draws the
+  line to his sister's own captivity aloud. Osadebe privately suspects
+  this bearing has been used for exactly this purpose more than once
+  across three centuries. In Oso, the presence learns its people were
+  taken and moved rather than killed where they stood, and must
+  relearn, after three hundred years of mourning the wrong story,
+  that the real question was always where they were taken and by
+  whom.
+- **Episode 106 — "One Mission Now" (2026-10-21) [Act 1 close]:**
+  Osadebe returns to the hillside chamber alone at dawn and finds a
+  House maker's mark burned into the binding cloth. Emenike recognizes
+  it instantly, the same seal used on messages left for him at the
+  drop stone. The search for the presence's lost people and the
+  search for Ijeoma are, from this point, confirmed as one mission
+  against one House lineage rather than two separate mysteries sharing
+  a bearing. The party presses on west past the lost ground for the
+  first time. Downriver, Ijeoma secures a plausible reason to be at
+  the eastern wall during the guard's gap, laundry duty, after a
+  servant girl offers to arrange it, and deliberately keeps the word
+  escape out of her own planning, superstitious about naming a thing
+  too early.
+- **Episode 107 — "The Question She Will Not Answer by Courier"
+  (2026-10-22) [Act 1 close]:** Osadebe's courier report reaches Idoro.
+  The council absorbs the full weight of Episode 106's discovery;
+  Adaugo names what it means for the household to now be fighting on
+  behalf of every name the hillside chamber ever held, and Amara
+  orders word sent to Udo by the fastest rider available rather than
+  let the crown learn only half the picture. Downriver, the Warden's
+  ciphered question finally reaches Mfoniso. Rather than answer by
+  return courier, she decides, for reasons she is not yet ready to
+  examine closely, to carry her answer to the headquarters in person,
+  breaking off her surveillance of Idoro and turning south.
+- **Episode 108 — "What Her Teacher Never Finished Telling Her"
+  (2026-10-23):** On the river road south, Mfoniso's
+  mind drifts to two old training memories: her teacher's account of
+  the lineage's first guardian ground conquest, whose taken people
+  were only ever called "resettled," and a later lesson in the tactic
+  itself, taught with the flat admission that exactly one guardian in
+  the lineage's history ever refused to run for it, a story her
+  teacher always broke off at that word and never finished. That
+  night, camped off the road, Mfoniso feels a tension along her second
+  thread to her teacher go slack for the first time in her memory, an
+  unnamed, undirected wrongness that leaves her unable to sleep. By
+  morning she has privately begun to suspect the nameless guardian of
+  her teacher's unfinished story and the one that met her at Idoro's
+  wall are the same, and resolves not to answer the Warden's Episode
+  107 question until she has asked one of her own first: what actually
+  became of the people her lineage once resettled, and whether the
+  House still keeps any record of where.
+
+*(End of archived changelog Episodes 1-108. Episode 109 onward remains
 inline in CLAUDE.md's current Section 11 changelog as the active arc; the
 oldest entries are appended here whenever that section is trimmed.)*

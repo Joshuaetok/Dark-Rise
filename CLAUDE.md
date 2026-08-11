@@ -272,12 +272,12 @@ changelog below (see that section's header for the exact current window).
 | the Warden | Ijoma Concern's keeper of old and dangerous knowledge | Active. Authorized Mfoniso's second attempt, against Zara directly (Ep74), overruling the Factor's objection. Revealed the guardian ground debt is inherited across four keepers before her rather than her own personal grievance; permanently relieved the Factor of any further say in the operation and committed resources beyond anything spent on the hunt so far (Ep93). Current thread: received Mfoniso in person and told her plainly the taken people were "resettled" rather than killed, and, almost as an aside, that the debt's chain runs first keeper and hunter, second keeper, third keeper, herself, with Mfoniso's own teacher only two apprenticeships past the original hunter (Ep113). Set a firm ten day deadline for Mfoniso's final recommendation on Ijeoma's fate (Ep114); at the six day check in, pressed her for progress and witnessed her composure crack for the first time in ten years of working together, an unrehearsed apology and an admission that her own teacher's thread has gone silent. Extended the deadline four more days rather than replace her, and has privately begun to wonder whether her most reliable instrument has ever actually been tested by anything that mattered to Mfoniso personally (Ep119). |
 | Mfoniso | Ijoma Concern's retained guardian hunter | Active — the story's current antagonist. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82); revealed to be carrying her own second thread to whoever trained her (Ep83). Breached Idoro's compound directly, seized Adaugo, and struck down Emenike, then fled wounded and shaken when the entity met her in the open for the first time (Ep90). Delivered her account to the Warden in person and received resources beyond anything committed so far, plus confirmation of Ijeoma's location at the Concern's headquarters (Ep93). Current thread: reached the Concern's headquarters and answered the Warden face to face, asking her own question first (what became of the resettled people). Learned her own teacher stands only two apprenticeships removed from the original hunter, collapsing the "one guardian who ever refused to run" story from distant legend to something her teacher likely heard firsthand (Ep113). Has spent her allotted days trying and failing to reach her teacher along their second thread, unanswered for six straight days, and let her composure crack in front of the Warden for the first time in ten years, an unrehearsed apology that bought her four more days. Privately suspects she has spent her career unknowingly finishing a story her teacher never let her hear the end of (Ep119). |
 | Chiazor | Trading House's formal sponsor at Udo | Alive. Revealed a senior House figure was already traveling toward Idoro before the ambush. Not currently central to the active plot. |
-| the Factor | Senior trading House figure, Ebiere's direct superior | Alive, permanently removed from any further say in the Mfoniso operation. Objected three times now (Ep64, Ep74, Ep93) to escalating the hunt against Oso's guardian, each time overruled; his final, sharpest objection after learning of the entity's direct intervention led the Warden to relieve him of authority over the operation entirely (Ep93). Split the eastern gate's morning post into two shorter watches during a routine staffing review, folding in a second untraceable gap (Ep114). Current thread: recognized Ijeoma's family trade knot hidden in an outgoing cloth bundle during his own dock inspection, his thumb resting directly over it, and chose to declare the count correct and move on rather than expose her, his closest brush yet with being caught in his own quiet treason. Privately felt relief rather than fear afterward (Ep117). |
+| the Factor | Senior trading House figure, Ebiere's direct superior | Alive, permanently removed from any further say in the Mfoniso operation. Objected three times now (Ep64, Ep74, Ep93) to escalating the hunt against Oso's guardian, each time overruled; his final, sharpest objection after learning of the entity's direct intervention led the Warden to relieve him of authority over the operation entirely (Ep93). Split the eastern gate's morning post into two shorter watches during a routine staffing review (Ep114); recognized Ijeoma's family trade knot during a dock inspection and let it pass (Ep117). Current thread: used a pretext security review, prompted by the compound wide alert after the courier ambush, to speak to Ijeoma directly for the first time, an oblique but real warning that the House's tightened fear will not make it more patient with her. His most dangerous act of quiet treason yet, deliberate rather than deniable (Ep121). |
 | Ebiere | Trading House field agent who orchestrated the boundary ambush | Whereabouts unknown since Ep53; publicly disowned by the Factor as a rogue agent. |
 | Effiong | Young crown soldier who sold patrol schedules for coin, enabling the ambush | Confessed (Ep52). Not currently active in the plot. |
 | *(unnamed)* | Elder Maka's returned son | Deceased. Her own abandoned twin, returned wrong at age eight, killed three people including her husband; she killed him herself. Origin of her severity toward the old law. |
 | Emenike | Soldier in Chidebe's garrison at Idoro | Alive, on the road with the Ijeoma search party, well past the lost ground. Served under Chidebe since before the boundary ambush (Ep51); confirmed as Mfoniso's informant (Ep87), coerced for two seasons by threats against his sister, Ijeoma. Threw himself between Mfoniso and Adaugo during her direct attack on the compound (Ep90). Carries Elder Maka's protective cord and Amara's plea to come home either way. Current thread: present for the trail interrogation and heard a stranger confirm his sister's name unprompted, the first outside confirmation since the search began; asked whether she seemed well and received a cautious but genuinely hopeful answer. Holding himself on a visibly short leash rather than true calm (Ep120). Does not know Mfoniso confirmed Ijeoma's location (Ep93), that the Warden has stopped the bracelet proof runs, nor that the Warden's fourteen day deadline for Ijeoma's fate is already running. |
-| Ijeoma | Emenike's younger sister | Alive, confirmed held at the Ijoma Concern's disguised headquarters downriver, seen briefly by Mfoniso in a heavily guarded inner courtyard (Ep93), confirming the bearing (west, slightly south) reported in Ep88. Taken from a river town by the Concern's agents two seasons ago while trading cloth for their mother; held as leverage to coerce Emenike's cooperation as an informant. Introduced in her own viewpoint for the first time (Ep101): nineteen, a cloth trader's daughter who counts everything, watchful and deliberate. Current thread: finished mapping the compound's full guard rotation (old and new eastern gate gaps, a thin dock handoff gap) and requested dock duty as cover. Tied her family's private trade signature knot into an outgoing cloth bundle's corner as a signal to any river trader who might someday recognize it, the closest call yet when the Factor's thumb passed directly over the knot during his own inspection and he let it go with a flat "count is correct" (Ep117). Does not know whether his response was genuine or deliberate. Does not know a search party has sighted her House's headquarters and, through a captured courier, confirmed her name and general condition (Ep120), nor that the Warden has given Mfoniso a fourteen day deadline on her own fate. Idoro's household does not yet know her exact location has been confirmed. |
+| Ijeoma | Emenike's younger sister | Alive, confirmed held at the Ijoma Concern's disguised headquarters downriver, seen briefly by Mfoniso in a heavily guarded inner courtyard (Ep93), confirming the bearing (west, slightly south) reported in Ep88. Taken from a river town by the Concern's agents two seasons ago while trading cloth for their mother; held as leverage to coerce Emenike's cooperation as an informant. Introduced in her own viewpoint for the first time (Ep101): nineteen, a cloth trader's daughter who counts everything, watchful and deliberate. Current thread: finished mapping the compound's full guard rotation (old and new eastern gate gaps, a thin dock handoff gap) and requested dock duty as cover. Tied her family's private trade signature knot into an outgoing cloth bundle's corner as a signal to any river trader who might someday recognize it, the closest call yet when the Factor's thumb passed directly over the knot during his own inspection and he let it go with a flat "count is correct" (Ep117). Does not know whether his response was genuine or deliberate. Does not know a search party has sighted her House's headquarters and, through a captured courier, confirmed her name and general condition (Ep120), nor that the Warden has given Mfoniso a fourteen day deadline on her own fate. Current thread: received a direct, oblique warning from the Factor during a pretext security review, that the compound's fear will not make it kinder to her; does not know his identity beyond the dock, nor his motive, but trusts the urgency and is now weighing how to act on it faster than her old patient counting would normally allow (Ep121). Idoro's household does not yet know her exact location has been confirmed. |
 | the guard | Unnamed soldier posted at the Concern headquarters' eastern gate | Alive. His habitual, unpunished gap in the gate watch is the timing Ijeoma has built her escape planning around since Ep102. Caught Ijeoma returning from her failed climb at dawn and chose not to report her (Ep109); a household wide security tightening ordered days later for unrelated reasons left his own post untouched, and he has kept his same careless habit since, unaware Ijeoma now reads that consistency as deliberate confirmation and is watching him deliberately in turn (Ep110). First thread of a possible inside ally; his own motive (an unfinished thought about a sister of his own) remains unconfirmed even to the audience. |
 | Ubani | Lead surveyor, crown survey party at Idoro (Ep94's authorized survey) | Alive, survey work concluded. Careful, observant, professionally honest; fifteen years' experience surveying disputed and unusual ground. Walked Oso's boundary alone (Ep97) and encountered an overwhelming, formless dread with no concrete cause he could name. Current thread: accepted Elder Maka's true but incomplete account of Oso as the old law's abandonment ground and grief-soaked site; marked it consecrated ground excluded from crown development in his official report, protecting the household's deeper secret without ever being told it, and departed Idoro with genuine respect for what he chose not to dig further into (Ep98). |
 | Ude | Ubani's second on the crown survey, carries the measuring chain | Alive. Grew up two villages from Idoro; knows Oso's reputation but is cautious about saying so to a crown official. Warned Ubani gently that the ground is tied to old grief, not merely superstition (Ep96), which helped prepare him to accept Elder Maka's account without much resistance (Ep98). |
@@ -329,7 +329,7 @@ new name against this list for *sound*, not just spelling.
   active use; if he must reappear, always tag him ("Adaeku, the quiet
   one").
 
-### 5.2 WHO KNOWS WHAT — dramatic irony ledger (as of Episode 120)
+### 5.2 WHO KNOWS WHAT — dramatic irony ledger (as of Episode 121)
 
 Update this table whenever knowledge changes hands. It protects continuity
 (no character may act on a fact this table says they lack) and marks where
@@ -355,6 +355,7 @@ the suspense lives.
 | The presence received a fragment of its own old strength back through Chibundu, including the name of a woman it has not yet explained, and can now reach a short true distance past Oso's border for the first time since Ep70 (Ep115) | The household inside Oso only (Chibundu, the entity, the presence) | The search party, Mfoniso, both Houses, and everyone in Idoro's wider world; the fragment's cause (the search party disproving the old "slaughter" story) is unknown to the party itself |
 | The search party has confirmed, through a captured courier, that Ijeoma is held in the compound's inner courtyard, alive and apparently unharmed (Ep120) | The search party only | Ijeoma does not know she has been found; the Warden, Mfoniso, and the household in Idoro have no idea the party has confirmed anything |
 | A courier escaped the search party's ambush wounded and fled back to the compound; the party's presence on this ground is likely to be discovered within a day (Ep120) | The search party | The compound itself has not yet acted on the report, if it has been believed at all; no one else knows the clock has started |
+| The Factor spoke to Ijeoma directly for the first time, warning her obliquely that the compound's new fear will not make it kinder to her (Ep121) | The Factor and Ijeoma | The Warden, the guard at the door (who heard nothing incriminating), and everyone else in the compound |
 | Ijeoma hid her family's private trade knot in an outgoing cloth bundle as a signal to any river trader who might recognize it (Ep117); the Factor recognized it during inspection and deliberately let it pass | Ijeoma and the Factor, each unaware of what the other actually knows about the other's awareness | Everyone else; the boat's eventual destination and whether anyone will ever notice the knot is unknown even to the narration |
 | Udo has dispatched a small, deniable three man detachment (Adaeku and two others, no crown markings) to find and reinforce the search party (Ep118) | Eze Amadi, Nkiruka, Ejikeme, Ikwuano, Chidebe, Amara, and the three men themselves | The search party, who do not know help is coming at all; the Concern and the Warden, who have no idea any crown activity is moving on this bearing |
 | A tension along Mfoniso's second thread to her teacher went slack for the first time in her memory, the night she made camp south on the river road (Ep108); cause unrevealed | No one, including the narration | Mfoniso only knows something moved; she has no name or direction for it |
@@ -503,112 +504,15 @@ Keep a running one-line-per-episode log here so continuity can be checked
 at a glance without rereading everything. **This section holds only the
 active arc — roughly the most recent 15-20 episodes.** Everything older
 is archived verbatim in `ARCHIVE.md` under "ARCHIVED CHANGELOG" (see that
-header for its current range, Episodes 1-101 plus the Episode 102-140 arc's
-pre-production notes as of this writing); when this section grows past ~20
-entries, move the oldest ones there following the same pattern (see
-Section 10, step 5).
+header for its current range, Episodes 1-108 as of this writing); when this
+section grows past ~20 entries, move the oldest ones there following the
+same pattern (see Section 10, step 5).
 
 **Note on dates:** the parenthetical dates on episode entries are the
 scheduled Pocket FM release dates (per Section 4's schedule-ahead cadence),
 not writing dates. Writing/commit dates live in git history and are weeks
 to months earlier.
 
-- **Episode 102 — "The Shape of Waiting" (2026-10-17):** Opens the
-  Episodes 102-140 arc with three parallel watching threads. The
-  search party, one day into the two the presence promised, finds an
-  old path that stopped being walked all at once and a second,
-  unexplored branch they choose to leave for now. Ijeoma studies the
-  eastern gate's guard rotation with intent for the first time and
-  finds a habitual gap in it, a possible door she has not yet decided
-  how to use. Mfoniso, still rebuilding her read of a transformed
-  Idoro from her western ridge, is unsettled by her own teacher's
-  unexplained silence since the Episode 90 confrontation; this episode
-  deliberately resolves the open Section 5.2 question of whether she
-  saw the search party leave, she did, four days ago, and dismissed
-  the four man band as routine patrol rotation, not the search. The
-  episode closes cold: the Warden's ciphered question is one day from
-  reaching Mfoniso's hand, and she still has no idea it is coming.
-- **Episode 103 — "Ground That Remembers Feet" (2026-10-18):** Okonjo
-  finds the first worked stone of a buried settlement wall; the search
-  party spends the day uncovering a vanished town of hundreds and
-  camps one day short of it, unsettled that its story seems to have
-  been buried along with it. In Oso, the presence shows Chibundu a
-  remembered evening from its lost street for the first time in three
-  centuries, an ordinary night of firelight and a laughing child, and
-  admits it no longer remembers all of its people's names. The entity
-  reads the gesture as the presence taking Chibundu at his word about
-  not wanting to be protected from the truth. In Udo, Nkiruka reopens
-  her Episode 94 archive record and finds a spiral mark hidden in its
-  gutter, matching the search party's own find, recontextualizing the
-  record's unfinished ending as a deliberate warning rather than lost
-  pages. She copies it in full, undecided whether to send it west.
-- **Episode 104 — "What Grief Left Standing" (2026-10-19):** The
-  search party reaches the presence's lost ground: a settlement
-  preserved unnaturally intact, bowls still set in place, grass that
-  will not cross a doorway. At its ruined square's heart they find a
-  standing stone cut with a spiral far fresher than three centuries
-  old, proof someone still tends it, and Osadebe orders camp made
-  outside the clearing rather than within it. In Oso, Chibundu feels
-  the presence's grief directly for the first time as the party enters
-  its square; the presence admits it does not know whether it has been
-  waiting for this moment or dreading it, and confirms, for the first
-  time, that it was drawn away from its own ground before the strike
-  centuries ago, the same tactic Mfoniso later used against Kene. The
-  entity, in turn, offers the presence something close to comfort for
-  the first time in their long acquaintance.
-- **Episode 105 — "Not a Grave" (2026-10-20):** Working the clearing's
-  edges rather than its dangerous heart, the search party finds a
-  concealed chamber built into the hillside, still oiled and dusted,
-  stocked with restraints and handling tools rather than bones.
-  Emenike names it plainly, a holding room, not a grave, and draws the
-  line to his sister's own captivity aloud. Osadebe privately suspects
-  this bearing has been used for exactly this purpose more than once
-  across three centuries. In Oso, the presence learns its people were
-  taken and moved rather than killed where they stood, and must
-  relearn, after three hundred years of mourning the wrong story,
-  that the real question was always where they were taken and by
-  whom.
-- **Episode 106 — "One Mission Now" (2026-10-21) [Act 1 close]:**
-  Osadebe returns to the hillside chamber alone at dawn and finds a
-  House maker's mark burned into the binding cloth. Emenike recognizes
-  it instantly, the same seal used on messages left for him at the
-  drop stone. The search for the presence's lost people and the
-  search for Ijeoma are, from this point, confirmed as one mission
-  against one House lineage rather than two separate mysteries sharing
-  a bearing. The party presses on west past the lost ground for the
-  first time. Downriver, Ijeoma secures a plausible reason to be at
-  the eastern wall during the guard's gap, laundry duty, after a
-  servant girl offers to arrange it, and deliberately keeps the word
-  escape out of her own planning, superstitious about naming a thing
-  too early.
-- **Episode 107 — "The Question She Will Not Answer by Courier"
-  (2026-10-22) [Act 1 close]:** Osadebe's courier report reaches Idoro.
-  The council absorbs the full weight of Episode 106's discovery;
-  Adaugo names what it means for the household to now be fighting on
-  behalf of every name the hillside chamber ever held, and Amara
-  orders word sent to Udo by the fastest rider available rather than
-  let the crown learn only half the picture. Downriver, the Warden's
-  ciphered question finally reaches Mfoniso. Rather than answer by
-  return courier, she decides, for reasons she is not yet ready to
-  examine closely, to carry her answer to the headquarters in person,
-  breaking off her surveillance of Idoro and turning south.
-- **Episode 108 — "What Her Teacher Never Finished Telling Her"
-  (2026-10-23):** On the river road south, Mfoniso's
-  mind drifts to two old training memories: her teacher's account of
-  the lineage's first guardian ground conquest, whose taken people
-  were only ever called "resettled," and a later lesson in the tactic
-  itself, taught with the flat admission that exactly one guardian in
-  the lineage's history ever refused to run for it, a story her
-  teacher always broke off at that word and never finished. That
-  night, camped off the road, Mfoniso feels a tension along her second
-  thread to her teacher go slack for the first time in her memory, an
-  unnamed, undirected wrongness that leaves her unable to sleep. By
-  morning she has privately begun to suspect the nameless guardian of
-  her teacher's unfinished story and the one that met her at Idoro's
-  wall are the same, and resolves not to answer the Warden's Episode
-  107 question until she has asked one of her own first: what actually
-  became of the people her lineage once resettled, and whether the
-  House still keeps any record of where.
 - **Episode 109 — "The Wall She Almost Cleared" (2026-10-24):** Ijeoma
   makes her first real escape attempt, using her newly granted laundry
   duty and the eastern gate guard's habitual gap to slip out of her
@@ -772,6 +676,17 @@ to months earlier.
   the party's grim recalculation: they have confirmation, but no
   longer the luxury of being unseen while they decide what to do with
   it.
+- **Episode 121 — "The Warning He Could Not Take Back" (2026-11-05):**
+  The compound doubles every watch after the wounded courier's report.
+  Fearing a frightened House grows harsher rather than kinder toward
+  its uncertain liabilities, the Factor uses a pretext security review
+  to speak to Ijeoma directly for the first time, warning her obliquely
+  that her window is closing faster than she may realize. It is his
+  most dangerous act of quiet treason yet, deliberate rather than
+  deniable. Closes on Ijeoma, unable to confirm his motive or trust
+  him fully, choosing to trust the urgency anyway and beginning to
+  weigh how to act faster than her old patient counting would
+  normally allow.
 
 ---
 
