@@ -257,9 +257,9 @@ changelog below (see that section's header for the exact current window).
 | Ozoemena | Mid ranking Idoro elder | Alive, Idoro. Humbled, trusted council member who serves through labor since his own disastrous rite killed the dibia (Ep26). Current thread: held the household to its promise to search for Ijeoma, arguing a harder promise kept only when convenient has not truly been kept at all (Ep99). |
 | Kene | Surviving firstborn twin | Alive, toddler, Idoro. Original twin thread to the entity severed (Ep12); knows he has a brother (told Ep66); survived Mfoniso's first abduction attempt (Ep70), saved when the presence reached beyond Oso's ground for the first time. Began tracing an unbidden spiral in the dirt (Ep76) — the same shape both old powers have used on Zara — raising fear the presence's rescue left a second, uncut thread in him. Current thread: the spiral tracing has gone still rather than resolved; Kene reports it "does not feel like it wants me to" today, unresolved per Elder Maka's assessment (Ep95). Family continues watching rather than attempting a severing rite. |
 | Chibundu | Abandoned secondborn twin / protagonist ("the one whom the presence carries") | Alive, Oso. Named by the presence through Zara (Ep47); reunited with Amara (Ep50); survived a trading House ambush at that reunion; has twice refused the trading House's partnership offer (once in his own voice, once when the presence seized his voice to refuse it for him, Ep60-61) and extracted a narrower promise from the presence (it will not take his voice again except to save his life). Current thread: dreamed the toppled boundary stone as it stood three centuries ago — upright, ochre filled, living ground beyond it — the same night the search party found it; woke to the presence's confirmation and now knows the party is two days from the lost ground. Deliberately did not promise the presence the answer would be bearable, honoring its request to stop being protected from the truth (Ep101). |
-| Eze Amadi | King, Kingdom of Ijendu, throned at Udo | Alive, Udo. Aware of the entity and, since Ep65, the presence as a second distinct power. Has permanently assigned Osadebe to Idoro and stationed Chidebe's garrison there. Current thread: absorbed Osadebe's report of the entity's direct action and the coerced informant, and authorized a formal crown investigation into trading House sabotage, a doubled permanent garrison for Idoro, and Ejikeme's long refused land survey, reframed as crown obligation rather than trade measure (Ep94). |
+| Eze Amadi | King, Kingdom of Ijendu, throned at Udo | Alive, Udo. Aware of the entity and, since Ep65, the presence as a second distinct power. Has permanently assigned Osadebe to Idoro and stationed Chidebe's garrison there. Current thread: received Idoro's rider confirming the search for Ijeoma and the search for the presence's lost people are one lineage's work, then heard Nkiruka's long withheld archive record in full; ordered it copied and sent west as a warning to the search party and left Ejikeme's question, whether this House's court sponsor already knows what it has done, deliberately unanswered rather than pretend a comfortable guess (Ep112). |
 | Nduka | Crown river-road intelligence agent | Alive. Minor, not currently active — carried the first report of Idoro's unraveling to Udo (Ep24). |
-| Nkiruka | Keeper of the crown's old rites and records, Udo | Alive. Holds the crown's only historical archive on prior encounters with old powers. Revised her reading (Ep65) to recognize two separate powers rather than one growing bolder. Found a centuries old record of a border village that discovered a coerced informant exactly as Idoro did, whose account then stops mid record with no resolution (Ep94); still kept private from Eze Amadi. Current thread: found a small spiral mark cut into the record's gutter, matching the mark from Osadebe's own report, and now reads the record's unfinished ending as a deliberate warning rather than lost pages; copied it in full and is undecided whether to send it west to the search party (Ep103). |
+| Nkiruka | Keeper of the crown's old rites and records, Udo | Alive. Holds the crown's only historical archive on prior encounters with old powers. Revised her reading (Ep65) to recognize two separate powers rather than one growing bolder. Found a centuries old record of a border village that discovered a coerced informant exactly as Idoro did, whose account then stops mid record with no resolution, marked with a spiral matching the search party's own find (Ep94, Ep103). Current thread: told Eze Amadi the full truth of the record the same night Idoro's rider confirmed the search and the Ijeoma hunt are one lineage's work; making a second copy to ride west with the crown's fastest available rider as a warning, though she privately doubts it can outrun ground the search party is already walking (Ep112). |
 | Ejikeme | Overseer of the crown's delta trade concessions, Udo | Alive. Won authorization for the crown survey of Idoro's land he had twice been refused (Ep94), granted as crown protective obligation rather than a trade measure, though he could not promise Nkiruka the crown would keep that distinction once exploitable ground was found. Dispatched to begin survey preparations within the week. |
 | Osadebe | Captain of Eze Amadi's personal service, permanently assigned to Idoro | Alive. The crown's primary eyewitness and liaison to Idoro. Leads the Ijeoma search party (himself, Emenike, Ifeanyi, Okonjo), sketching fresh maps each evening past the edge of Ubani's survey. Current thread: five days past the lost ground, on unmapped ground, chose to risk a rotten footbridge crossing rather than lose a day to a detour; found fresh, carelessly left multi day old footprints crossing the party's own trail afterward, moving the same direction, and privately suspects whoever left them has no fear of being followed on this bearing (Ep111). |
 | Chidebe | Captain, commands the crown garrison at Idoro | Alive. Disciplined, trusted by Osadebe. Current thread: argued Emenike was not yet strong enough for the Ijeoma search and was overruled by Emenike's own flat refusal to be protected from the one thing he still has a right to insist on (Ep99). |
@@ -329,7 +329,7 @@ new name against this list for *sound*, not just spelling.
   active use; if he must reappear, always tag him ("Adaeku, the quiet
   one").
 
-### 5.2 WHO KNOWS WHAT — dramatic irony ledger (as of Episode 111)
+### 5.2 WHO KNOWS WHAT — dramatic irony ledger (as of Episode 112)
 
 Update this table whenever knowledge changes hands. It protects continuity
 (no character may act on a fact this table says they lack) and marks where
@@ -352,7 +352,7 @@ the suspense lives.
 | A tension along Mfoniso's second thread to her teacher went slack for the first time in her memory, the night she made camp south on the river road (Ep108); cause unrevealed | No one, including the narration | Mfoniso only knows something moved; she has no name or direction for it |
 | The House holding Ijeoma is the same lineage that emptied the presence's lost ground three centuries ago, confirmed by a matching maker's mark (Ep106) | The search party | The household, the crown, Oso, the Warden, and Mfoniso (who already knows the lineage tie from her own training but does not know the search party has made this connection) |
 | The search party's true purpose and departure (Ep99-100) | The household, the crown | Mfoniso saw a small four man band leave Idoro at a distance (Ep102) but filed it as routine patrol rotation — she does not know it was the search party, or what it is for |
-| Nkiruka's archive record that stops mid-page (Ep94), now understood as a deliberate warning marked with the same spiral the search party found (Ep103) | Nkiruka only | Eze Amadi, the search party, and everyone else; she has copied it but not yet decided whether to send it west |
+| Nkiruka's archive record that stops mid-page (Ep94), understood as a deliberate warning marked with the same spiral the search party found (Ep103); told to Eze Amadi in full and now being copied to ride west as a warning (Ep112) | Nkiruka, Eze Amadi, and (secondhand) Ejikeme, who was present when Idoro's rider reported | The search party, still walking the same ground unwarned; the copy has not yet left Udo |
 | Elder Maka's thin thread to the entity; Chibundu's identity; the presence's existence | The whole household (no secrets left inside it since ~Ep66) | The wider village knows Oso is feared ground, not what lives there; Ubani chose not to learn (Ep98) |
 
 ---
@@ -739,6 +739,19 @@ to months earlier.
   direction, with a fainter set weeks older beneath them, proof this
   forgotten ground is walked regularly by someone who has never once
   worried about being followed on it.
+- **Episode 112 — "What the Record Was Trying to Say" (2026-10-27):**
+  Idoro's rider reaches Udo after nine hard days, confirming the
+  search for Ijeoma and the search for the presence's lost people are
+  one lineage's work. Nkiruka, hearing it land beside the archive
+  record she has privately sat on since Episode 94, a border village's
+  coerced informant account that stops mid page, marked with the same
+  spiral the search party found, finally understands it as a pattern
+  rather than an isolated mystery and confesses the full truth to Eze
+  Amadi that same night. He orders it copied and sent west as a
+  warning. Closes on Nkiruka's unspoken fear that no courier, however
+  fast, can outrun ground the search party is already walking, and
+  that the record's warning may reach them only after they have found
+  its meaning for themselves.
 
 ---
 
