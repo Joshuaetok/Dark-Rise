@@ -72,7 +72,7 @@ something changed, it's recorded here.
 
 ---
 
-## ARCHIVED CHANGELOG (Episodes 1–95)
+## ARCHIVED CHANGELOG (Episodes 1–100)
 
 - **Episode 1 — "Born to Die" (rewritten 2026-07-05 for AI voice-over
   clarity):** Twins born in Idoro to Amara and Obi; second-born abandoned in
@@ -1474,6 +1474,109 @@ something changed, it's recorded here.
   keep it — a quiet dread opening the next arc rather than closing this
   one.
 
-*(End of archived changelog Episodes 1-95. Episodes 96 onward remain inline
-in CLAUDE.md's current Section 11 changelog as the active arc; the oldest
-entries are appended here whenever that section is trimmed.)*
+- **Episode 96 — "What the Surveyors Saw" (2026-10-11):** The crown
+  survey's lead surveyor, Ubani, notices Oso's tree line behaves
+  unnaturally — birdsong stopping at an exact, repeated point, canopy
+  moving in wind the undergrowth never feels — and records it privately
+  rather than officially. Chidebe and Amara each try, without lying
+  outright, to steer him away from the ground; his second, Ude, warns
+  him gently it is tied to old grief rather than mere superstition.
+  Ubani respects all of it and remains unmoved. In Oso, the entity
+  warns Chibundu that an honest man is harder to deceive than a
+  dishonest one, while the presence notes the truer danger is not
+  whether Ubani sees something but what he does afterward. The episode
+  closes on Ubani informing Chidebe, gently but immovably, that he will
+  walk Oso's boundary himself at first light to complete an honest map,
+  leaving the household with no way to stop him without confirming the
+  very secret they are trying to protect.
+- **Episode 97 — "The Line He Crossed" (2026-10-12):** Ubani walks into
+  Oso alone at first light while Chidebe and Ude wait at the boundary.
+  The entity, too weak for direct confrontation and unwilling to spend
+  strength on a man who means no harm, chooses not to manifest at all,
+  instead letting Oso's undisguised ancient stillness reach him so his
+  own fear does the rest; the presence cautions it to be sure this
+  restraint is wisdom and not merely the shape of low strength. Ubani
+  experiences a formless, escalating dread with no monster or voice to
+  name, loses count of his own steps, and retreats badly shaken but
+  unharmed, apologizing to Chidebe for calling the village's fear mere
+  superstition. Amara's comment that "it let you leave" tips him off
+  that she knew something in advance, which she neither confirms nor
+  denies. The episode closes on Ubani, walked back to the market by
+  Ude, still undecided what shape the truth of what he felt should take
+  once it reaches the crown's own hands.
+- **Episode 98 — "What They Chose to Tell Him" (2026-10-13):** Amara
+  and Elder Maka decide to give Ubani a true but incomplete account
+  rather than continued silence: the old law's abandonment ground and
+  the three centuries of real grief soaked into it, without ever naming
+  what lives beneath that grief. Ubani accepts it readily since it
+  matches what he felt closely enough, and marks Oso in his official
+  crown report as consecrated grief ground excluded from development,
+  protecting the household's deeper secret without ever being told it.
+  The entity, watching from Oso, expresses something like admiration
+  that the family solved this danger with careful honesty rather than
+  force or sacrifice. The survey departs with its work genuinely
+  finished. The episode closes on an interlude with Mfoniso, fully
+  healed and newly resourced by the Warden, resuming her surveillance
+  of Idoro from a distance and finding it transformed — a far larger
+  garrison, staggered patrols, and crown surveyors — forcing her to
+  rebuild her understanding of the village from the ground up before
+  deciding what her new resources actually let her attempt.
+- **Episode 99 — "The Search They Owed Him" (2026-10-14):** Emenike
+  finally asks the household when it will search for Ijeoma, and Amara
+  admits crisis after crisis has delayed a promise that was never fair
+  to delay; Ozoemena holds the household to it. Osadebe secures formal
+  crown support under the Ep94 investigation's authority, and Ubani's
+  survey maps give the search its first honest picture of the western
+  ground beyond guesswork. Chidebe's objection that Emenike isn't yet
+  strong enough is overruled by Emenike's flat refusal to be protected
+  from the one thing he still has a right to insist on. A party forms —
+  Osadebe, Emenike, soldiers Ifeanyi and Okonjo — to depart within the
+  week. Amara raises the possibility the search finds the Ijoma
+  Concern's true headquarters rather than Ijeoma alone. The episode
+  closes on Elder Maka carrying the household's request for aid to Oso:
+  the entity offers little, but the presence goes very still at the
+  bearing (west, slightly south), admitting it recognizes the direction
+  — not a place, a direction it has not let itself think about in three
+  centuries — and asks only to be told what ground the search party
+  finally reaches, the first visible sign of hope Chibundu has ever
+  sensed in it.
+- **Episode 100 — "West of Everything Known" (2026-10-15) [MILESTONE]:**
+  The search party departs Idoro at dawn; Amara and Elder Maka each
+  send Emenike off with a plea and a blessing, and Zara walks the first
+  stretch of road with them, her flickering gift finding nothing to
+  warn of before she turns back at the old boundary stone. Three days
+  west, past the edge of Ubani's survey maps, the land itself grows
+  strange — Ifeanyi notices ground that feels "walked around" rather
+  than merely empty — and Osadebe deliberately takes on part of
+  Emenike's emotional burden so he can finally sleep. In Oso, Chibundu
+  presses the presence to stop protecting him from the truth, and it
+  finally names its three century old loss plainly for the first time
+  ever, including to the entity: its own guardian ground lay exactly
+  along the bearing the search now travels, and it has never learned
+  what became of that ground or the people it once protected there. The
+  entity tells the presence it has never heard it speak this openly of
+  its grief in their entire acquaintance. The episode closes on the
+  search party making camp at the edge of unnamed country, unaware they
+  may be walking toward two answers at once — Ijeoma's fate, and the
+  presence's oldest unhealed wound.
+- **Continuity & audio-clarity maintenance pass (2026-07-16):** Global
+  rename of the boundary tree: "ak-pu" → **"iroko"** across all one hundred
+  episode files (eighty occurrences in fifty one files), all build scripts,
+  ARCHIVE.md, and this file — the old spelling was hyphenated (violating
+  Section 3.4) and unreliable in TTS narration. Added Section 5.1
+  (audio confusable-name rules: "the Concern" in narration, never bare
+  "Amadi" near Amara, Chibundu/Chidebe role tags, Adaeku retired) and
+  Section 5.2 (who-knows-what dramatic irony ledger). Corrected stale
+  bookkeeping: archive-split note now says registry history through
+  Episode 78 and changelog through Episode 83 (was "63/63");
+  ARCHIVE.md's changelog header corrected from "1–63" to "1–83" and its
+  tail note de-staled; registry column header updated to "as of Episode
+  100"; Section 8's "Ohia Nso" corrected to "Oso"; Section 12's push
+  target corrected from "main" to "master" (the actual branch);
+  changelog dates labeled as scheduled release dates; Episode 87's entry
+  corrected to reflect that the household never hears the captor House's
+  name on the page. No story content changed beyond the tree's name.
+
+*(End of archived changelog Episodes 1-100. Episodes 101 onward remain
+inline in CLAUDE.md's current Section 11 changelog as the active arc; the
+oldest entries are appended here whenever that section is trimmed.)*
