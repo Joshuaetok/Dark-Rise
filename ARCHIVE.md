@@ -72,7 +72,7 @@ something changed, it's recorded here.
 
 ---
 
-## ARCHIVED CHANGELOG (Episodes 1–100)
+## ARCHIVED CHANGELOG (Episodes 1–101, plus Episode 102-140 arc pre-production notes)
 
 - **Episode 1 — "Born to Die" (rewritten 2026-07-05 for AI voice-over
   clarity):** Twins born in Idoro to Amara and Obi; second-born abandoned in
@@ -1577,6 +1577,103 @@ something changed, it's recorded here.
   corrected to reflect that the household never hears the captor House's
   name on the page. No story content changed beyond the tree's name.
 
-*(End of archived changelog Episodes 1-100. Episodes 101 onward remain
+- **Episode 1 TTS pacing restructure (2026-07-17):** Rebuilt Episode 1 to
+  eliminate unnecessary narration pauses reported in the audio: merged
+  single-sentence paragraphs into full beat paragraphs (one hundred twenty
+  two body paragraphs down to eighty one, standalone lines now reserved for
+  dramatic peaks), replaced the thirteen empty spacer paragraphs with
+  spacing-before scene breaks (zero empty paragraphs in the docx), removed
+  all em dashes, and added a tone cue to every dialogue line so the AI
+  voice matches each speaker's emotion. Word count two thousand one
+  hundred forty six, in range. Codified as Section 3.10. No story content
+  changed. The Episode 1 listen test confirmed the improvement.
+- **Episodes 2-10 TTS pacing pass (2026-07-17):** Rolled the Section 3.10
+  fixes out to the next nine episodes after the Episode 1 listen test
+  succeeded. All build scripts now use scene break spacing instead of
+  empty spacer paragraphs (about one hundred spacer paragraphs removed
+  across the nine files; every built docx verified to contain zero empty
+  paragraphs) and lint for dashes, double spaces, and hyphenated words.
+  Roughly fifty em and en dashes rewritten as periods or commas, with
+  dialogue interruptions becoming single ellipses. Every bare quote
+  gained a tone cue; Episode 3's rapid interrogation exchange and Episode
+  9's confession exchange got per speaker attributions. All system status
+  lines converted from typed all caps to sentence case (the caps run
+  property keeps the page look) and given a one line herald in the
+  entity's ledger voice, matching Episode 1. Episodes 2 and 3
+  additionally had one liner paragraph runs merged into beat paragraphs.
+  All nine word counts remain in range. No story content changed.
+- **Episode 101 — "What She Is Worth" (2026-10-16):** The hostage clock
+  starts. At the House's headquarters, the Warden cancels the bracelet
+  proof runs — with Emenike discovered, proof of Ijeoma's life persuades
+  no one — takes the guest's ledger line from the Factor, and leaves
+  Ijeoma's fate explicitly undecided: the House keeps what it might
+  still spend, not what it can only feed. The Factor, arguing in pure
+  cost terms that bodies open accounts rather than close them, passes
+  the guarded courtyard for the first time and recognizes he has signed
+  two seasons of her keeping without ever reading the line as a person.
+  Ijeoma, in her own viewpoint for the first time — nineteen, a cloth
+  trader's daughter who counts everything — deduces from the overdue
+  fifth taking exactly what it means, concludes nobody feeds a witness
+  forever, and quietly begins studying guards, watches, and the wall's
+  one bad corner: done waiting. Four days west, the search party finds
+  a centuries old boundary stone laid deliberately face down, a spiral
+  cut into its buried face; that night Chibundu dreams the stone
+  standing before living ground, and the presence confirms its people
+  cut it — hunters lay a taken ground's marks face down so the land
+  forgets its own name — and that the lost ground lies two days ahead
+  of the search. The episode closes cold on the Warden's ciphered
+  question traveling toward Mfoniso: does the hunt still require the
+  guest kept breathing, or may the House close the account.
+- **Episodes 11-101 TTS pacing pass (2026-07-17):** Completed the Section
+  3.10 rollout across the remaining ninety one episodes, finishing the
+  series-wide audit begun with Episode 1. All build scripts now use scene
+  break spacing instead of empty spacer paragraphs (three hundred ninety
+  four spacers removed; every built docx verified to contain zero empty
+  paragraphs) and lint for dashes, double spaces, and hyphenated words.
+  All forty four system status lines were converted from typed all caps
+  to sentence case (the caps run property keeps the page look) and given
+  a one line herald in the entity's ledger voice, matching Episode 1;
+  the fifteen status lines in Episodes 35-50 that had been typed as
+  plain body paragraphs were also restored to true system formatting.
+  Six em dashes rewritten (dialogue interruptions became single
+  ellipses, per the Episodes 2-10 pattern); one bare quote in Episode 77
+  gained a tone cue; Episode 101, built with no scene breaks at all,
+  gained four. Three spoken episode number references — Section 3.5
+  violations the AI voice would have read aloud ("since Episode eighty
+  two" in Episode 84's narration, "Episode ninety four's reckoning" in
+  Episode 99's, "predates episode thirty six contact" in Episode 37's
+  status line) — were rewritten in world. No story content changed.
+  Known pre existing issue, deliberately not addressed in this pass:
+  eighteen episodes (45, 48, 49, 64, 68, 71, 73, 74, 76, 86, 87, 89,
+  90, 94, 96, 97, 98, 99) sit one to fifteen words under the 1,550
+  word minimum and did so before this pass; fixing them means adding
+  story content and should be its own deliberate pass. (Resolved by
+  the padding pass in the next entry, same day.)
+- **Word count padding pass (2026-07-17):** Resolved the shortfall
+  flagged in the previous entry. Each of the eighteen episodes that had
+  shipped one to fifteen words under the 1,550 word minimum gained one
+  or two added sentences (thirteen to thirty three words each) inside
+  an existing mid episode paragraph — atmosphere, sensory texture, or a
+  small emotional beat in the episode's own voice. No closing hooks
+  were touched, no new plot facts were introduced, and every addition
+  follows the Section 3 audio rules. All eighteen now land between one
+  thousand five hundred sixty two and one thousand five hundred
+  seventy five words; the full series (Episodes 1 through 101) is now
+  verified in the 1,550-2,150 range, lint clean, with zero empty
+  paragraphs in every built docx.
+- **Shared build module extracted (2026-08-06):** Ahead of the Episodes
+  102-140 arc, pulled the ~350 lines of OOXML/docx helper code
+  duplicated in every Episode 1-101 build script into a single
+  `scripts/dr_build.py` module (`make_run`, `make_paragraph`,
+  `build_docx`, `count_words`, `lint_content`, `build_episode`).
+  Existing Episode 1-101 scripts are untouched. New episode scripts
+  import the shared module and define only their content list, episode
+  number, and title. See `docs/superpowers/specs/2026-08-06-episodes-102-140-arc-design.md`
+  for the full arc design (Ijeoma captivity arc and the presence's lost
+  guardian ground resolve as one converging thread across Episodes
+  102-140; no new Section 7 skeleton arc introduced this block).
+
+*(End of archived changelog Episodes 1-101, plus the Episode 102-140 arc's
+pre-production notes (shared build module). Episode 102 onward remains
 inline in CLAUDE.md's current Section 11 changelog as the active arc; the
 oldest entries are appended here whenever that section is trimmed.)*

@@ -256,7 +256,7 @@ changelog below (see that section's header for the exact current window).
 | Elder Maka | Elder priestess | Alive, Idoro, restored to a respected advisory council seat (not sole authority over the old law, stripped Ep19). Secretly carries her own thin thread to the entity since the Episode 12 binding rite (now openly known to the household and village). Current thread: blessed the search party's departure with an old protective rite and gave Emenike a plaited cord to carry (Ep100). |
 | Ozoemena | Mid ranking Idoro elder | Alive, Idoro. Humbled, trusted council member who serves through labor since his own disastrous rite killed the dibia (Ep26). Current thread: held the household to its promise to search for Ijeoma, arguing a harder promise kept only when convenient has not truly been kept at all (Ep99). |
 | Kene | Surviving firstborn twin | Alive, toddler, Idoro. Original twin thread to the entity severed (Ep12); knows he has a brother (told Ep66); survived Mfoniso's first abduction attempt (Ep70), saved when the presence reached beyond Oso's ground for the first time. Began tracing an unbidden spiral in the dirt (Ep76) — the same shape both old powers have used on Zara — raising fear the presence's rescue left a second, uncut thread in him. Current thread: the spiral tracing has gone still rather than resolved; Kene reports it "does not feel like it wants me to" today, unresolved per Elder Maka's assessment (Ep95). Family continues watching rather than attempting a severing rite. |
-| Chibundu | Abandoned secondborn twin / protagonist ("the one whom the presence carries") | Alive, Oso. Named by the presence through Zara (Ep47); reunited with Amara (Ep50); survived a trading House ambush at that reunion; has twice refused the trading House's partnership offer (once in his own voice, once when the presence seized his voice to refuse it for him, Ep60-61) and extracted a narrower promise from the presence (it will not take his voice again except to save his life). Current thread: dreamed the toppled boundary stone as it stood three centuries ago — upright, ochre filled, living ground beyond it — the same night the search party found it; woke to the presence's confirmation and now knows the party is two days from the lost ground. Deliberately did not promise the presence the answer would be bearable, honoring its request to stop being protected from the truth (Ep101). |
+| Chibundu | Abandoned secondborn twin / protagonist ("the one whom the presence carries") | Alive, Oso. Named by the presence through Zara (Ep47); reunited with Amara (Ep50); survived a trading House ambush at that reunion; has twice refused the trading House's partnership offer (once in his own voice, once when the presence seized his voice to refuse it for him, Ep60-61) and extracted a narrower promise from the presence (it will not take his voice again except to save his life). Current thread: served as the unwilling conduit for the presence's first returned fragment of old strength, flooded with three centuries of raw grief and a single unexplained name; chose not to press the presence for who she was, and is left privately wanting to know more about her than the presence has yet been willing to give (Ep115). |
 | Eze Amadi | King, Kingdom of Ijendu, throned at Udo | Alive, Udo. Aware of the entity and, since Ep65, the presence as a second distinct power. Has permanently assigned Osadebe to Idoro and stationed Chidebe's garrison there. Current thread: received Idoro's rider confirming the search for Ijeoma and the search for the presence's lost people are one lineage's work, then heard Nkiruka's long withheld archive record in full; ordered it copied and sent west as a warning to the search party and left Ejikeme's question, whether this House's court sponsor already knows what it has done, deliberately unanswered rather than pretend a comfortable guess (Ep112). |
 | Nduka | Crown river-road intelligence agent | Alive. Minor, not currently active — carried the first report of Idoro's unraveling to Udo (Ep24). |
 | Nkiruka | Keeper of the crown's old rites and records, Udo | Alive. Holds the crown's only historical archive on prior encounters with old powers. Revised her reading (Ep65) to recognize two separate powers rather than one growing bolder. Found a centuries old record of a border village that discovered a coerced informant exactly as Idoro did, whose account then stops mid record with no resolution, marked with a spiral matching the search party's own find (Ep94, Ep103). Current thread: told Eze Amadi the full truth of the record the same night Idoro's rider confirmed the search and the Ijeoma hunt are one lineage's work; making a second copy to ride west with the crown's fastest available rider as a warning, though she privately doubts it can outrun ground the search party is already walking (Ep112). |
@@ -265,8 +265,8 @@ changelog below (see that section's header for the exact current window).
 | Chidebe | Captain, commands the crown garrison at Idoro | Alive. Disciplined, trusted by Osadebe. Current thread: argued Emenike was not yet strong enough for the Ijeoma search and was overruled by Emenike's own flat refusal to be protected from the one thing he still has a right to insist on (Ep99). |
 | Ikwuano | Keeper of the crown's scattered intelligence reports, Udo | Alive. Traced the trading House's court sponsor and confirmed its interest in Idoro predates its public approach by years. Not currently central to the active plot thread. |
 | *(unnamed dibia)* | Village diviner/healer; carried the secondborn to Oso | **Deceased (Episode 26).** Was the entity's first mouthpiece; killed when Ozoemena's borrowed rite against him failed and the entity struck him down mid final message. |
-| *(unnamed entity)* | Ancient presence beneath Oso, bonded to Chibundu | Active, still badly weakened but mending. Three centuries old, patient and transactional; broke three centuries of pure restraint to act directly against Mfoniso (Ep90). Current thread: gently turned Chibundu's own argument for the presence's limits back around, telling the presence it could not have walked a bearing it can barely reach past Oso's borders even now (Ep105). |
-| *(unnamed presence)* | Older power beyond Oso's outer borders, reaches Chibundu through dreams and has spoken through Zara | Active. Named Chibundu (Ep47). Once lost a guardian ground centuries ago to a hunter using the exact tactic Mfoniso now uses (take the people the guardian loves, wait, strike slowly) — revealed Ep67. Broke its three century habit of never overspending its strength to save Kene directly (Ep70), at a cost it still hadn't finished paying as of Ep72-73; further spent by tearing itself out of Zara in Ep82. **Major reveal (Ep100):** confirmed under Chibundu's direct pressure that its own lost guardian ground lay exactly along the bearing west and slightly south of Oso. Current thread: learned through the search party's find that its people were taken and moved rather than slaughtered where they stood; has spent three centuries mourning the wrong story, and now does not know where they were taken to, by whom, or whether any survived to be found (Ep105). |
+| *(unnamed entity)* | Ancient presence beneath Oso, bonded to Chibundu | Active, still badly weakened but mending. Three centuries old, patient and transactional; broke three centuries of pure restraint to act directly against Mfoniso (Ep90). Current thread: watched the presence receive its first returned fragment of old strength through Chibundu and asked, plainly, what the gain had cost; noted afterward that it had never once heard the presence speak this openly of its grief before this stretch of episodes (Ep115). |
+| *(unnamed presence)* | Older power beyond Oso's outer borders, reaches Chibundu through dreams and has spoken through Zara | Active. Named Chibundu (Ep47). Once lost a guardian ground centuries ago to a hunter using the exact tactic Mfoniso now uses (take the people the guardian loves, wait, strike slowly) — revealed Ep67. Broke its three century habit of never overspending its strength to save Kene directly (Ep70), at a cost it still hadn't finished paying as of Ep72-73; further spent by tearing itself out of Zara in Ep82. **Major reveal (Ep100):** confirmed under Chibundu's direct pressure that its own lost guardian ground lay exactly along the bearing west and slightly south of Oso. Learned through the search party's find that its people were taken and moved rather than slaughtered where they stood, breaking three centuries of mourning a false, finished story (Ep105). Current thread: received, unbidden and through Chibundu, the first fragment of its own old strength to return since the taking, sealed away inside the false grief and freed now that the true, unfinished grief has replaced it. Cost both of them a flood of raw memory (including a woman's name it let slip and will not yet explain) but yielded a small, real, tested gain: it can now reach a short true distance past Oso's border for the first time since Ep70, and privately admits it would pay the same cost again gladly (Ep115). |
 | Uduak | Market trader, former trading House informant | Alive, held pending Udo's judgment since his confession (Ep53). Not currently active in the plot. |
 | the Warden | Ijoma Concern's keeper of old and dangerous knowledge | Active. Authorized Mfoniso's second attempt, against Zara directly (Ep74), overruling the Factor's objection. Revealed the guardian ground debt is inherited across four keepers before her rather than her own personal grievance; permanently relieved the Factor of any further say in the operation and committed resources beyond anything spent on the hunt so far (Ep93). Current thread: received Mfoniso in person and told her plainly the taken people were "resettled" rather than killed, and, almost as an aside, that the debt's chain runs first keeper and hunter, second keeper, third keeper, herself, with Mfoniso's own teacher only two apprenticeships past the original hunter (Ep113). Set a firm ten day deadline for Mfoniso's final recommendation on Ijeoma's fate, closed account or continued asset, warning she will decide herself and without patience if the ten days pass unanswered (Ep114). |
 | Mfoniso | Ijoma Concern's retained guardian hunter | Active — the story's current antagonist. Failed to abduct Kene (Ep70) when the presence intervened directly; pivoted to a slow, undetectable working against Zara's borrowed senses instead, confirmed succeeding by Ep77-78. Confirmed as trained in or descended from the same hunting lineage that took the presence's guardian ground three centuries ago (Ep82); revealed to be carrying her own second thread to whoever trained her (Ep83). Breached Idoro's compound directly, seized Adaugo, and struck down Emenike, then fled wounded and shaken when the entity met her in the open for the first time (Ep90). Delivered her account to the Warden in person and received resources beyond anything committed so far, plus confirmation of Ijeoma's location at the Concern's headquarters (Ep93). Current thread: reached the Concern's headquarters and answered the Warden face to face, asking her own question first (what became of the resettled people). Learned her own teacher stands only two apprenticeships removed from the original hunter, collapsing the "one guardian who ever refused to run" story from distant legend to something her teacher likely heard firsthand. Privately now suspects she has spent her career unknowingly finishing that old, unfinished story. Recommended caution rather than closing Ijeoma's account; the Warden agreed to wait, but not indefinitely (Ep113). |
@@ -329,7 +329,7 @@ new name against this list for *sound*, not just spelling.
   active use; if he must reappear, always tag him ("Adaeku, the quiet
   one").
 
-### 5.2 WHO KNOWS WHAT — dramatic irony ledger (as of Episode 114)
+### 5.2 WHO KNOWS WHAT — dramatic irony ledger (as of Episode 115)
 
 Update this table whenever knowledge changes hands. It protects continuity
 (no character may act on a fact this table says they lack) and marks where
@@ -351,6 +351,7 @@ the suspense lives.
 | Mfoniso's private suspicion that the one guardian her teacher's training story always broke off at, the single lineage conquest ever refused, is the same guardian that met her at Idoro's wall (Ep108); deepened by learning her own teacher stands only two apprenticeships removed from the original hunter (Ep113) | Mfoniso only | The household, both powers, the Warden, and the search party have no idea she has begun drawing this connection |
 | The Warden has set a firm ten day deadline (from Ep114) for Mfoniso's final recommendation on Ijeoma's fate | The Warden and Mfoniso | Ijeoma, the household, the search party, and the Factor all remain unaware a clock with an actual number on it is now running |
 | The Factor split the eastern gate's morning post into two shorter watches, folding a second official, unquestionable gap into the handoff between them (Ep114) | The Factor only; Ijeoma has noticed the new pattern but not yet its cause or usefulness | The guard himself does not know why his post changed; the Warden, Mfoniso, and the household have no idea it happened |
+| The presence received a fragment of its own old strength back through Chibundu, including the name of a woman it has not yet explained, and can now reach a short true distance past Oso's border for the first time since Ep70 (Ep115) | The household inside Oso only (Chibundu, the entity, the presence) | The search party, Mfoniso, both Houses, and everyone in Idoro's wider world; the fragment's cause (the search party disproving the old "slaughter" story) is unknown to the party itself |
 | A tension along Mfoniso's second thread to her teacher went slack for the first time in her memory, the night she made camp south on the river road (Ep108); cause unrevealed | No one, including the narration | Mfoniso only knows something moved; she has no name or direction for it |
 | The House holding Ijeoma is the same lineage that emptied the presence's lost ground three centuries ago, confirmed by a matching maker's mark (Ep106) | The search party | The household, the crown, Oso, the Warden, and Mfoniso (who already knows the lineage tie from her own training but does not know the search party has made this connection) |
 | The search party's true purpose and departure (Ep99-100) | The household, the crown | Mfoniso saw a small four man band leave Idoro at a distance (Ep102) but filed it as routine patrol rotation — she does not know it was the search party, or what it is for |
@@ -497,110 +498,16 @@ Keep a running one-line-per-episode log here so continuity can be checked
 at a glance without rereading everything. **This section holds only the
 active arc — roughly the most recent 15-20 episodes.** Everything older
 is archived verbatim in `ARCHIVE.md` under "ARCHIVED CHANGELOG" (see that
-header for its current range, Episodes 1-100 as of this writing); when this
-section grows past ~20 entries, move the oldest ones there following the
-same pattern (see Section 10, step 5).
+header for its current range, Episodes 1-101 plus the Episode 102-140 arc's
+pre-production notes as of this writing); when this section grows past ~20
+entries, move the oldest ones there following the same pattern (see
+Section 10, step 5).
 
 **Note on dates:** the parenthetical dates on episode entries are the
 scheduled Pocket FM release dates (per Section 4's schedule-ahead cadence),
 not writing dates. Writing/commit dates live in git history and are weeks
 to months earlier.
 
-- **Episode 1 TTS pacing restructure (2026-07-17):** Rebuilt Episode 1 to
-  eliminate unnecessary narration pauses reported in the audio: merged
-  single-sentence paragraphs into full beat paragraphs (one hundred twenty
-  two body paragraphs down to eighty one, standalone lines now reserved for
-  dramatic peaks), replaced the thirteen empty spacer paragraphs with
-  spacing-before scene breaks (zero empty paragraphs in the docx), removed
-  all em dashes, and added a tone cue to every dialogue line so the AI
-  voice matches each speaker's emotion. Word count two thousand one
-  hundred forty six, in range. Codified as Section 3.10. No story content
-  changed. The Episode 1 listen test confirmed the improvement.
-- **Episodes 2-10 TTS pacing pass (2026-07-17):** Rolled the Section 3.10
-  fixes out to the next nine episodes after the Episode 1 listen test
-  succeeded. All build scripts now use scene break spacing instead of
-  empty spacer paragraphs (about one hundred spacer paragraphs removed
-  across the nine files; every built docx verified to contain zero empty
-  paragraphs) and lint for dashes, double spaces, and hyphenated words.
-  Roughly fifty em and en dashes rewritten as periods or commas, with
-  dialogue interruptions becoming single ellipses. Every bare quote
-  gained a tone cue; Episode 3's rapid interrogation exchange and Episode
-  9's confession exchange got per speaker attributions. All system status
-  lines converted from typed all caps to sentence case (the caps run
-  property keeps the page look) and given a one line herald in the
-  entity's ledger voice, matching Episode 1. Episodes 2 and 3
-  additionally had one liner paragraph runs merged into beat paragraphs.
-  All nine word counts remain in range. No story content changed.
-- **Episode 101 — "What She Is Worth" (2026-10-16):** The hostage clock
-  starts. At the House's headquarters, the Warden cancels the bracelet
-  proof runs — with Emenike discovered, proof of Ijeoma's life persuades
-  no one — takes the guest's ledger line from the Factor, and leaves
-  Ijeoma's fate explicitly undecided: the House keeps what it might
-  still spend, not what it can only feed. The Factor, arguing in pure
-  cost terms that bodies open accounts rather than close them, passes
-  the guarded courtyard for the first time and recognizes he has signed
-  two seasons of her keeping without ever reading the line as a person.
-  Ijeoma, in her own viewpoint for the first time — nineteen, a cloth
-  trader's daughter who counts everything — deduces from the overdue
-  fifth taking exactly what it means, concludes nobody feeds a witness
-  forever, and quietly begins studying guards, watches, and the wall's
-  one bad corner: done waiting. Four days west, the search party finds
-  a centuries old boundary stone laid deliberately face down, a spiral
-  cut into its buried face; that night Chibundu dreams the stone
-  standing before living ground, and the presence confirms its people
-  cut it — hunters lay a taken ground's marks face down so the land
-  forgets its own name — and that the lost ground lies two days ahead
-  of the search. The episode closes cold on the Warden's ciphered
-  question traveling toward Mfoniso: does the hunt still require the
-  guest kept breathing, or may the House close the account.
-- **Episodes 11-101 TTS pacing pass (2026-07-17):** Completed the Section
-  3.10 rollout across the remaining ninety one episodes, finishing the
-  series-wide audit begun with Episode 1. All build scripts now use scene
-  break spacing instead of empty spacer paragraphs (three hundred ninety
-  four spacers removed; every built docx verified to contain zero empty
-  paragraphs) and lint for dashes, double spaces, and hyphenated words.
-  All forty four system status lines were converted from typed all caps
-  to sentence case (the caps run property keeps the page look) and given
-  a one line herald in the entity's ledger voice, matching Episode 1;
-  the fifteen status lines in Episodes 35-50 that had been typed as
-  plain body paragraphs were also restored to true system formatting.
-  Six em dashes rewritten (dialogue interruptions became single
-  ellipses, per the Episodes 2-10 pattern); one bare quote in Episode 77
-  gained a tone cue; Episode 101, built with no scene breaks at all,
-  gained four. Three spoken episode number references — Section 3.5
-  violations the AI voice would have read aloud ("since Episode eighty
-  two" in Episode 84's narration, "Episode ninety four's reckoning" in
-  Episode 99's, "predates episode thirty six contact" in Episode 37's
-  status line) — were rewritten in world. No story content changed.
-  Known pre existing issue, deliberately not addressed in this pass:
-  eighteen episodes (45, 48, 49, 64, 68, 71, 73, 74, 76, 86, 87, 89,
-  90, 94, 96, 97, 98, 99) sit one to fifteen words under the 1,550
-  word minimum and did so before this pass; fixing them means adding
-  story content and should be its own deliberate pass. (Resolved by
-  the padding pass in the next entry, same day.)
-- **Word count padding pass (2026-07-17):** Resolved the shortfall
-  flagged in the previous entry. Each of the eighteen episodes that had
-  shipped one to fifteen words under the 1,550 word minimum gained one
-  or two added sentences (thirteen to thirty three words each) inside
-  an existing mid episode paragraph — atmosphere, sensory texture, or a
-  small emotional beat in the episode's own voice. No closing hooks
-  were touched, no new plot facts were introduced, and every addition
-  follows the Section 3 audio rules. All eighteen now land between one
-  thousand five hundred sixty two and one thousand five hundred
-  seventy five words; the full series (Episodes 1 through 101) is now
-  verified in the 1,550-2,150 range, lint clean, with zero empty
-  paragraphs in every built docx.
-- **Shared build module extracted (2026-08-06):** Ahead of the Episodes
-  102-140 arc, pulled the ~350 lines of OOXML/docx helper code
-  duplicated in every Episode 1-101 build script into a single
-  `scripts/dr_build.py` module (`make_run`, `make_paragraph`,
-  `build_docx`, `count_words`, `lint_content`, `build_episode`).
-  Existing Episode 1-101 scripts are untouched. New episode scripts
-  import the shared module and define only their content list, episode
-  number, and title. See `docs/superpowers/specs/2026-08-06-episodes-102-140-arc-design.md`
-  for the full arc design (Ijeoma captivity arc and the presence's lost
-  guardian ground resolve as one converging thread across Episodes
-  102-140; no new Section 7 skeleton arc introduced this block).
 - **Episode 102 — "The Shape of Waiting" (2026-10-17):** Opens the
   Episodes 102-140 arc with three parallel watching threads. The
   search party, one day into the two the presence promised, finds an
@@ -785,6 +692,18 @@ to months earlier.
   days out, unknown to the guard now working a schedule reshaped by a
   man who wants nothing from this House but its own overdue
   conscience.
+- **Episode 115 — "A Fragment of What Was Lost" (2026-10-30):** Days
+  after the search party disproved the presence's three century
+  "slaughter" story, a fragment of its own old strength finally finds
+  its way home through Chibundu, unbidden, flooding him with raw
+  memory including a woman's name the presence lets slip and will not
+  yet explain. The gain is real: tested carefully afterward, the
+  presence can now reach a short true distance past Oso's border for
+  the first time since it tore itself loose from Zara to save Kene.
+  The entity notes it has never heard the presence speak this openly
+  of its grief before. Closes on the presence's quiet admission that
+  it would pay the same cost again gladly, and does not yet know what
+  receiving the whole, rather than a fragment, would actually demand.
 
 ---
 
